@@ -17,7 +17,7 @@ __channel__ = "animeworld"
 
 host = "https://www.animeworld.it"
 
-PERPAGE = 20
+PERPAGE = 100
 
 
 # -----------------------------------------------------------------
@@ -28,8 +28,8 @@ def mainlist(item):
             channel=__channel__,
             action="lista_anime",
             title=
-            "[COLOR azure]Anime [/COLOR]- [COLOR lightsalmon]Lista Completa[/COLOR]",
-            url=host + "/animelist?load_all=1",
+            "[COLOR azure]Anime [/COLOR]- [COLOR orange]Lista Completa[/COLOR]",
+            url=host + "/az-list",
             thumbnail=CategoriaThumbnail,
             fanart=CategoriaFanart),
         Item(
@@ -138,18 +138,28 @@ def lista_anime(item):
         item.url, p = item.url.split('{}')
         p = int(p)
 
+    print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaa")
+    print item.url
+
     # Carica la pagina
     data = httptools.downloadpage(item.url).data
 
+
+    # print data
+
     # Estrae i contenuti
-    patron = r'<a href="([^"]+)"[^>]*?>[^>]*?>(.+?)<'
-    matches = re.compile(patron, re.DOTALL).findall(data)
+    patron = r"<a\sclass=\"name\" .* href=\"([^\"]+)\">(.+?)<"
+    matches = re.finditer(patron, data)
 
     scrapedplot = ""
     scrapedthumbnail = ""
-    for i, (scrapedurl, scrapedtitle) in enumerate(matches):
+    for i, match in enumerate(matches):
         if (p - 1) * PERPAGE > i: continue
         if i >= p * PERPAGE: break
+
+        scrapedtitle = match.group(2)
+        scrapedurl = match.group(1)
+
         title = scrapertools.decodeHtmlentities(scrapedtitle).strip()
         itemlist.append(
             infoSod(
@@ -174,7 +184,7 @@ def lista_anime(item):
                 title="[COLOR yellow]Torna Home[/COLOR]",
                 folder=True)),
 
-    if len(matches) >= p * PERPAGE:
+    if len(list(matches)) >= p * PERPAGE:
         scrapedurl = item.url + '{}' + str(p + 1)
         itemlist.append(
             Item(
