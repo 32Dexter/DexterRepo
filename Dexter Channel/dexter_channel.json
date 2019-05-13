@@ -2,30 +2,14 @@
   "channel_name": "Dexter Channel",
   "fanart": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_wallpaper.jpg",
   "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg",
-  "movies_list": [
+  "menu": [
     {
-      "title": "South Park Il film: piu grosso, piu lungo & tutto intero",
-      "year": "1999",
-      "links": [
-        {
-          "url": "https://oload.fun/f/DDIykTrmHRw",
-          "quality":"720"
-        }
-      ]
+      "title": "Film",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/movie.json"
     },
     {
-      "title": "Lego Movie",
-      "year": "2014",
-      "links": [
-        {
-          "url": "https://speedvideo.net/ghfn3pj24bfu",
-          "quality":"720"
-        },
-        {
-          "url": "https://openload.co/f/qzQQQEDMqC8/",
-          "quality":"FHD"
-        }
-      ]
+      "title": "Serie",
+      "link": ""
     }
   ]
 }
