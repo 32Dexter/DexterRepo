@@ -1,32 +1,33 @@
 {
+  "channel_name": "Dexter Channel",
   "movies_list": [
     {
       "title": "South Park Il film: piu grosso, piu lungo & tutto intero",
       "year": "1999",
-      "language":"italian",
-      "quality": "DvdRip",
+      "language":"LAT",
+      "quality": "720",
       "links": [
         {
           "url": "https://oload.fun/f/DDIykTrmHRw",
-          "language": "italian",
-          "quality":"DvdRip"
+          "language": "LAT",
+          "quality":"720"
         }
       ]
     },
     {
       "title": "Lego Movie",
       "year": "2014",
-      "language":"italian",
+      "language":"LAT",
       "links": [
         {
           "url": "https://speedvideo.net/ghfn3pj24bfu",
-          "language": "italian",
-          "quality":"Dvdrip"
+          "language": "LAT",
+          "quality":"720"
         },
         {
           "url": "https://openload.co/f/qzQQQEDMqC8/",
-          "language": "italian",
-          "quality":"Full HD"
+          "language": "LAT",
+          "quality":"FHD"
         }
       ]
     }
