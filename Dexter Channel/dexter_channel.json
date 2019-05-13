@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Film",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/movie.json"
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/movie.json",
       "poster": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg"
     },
     {
