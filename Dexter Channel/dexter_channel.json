@@ -1,38 +1,32 @@
 {
   "movies_list": [
     {
-      "title": "titulo de la película o vídeo",
-      "year": "año de la película (opcional)",
-      "language":"idioma(opcional)"
-      "quality": "calidad(opcional)",
+      "title": "South Park Il film: piu grosso, piu lungo & tutto intero",
+      "year": "1999",
+      "language":"italian",
+      "quality": "DvdRip",
       "links": [
         {
-          "url": "url de la película",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
+          "url": "https://oload.fun/f/DDIykTrmHRw",
+          "language": "italian",
+          "quality":"DvdRip"
         },
-        {
-          "url": "otra url de la película opcionales, se pueden agregar tantos links como se deseen, repitiendo la estructura y separando por ,",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
-        }
       ]
     },
     {
-      "title": "titulo de otra la película o vídeo, se pueden agregar tantos como se desee, repitiendo la estructura y separando por ,",
-      "year": "año de la película (opcional)",
-      "language":"idioma(opcional)"
-      "quality": "calidad(opcional)",
+      "title": "Lego Movie",
+      "year": "2014",
+      "language":"italian",
       "links": [
         {
-          "url": "url de la película",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
+          "url": "https://speedvideo.net/ghfn3pj24bfu",
+          "language": "italian",
+          "quality":"Dvdrip"
         },
         {
-          "url": "(opcional) Otra url de la película , se pueden agregar tantos links como se deseen, repitiendo la estructura y separando por ,",
-          "language": "idioma (opcional)",
-          "quality":"calidad (opcional)"
+          "url": "https://openload.co/f/qzQQQEDMqC8/",
+          "language": "italian",
+          "quality":"Full HD"
         }
       ]
     }
