@@ -6,11 +6,12 @@
     {
       "title": "Film",
       "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/movie.json",
-      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
     },
     {
       "title": "Serie",
       "link": ""
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/series.png"
     }
   ]
 }
