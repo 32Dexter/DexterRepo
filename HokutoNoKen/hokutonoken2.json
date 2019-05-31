@@ -1,0 +1,39 @@
+{
+  "episodes_list": [
+    {
+		"number": "01",
+		"title": "...e la vita continua",
+		"links": [
+			{
+				"url": "https://www.dailymotion.com/video/x5xqbb1?playlist=x512ge"
+			}
+		]
+	},
+	{
+		"number": "02",
+		"title": "Ritorno di fiamma",
+		"links": [
+			{
+				"url": "https://www.dailymotion.com/video/x5xw1zw?playlist=x512ge"
+			}
+				]
+	},
+	{
+		"number": "03",
+		"title": "La salvezza viene dal nord",
+		"links": [
+			{
+				"url": "https://www.dailymotion.com/video/x5xw20k?playlist=x512ge"
+			}
+				]
+	},
+	{
+		"number": "04",
+		"title": "I cacciatori di taglie",
+		"links": [
+			{
+				"url": "https://www.dailymotion.com/video/x5xw214?playlist=x512ge"
+			}
+				]
+	}
+}
