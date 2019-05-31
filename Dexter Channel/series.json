@@ -1,26 +1,10 @@
 {
-  "movies_list": [
-    {
-      "title": "South Park Il film: piu grosso, piu lungo & tutto intero",
-      "year": "1999",
-      "links": [
+  "tvshows_list": [
+    { "title":"Ken Shiro",
+      "seasons_list": [
         {
-          "url": "https://oload.fun/f/DDIykTrmHRw",
-          "quality":"720"
-        }
-      ]
-    },
-    {
-      "title": "Lego Movie",
-      "year": "2014",
-      "links": [
-        {
-          "url": "https://speedvideo.net/ghfn3pj24bfu",
-          "quality":"720"
-        },
-        {
-          "url": "https://openload.co/f/qzQQQEDMqC8/",
-          "quality":"FHD"
+          "season": "2",
+          "link": "https://textuploader.com/1d4zt/raw"
         }
       ]
     }
