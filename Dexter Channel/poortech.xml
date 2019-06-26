@@ -3,7 +3,7 @@
   <link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_VH1_IT.png/320px-Logo_VH1_IT.png<thumbnail>
   <fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
   <externallink></externallink>
 </item>
 
@@ -12,7 +12,7 @@
   <inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
   <thumbnail>https://upload.wikimedia.org/wikipedia/it/e/ea/7gold_logo_trasparente.png<thumbnail>
   <fanart>http://www.7goldtelepadova.tv/wp-content/uploads/2012/10/121016-DS-news1.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
   <externallink></externallink>
 </item>
 
@@ -21,7 +21,7 @@
   <link>https://5cdb29755e02b.streamlock.net:1936/telechiara/diretta/chunklist_w1502999585.m3u8</link>
   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png<thumbnail>
   <fanart>https://www.mariobonelli.com/wp-content/uploads/2015/12/telechiara_logo-1.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
   <externallink></externallink>
 </item>
 
@@ -30,7 +30,7 @@
   <link>http://superstreaming.inaria.me/CaseDesignStili/tracks-v1a1/mono.m3u8</link>
   <thumbnail>http://almamediaitalia.it/wp-content/uploads/2017/05/CASE_DESIGN_STILI_petrolio-300x95.png<thumbnail>
   <fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
   <externallink></externallink>
 </item>
 
@@ -39,7 +39,7 @@
   <utube>21X5lGlDOfg</utube>
   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png<thumbnail>
   <fanart>https://www.repstatic.it/content/nazionale/img/2019/01/25/170900222-0a7d4ad5-aedf-4757-87f3-44309f4ca6f2.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
 </item>
 
 <item>
@@ -47,7 +47,7 @@
   <utube>oZzQC8NVTeM</utube>
   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
   <fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
 </item>
 
 <item>
@@ -55,5 +55,5 @@
   <utube>PLtGG2F9Ym56T_9RRLeSS8fO2sJSzUVNGh</utube>
   <thumbnail>http://www.ludicious.ch/inhalte/uploads/2018/01/web-logo-gamesvillage.png<thumbnail>
   <fanart>http://www.gamesvillage.it/wp-content/uploads/2019/06/Watch-Dogs-Legion_Cover.jpg</fanart>
-  <epgfile>http://www.arthasdesign.it/epg/guide.xml</epgfile>
+    <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
 </item>
