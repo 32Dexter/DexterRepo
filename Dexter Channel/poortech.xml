@@ -1,6 +1,6 @@
 <epg>
-<tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
-<tvgshift>0</tvgshift>
+  <tvgurl>http://www.arthasdesign.it/epg/guide.xml</tvgurl>
+  <tvgshift>0</tvgshift>
 </epg>
 
 <epgitem>
