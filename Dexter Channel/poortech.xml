@@ -1,36 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
+<item>
+<title>[COLOR blueviolet]VH+1[/COLOR]</title>
+<link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_VH1_IT.png/320px-Logo_VH1_IT.png<thumbnail>
+<fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
+<externallink></externallink>
+</item>
 
-    <item>
-        <title>POKER CHANNEL</title>
-        <link>mms://some/place/pokerchannel</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Poker</genre>
-        <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million
-              cable and satellite homes in Europe and Latin America.</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>http://fanart.jpg</fanart>
-    </item>
+<item>
+<title>[COLOR gold]7 Gold[/COLOR]</title>
+<inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/e/ea/7gold_logo_trasparente.png<thumbnail>
+<fanart>http://www.7goldtelepadova.tv/wp-content/uploads/2012/10/121016-DS-news1.jpg</fanart>
+<externallink></externallink>
+</item>
 
-        <item>
-        <title>NHK - World</title>        
-        <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
-        <thumbnail>http://header_logo.gif</thumbnail>
-    </item>
+<item>
+<title>[COLOR lightskyblue]TeleChiara[/COLOR]</title>
+<link>https://5cdb29755e02b.streamlock.net:1936/telechiara/diretta/chunklist_w1502999585.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png<thumbnail>
+<fanart>https://www.mariobonelli.com/wp-content/uploads/2015/12/telechiara_logo-1.jpg</fanart>
+<externallink></externallink>
+</item>
 
-    <item>
-        <title>BBC World</title>        
-        <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-
-               english" swfVfy=true live=true</link>
-        <thumbnail>http://some/place.jpg</thumbnail>   
-</items>
+<item>
+<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
+<link>http://superstreaming.inaria.me/CaseDesignStili/tracks-v1a1/mono.m3u8</link>
+<thumbnail>http://almamediaitalia.it/wp-content/uploads/2017/05/CASE_DESIGN_STILI_petrolio-300x95.png<thumbnail>
+<fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue]NASA TV[/COLOR]</title>
+<utube>21X5lGlDOfg</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png<thumbnail>
+<fanart>https://www.repstatic.it/content/nazionale/img/2019/01/25/170900222-0a7d4ad5-aedf-4757-87f3-44309f4ca6f2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]NCS Radio[/COLOR]</title>
+<utube>oZzQC8NVTeM</utube>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
+<fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Games[/COLOR] [COLOR azure]Village[/COLOR]</title>
+<utube>PLtGG2F9Ym56T_9RRLeSS8fO2sJSzUVNGh</utube>
+<thumbnail>http://www.ludicious.ch/inhalte/uploads/2018/01/web-logo-gamesvillage.png<thumbnail>
+<fanart>http://www.gamesvillage.it/wp-content/uploads/2019/06/Watch-Dogs-Legion_Cover.jpg</fanart>
+</item>
