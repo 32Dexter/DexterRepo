@@ -1,43 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item>
-  <title>[COLOR darkred]Senato 1[/COLOR]</title>
-  <utube>RrvX8yxO4k8</utube>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
-  <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-</item>
+<list>
+  <item>
+    <title>[COLOR darkred]Senato 1[/COLOR]</title>
+    <utube>RrvX8yxO4k8</utube>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
+    <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+  </item>
 
-<item>
-  <title>[COLOR darkred]Senato 2[/COLOR]</title>
-  <utube>NgNomj0RQqo</utube>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png<thumbnail>
-  <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-</item>
+  <item>
+    <title>[COLOR darkred]Senato 2[/COLOR]</title>
+    <utube>NgNomj0RQqo</utube>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
+    <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+  </item>
 
-<item>
-  <title>[COLOR darkred]Senato 3[/COLOR]</title>
-  <utube>qC2mSDLQAxM</utube>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png<thumbnail>
-  <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-</item>
+  <item>
+    <title>[COLOR darkred]Senato 3[/COLOR]</title>
+    <utube>qC2mSDLQAxM</utube>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
+    <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+  </item>
 
-<item>
-  <title>[COLOR darkred]Senato 4[/COLOR]</title>
-  <utube>oZzQC8NVTeM</utube>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png<thumbnail>
-  <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-</item>
+  <item>
+    <title>[COLOR darkred]Senato 4[/COLOR]</title>
+    <utube>oZzQC8NVTeM</utube>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
+    <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+  </item>
 
-<item>
-  <title>[COLOR darkred]Senato 4[/COLOR]</title>
-  <utube>jxLSiaQpHCs</utube>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png<thumbnail>
-  <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-</item>
+  <item>
+    <title>[COLOR darkred]Senato 4[/COLOR]</title>
+    <utube>jxLSiaQpHCs</utube>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/b/b0/Logo_del_Senato_della_Repubblica_Italiana.svg/1024px-Logo_del_Senato_della_Repubblica_Italiana.svg.png</thumbnail>
+    <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+  </item>
 
-<item>
-  <title>[COLOR darkblue]Camera dei deputati[/COLOR]</title>
-  <utube>WVjdPb7F4uY</utube>
-  <thumbnail>http://www.buongiornoceramica.it/wp-content/uploads/2016/02/LOGO-CD-pieno-blu-quadrato.jpg<thumbnail>
-  <fanart>https://static.italiaoggi.it/content_upload/img/2018/07/201807052038532141/Montecitorio-Aula-221377.jpg</fanart>
-</item>
+  <item>
+    <title>[COLOR darkblue]Camera dei deputati[/COLOR]</title>
+    <utube>WVjdPb7F4uY</utube>
+    <thumbnail>http://www.buongiornoceramica.it/wp-content/uploads/2016/02/LOGO-CD-pieno-blu-quadrato.jpg</thumbnail>
+    <fanart>https://static.italiaoggi.it/content_upload/img/2018/07/201807052038532141/Montecitorio-Aula-221377.jpg</fanart>
+  </item>
+</list>
