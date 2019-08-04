@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="sportitalia.com" tvg-name="Sport Italia HD" tvg-logo="https://www.sportitalia.com/image/original/5cd43a9ee9cc9.png?v=20190509143512" group-title="Sport Italia",Sport Italia HD
-https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/playlist.m3u8?cid=27725&mid=&ecid=181938&pid=5&dtid=1&ident=839232742151&hdnea=exp=1564917342~acl=/hls/live/2006297/spottsportitaliahls01/*~hmac=64ef48ef34b025f4510ddfd7d2bf2dd3f273b9719a58a7bad469bc2cc9d0cd9a&content=57561
+https://www.sportitalia.com/api/video/57561/access?device_category_id=1
 #EXTINF:-1 tvg-ID="sportitalia.com" tvg-name="Sport Italia SOLO CALCIO" tvg-logo="https://www.sportitalia.com/image/original/5d148c8e81ba4.png?v=20190627092951" group-title="Sport Italia",Sport Italia SOLO CALCIO
-https://spottsportitalia.akamaized.net/hls/live/2006298/spottsportitaliahls02/playlist.m3u8?cid=27725&mid=&ecid=181940&pid=5&dtid=1&ident=642370032453&hdnea=exp=1564917364~acl=/hls/live/2006298/spottsportitaliahls02/*~hmac=6bb95b81730163dde5a8c2e2f0f9a48659b80e724240e270b633c6695794ec22&content=57564
+https://www.sportitalia.com/api/video/57564/access?device_category_id=1
 #EXTINF:-1 tvg-ID="sportitalia.com" tvg-name="Sport Italia MOTORI" tvg-logo="https://www.sportitalia.com/image/original/5d148ad43f988.png?v=20190627092229" group-title="Sport Italia",Sport Italia MOTORI
-https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/playlist.m3u8?cid=27725&mid=&ecid=181944&pid=5&dtid=1&ident=699697122958&hdnea=exp=1564925146~acl=/hls/live/2006300/spottsportitaliahls04/*~hmac=01de0740406d06ffea712767f4842fe20676e3cd0a3defbe2c65a499f017fdab&content=57568
+https://www.sportitalia.com/api/video/57568/access?device_category_id=1
 #EXTINF:-1 tvg-ID="sportitalia.com" tvg-name="Sport Italia LIVE 24" tvg-logo="https://www.sportitalia.com/image/original/5d148c147531b.png?v=20190627092749" group-title="Sport Italia",Sport Italia LIVE 24
-https://spottsportitalia.akamaized.net/hls/live/2006299/spottsportitaliahls03/playlist.m3u8?cid=27725&mid=&ecid=181948&pid=5&dtid=1&ident=721643717040&hdnea=exp=1564917407~acl=/hls/live/2006299/spottsportitaliahls03/*~hmac=ed2220d3b936ad1b538dff8e77f80d2c143b1720bc882711903d3031ba48faeb&content=57570
+https://www.sportitalia.com/api/video/57570/access?device_category_id=1
