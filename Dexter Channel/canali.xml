@@ -19,9 +19,15 @@
 	</item>
 	<item>
 		<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
-		<link>http://superstreaming.inaria.me/CaseDesignStili/tracks-v1a1/mono.m3u8</link>
+		<link>https://backup.superstreaming.inaria.me/CaseDesignStili/Manifest.mpd</link>
 		<thumbnail>http://almamediaitalia.it/wp-content/uploads/2017/05/CASE_DESIGN_STILI_petrolio-300x95.png<thumbnail>
 		<fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
+	</item>
+	<item>
+		<title>[COLOR deepskyblue]Marco Polo[/COLOR]</title>
+		<link>https://backup.superstreaming.inaria.me/Marcopolo/Manifest.mpd</link>
+		<thumbnail>https://www.mantovanotizie.com/wp-content/uploads/marcopolo-tv.jpg<thumbnail>
+		<fanart>http://almamediaitalia.it/wp-content/uploads/2017/10/marcopolo-live-streaming.jpg</fanart>
 	</item>
 	<item>
 		<title>[COLOR blue]NASA TV[/COLOR]</title>
