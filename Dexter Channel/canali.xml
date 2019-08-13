@@ -18,6 +18,12 @@
 		<fanart>https://www.mariobonelli.com/wp-content/uploads/2015/12/telechiara_logo-1.jpg</fanart>	
 	</item>
 	<item>
+		<title>[COLOR gold]Gold TV[/COLOR]</title>
+		<link>http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8</link>
+		<thumbnail>http://www.newtuscia.it/wp-content/uploads/2018/11/gold-tv.png<thumbnail>
+		<fanart>http://www.goldtv.it/images/copertina%202050%20x%201015.png</fanart>	
+	</item>			
+	<item>
 		<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
 		<inputstream>https://backup.superstreaming.inaria.me/CaseDesignStili/Manifest.mpd</inputstream>
 		<thumbnail>http://almamediaitalia.it/wp-content/uploads/2017/05/CASE_DESIGN_STILI_petrolio-300x95.png<thumbnail>
