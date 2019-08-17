@@ -6,12 +6,6 @@
 		<fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
 	</item>
 	<item>
-		<title>[COLOR azure]TV8[/COLOR]</title>
-		<link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</link>
-		<thumbnail>https://www.thismarketerslife.it/site/wp-content/uploads/2016/03/TV8.jpg<thumbnail>
-		<fanart>https://www.iltabloid.it/wp-content/uploads/2016/06/tv8.jpg</fanart>
-	</item>		
-	<item>
 		<title>[COLOR gold]7 Gold[/COLOR]</title>
 		<inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/it/e/ea/7gold_logo_trasparente.png<thumbnail>
@@ -28,7 +22,13 @@
 		<link>http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8</link>
 		<thumbnail>http://www.newtuscia.it/wp-content/uploads/2018/11/gold-tv.png<thumbnail>
 		<fanart>http://www.goldtv.it/images/copertina%202050%20x%201015.png</fanart>	
-	</item>			
+	</item>	
+	<item>
+		<title>[COLOR orange]Alice[/COLOR]</title>
+		<inputstream>https://stream.next-sys.it:8443/live/alice/index.mpd</inputstream>
+		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alice.png<thumbnail>
+		<fanart>https://www.alice.tv/img/cache/920x250/media/images/cucina-alice2.jpg</fanart>
+	</item>		
 	<item>
 		<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
 		<inputstream>https://stream.next-sys.it:8443/live/case/index.mpd</inputstream>
@@ -76,5 +76,11 @@
 		<utube>PLtGG2F9Ym56T_9RRLeSS8fO2sJSzUVNGh</utube>
 		<thumbnail>http://www.ludicious.ch/inhalte/uploads/2018/01/web-logo-gamesvillage.png<thumbnail>
 		<fanart>http://www.gamesvillage.it/wp-content/uploads/2019/06/Watch-Dogs-Legion_Cover.jpg</fanart>
+	</item>
+	<item>
+		<title>[COLOR red]Test[/COLOR]</title>
+		<utube>PLuq_rgCzEP_NBRjFMklzlMaFajjyV-OoL</utube>
+		<thumbnail><thumbnail>
+		<fanart></fanart>
 	</item>
 </items>
