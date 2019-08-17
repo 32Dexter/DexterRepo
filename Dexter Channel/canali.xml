@@ -6,6 +6,12 @@
 		<fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
 	</item>
 	<item>
+		<title>[COLOR azure]TV8[/COLOR]</title>
+		<link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1566052575~exp=1566052875~acl=/*~hmac=1015f0b66b01f4197c2f641c5b72b5e80647fd8f2c2c2048ec559b1c60d5d128&Origin=tv8.it</link>
+		<thumbnail><thumbnail>
+		<fanart></fanart>
+	</item>		
+	<item>
 		<title>[COLOR gold]7 Gold[/COLOR]</title>
 		<inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/it/e/ea/7gold_logo_trasparente.png<thumbnail>
