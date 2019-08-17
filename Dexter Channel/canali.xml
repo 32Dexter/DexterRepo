@@ -71,4 +71,8 @@
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
 		<fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
 	</item>
+	<item>
+		<title>[COLOR red]TEST F4M[/COLOR]</title>
+		<link>plugin://plugin.video.f4mTester/?url=https%3A%2F%2Fskyanywhere3-i.akamaihd.net%2Fhls%2Flive%2F510694%2Fmtv8sdlive%2Findex.m3u8</link>
+	</item>
 </items>
