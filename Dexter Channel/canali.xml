@@ -71,22 +71,4 @@
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
 		<fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
 	</item>
-	<item>
-		<title>[COLOR red]Games[/COLOR] [COLOR azure]Village[/COLOR]</title>
-		<utube>PLtGG2F9Ym56T_9RRLeSS8fO2sJSzUVNGh</utube>
-		<thumbnail>http://www.ludicious.ch/inhalte/uploads/2018/01/web-logo-gamesvillage.png<thumbnail>
-		<fanart>http://www.gamesvillage.it/wp-content/uploads/2019/06/Watch-Dogs-Legion_Cover.jpg</fanart>
-	</item>
-	<item>
-		<title>[COLOR red]Test[/COLOR]</title>
-		<utube>PLw7UJp1sQuY4ZkLHXbxY2jel7Ym6j56P5</utube>
-		<thumbnail><thumbnail>
-		<fanart></fanart>
-	</item>
-	<item>
-		<title>[COLOR aquamarine]Test 2[/COLOR]</title>
-		<inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</inputstream>
-		<thumbnail><thumbnail>
-		<fanart></fanart>
-	</item>
 </items>
