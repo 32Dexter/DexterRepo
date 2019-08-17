@@ -31,7 +31,7 @@
 	</item>			
 	<item>
 		<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
-		<inputstream>https://backup.superstreaming.inaria.me/CaseDesignStili/Manifest.mpd</inputstream>
+		<inputstream>https://stream.next-sys.it:8443/live/case/index.mpd</inputstream>
 		<thumbnail>http://almamediaitalia.it/wp-content/uploads/2017/05/CASE_DESIGN_STILI_petrolio-300x95.png<thumbnail>
 		<fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
 	</item>
