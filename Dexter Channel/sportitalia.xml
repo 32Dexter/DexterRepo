@@ -1,0 +1,27 @@
+<items>
+	<item>
+		<title>[COLOR azure]Sport Italia HD[/COLOR]</title>
+		<inputstream>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/playlist.m3u8</inputstream>
+		<thumbnail>https://www.sportitalia.com/image/original/5cd43a9ee9cc9.png?v=20190509143512<thumbnail>
+	</item>
+  <item>
+		<title>[COLOR azure]Sport Italia SOLO CALCIO[/COLOR]</title>
+		<inputstream></inputstream>
+		<thumbnail>https://www.sportitalia.com/image/original/5d148c8e81ba4.png?v=20190627092951<thumbnail>
+	</item>
+  <item>
+		<title>[COLOR azure]Sport Italia MOTORI[/COLOR]</title>
+		<inputstream></inputstream>
+		<thumbnail>https://www.sportitalia.com/image/original/5d148ad43f988.png?v=20190627092229<thumbnail>
+	</item>
+  <item>
+		<title>[COLOR azure]Sport Italia LIVE 24[/COLOR]</title>
+		<inputstream></inputstream>
+		<thumbnail>https://www.sportitalia.com/image/original/5d148c147531b.png?v=20190627092749<thumbnail>
+	</item>
+</items>
+
+#https://www.sportitalia.com/api/video/57561/access?device_category_id=1
+#https://www.sportitalia.com/api/video/57564/access?device_category_id=1
+#https://www.sportitalia.com/api/video/57568/access?device_category_id=1
+#https://www.sportitalia.com/api/video/57570/access?device_category_id=1
