@@ -47,8 +47,8 @@
     
     <channel>
     <name>Canali Italiani</name>
-    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/roma.jpg</thumbnail>
+    <fanart>https://i.pinimg.com/originals/9f/2d/fd/9f2dfd08494a7c8be19b59a63b1799c6.jpg</fanart>
         <items>
             <item>
 		        <title>[COLOR blueviolet]VH+1[/COLOR]</title>
@@ -139,8 +139,8 @@
 
     <channel>
     <name>Canali Esteri</name>
-    <thumbnail>http://television.png</thumbnail>
-    <fanart>http://fanart.jpg</fanart>
+    <thumbnail>https://www.logolynx.com/images/logolynx/f7/f7c84eb5255d0cbf847d33d511b0a0ac.png</thumbnail>
+    <fanart>http://www.on-school.com/blog/wp-content/uploads/2014/12/000160188_prevstill1.jpeg</fanart>
         <items>
             <item>
 		        <title>[COLOR red]Red[/COLOR][COLOR blue]Bull[/COLOR]</title>
@@ -171,8 +171,8 @@
 
     <channel>
     <name>Canali Radio</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+    <thumbnail>https://cdn.shopify.com/s/files/1/1095/6418/products/3d-397-300dpi_740x.jpg?v=1529607048</thumbnail>
+    <fanart>https://images5.alphacoders.com/348/thumb-1920-348697.jpg</fanart>
         <items>
             <item>
 		        <title>[COLOR red]NCS Radio[/COLOR]</title>
