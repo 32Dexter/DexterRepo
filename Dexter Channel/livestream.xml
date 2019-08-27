@@ -167,11 +167,17 @@
 		        <fanart>https://www.jpl.nasa.gov/about/then-now/images/9b.jpg</fanart>
             </item>
             <item>
-		        <title>[COLOR blue]Agência Espacial Brasileira[/COLOR]</title>
+		        <title>[COLOR blue]Agencia Espacial Brasileira[/COLOR]</title>
 		        <utube>O-i8c_YiCGQ</utube>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-            </item>							
+		        <thumbnail>http://www.ikhon.com.br/site/wp-content/uploads/2014/05/AEB1.jpg<thumbnail>
+		        <fanart>http://portal-antigo.aeb.gov.br/wp-content/uploads/2015/02/AEB-Entrada1.jpg</fanart>
+            </item>
+            <item>
+		        <title>[COLOR blue]International Space Station[/COLOR]</title>
+		        <utube>OHYHq4E9wcY</utube>
+		        <thumbnail>http://uufm.net/wp-content/uploads/2017/06/iss_logo.jpg<thumbnail>
+		        <fanart>https://1843magazine.static-economist.com/sites/default/files/styles/article-main-image-overlay/public/ISS-RT.jpg</fanart>
+            </item>		
         </items>   
     </channel>
 
