@@ -145,25 +145,25 @@
 
     <channel>
     <name>Canali Esteri</name>
-    <thumbnail>https://www.logolynx.com/images/logolynx/f7/f7c84eb5255d0cbf847d33d511b0a0ac.png</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/globe.jpg</thumbnail>
     <fanart>http://www.on-school.com/blog/wp-content/uploads/2014/12/000160188_prevstill1.jpeg</fanart>
         <items>
             <item>
 		        <title>[COLOR red]Red[/COLOR][COLOR blue]Bull[/COLOR]</title>
 		        <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8</link>
-		        <thumbnail>https://seeklogo.com/images/R/red-bull-logo-00BE208AF1-seeklogo.com.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/bull.jpg<thumbnail>
 		        <fanart>https://avante.biz/wp-content/uploads/Red-Bull-Wallpaper/Red-Bull-Wallpaper-001.jpg</fanart>
             </item>
             <item>
 		        <title>[COLOR blue]NASA TV[/COLOR]</title>
 		        <utube>21X5lGlDOfg</utube>
-		        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
 		        <fanart>https://www.repstatic.it/content/nazionale/img/2019/01/25/170900222-0a7d4ad5-aedf-4757-87f3-44309f4ca6f2.jpg</fanart>
             </item>
             <item>
 		        <title>[COLOR blue]NASA Media Channel[/COLOR]</title>
 		        <utube>nA9UZF-SZoQ</utube>
-		        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
 		        <fanart>https://i.pinimg.com/originals/7e/e6/ff/7ee6ffaeaba562069a5b1260b443c76b.jpg</fanart>
             </item>
             <item>
