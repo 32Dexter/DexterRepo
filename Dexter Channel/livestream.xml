@@ -8,9 +8,9 @@
     </channels_info>
     
     <channel>
-    <name>Senato e Camera</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+    <name>Camera & Senato</name>
+    <thumbnail>https://formazionelavoro.regione.emilia-romagna.it/sito-fse/POR-2014-2020/allegati/loghi/Logo_Repubblica_italiana.jpg/@@images/image.jpeg</thumbnail>
+    <fanart>http://www.associazionemazziniana.it/wp-content/uploads/2016/10/repubblicaitaliana-600x360.jpg</fanart>
         <items>
             <item>
                 <title>[COLOR darkred]Senato 1[/COLOR]</title>
