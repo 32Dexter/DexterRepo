@@ -1,16 +1,14 @@
 <channels>
-    <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
+    <channels_info>
+      <title>Dexter32 Playlist</title>
+      <description>Lista canali Italiani e stranieri</description>
+      <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg</thumbnail>
+      <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_wallpaper.jpg</fanart>
+      <date>27.08.2019</date>
     </channels_info>
 
     <channel>
-    <name>News</name>
+    <name>Canali Italiani</name>
     <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
     <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
         <items>
@@ -35,7 +33,7 @@
     </channel>
 
     <channel>
-    <name>Television</name>
+    <name>Canali Esteri</name>
     <thumbnail>http://television.png</thumbnail>
     <fanart>http://fanart.jpg</fanart>
     <subchannel>
