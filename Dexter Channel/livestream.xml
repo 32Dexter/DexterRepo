@@ -47,25 +47,25 @@
     
     <channel>
     <name>Canali Italiani</name>
-    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/roma.jpg</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/ita.jpg</thumbnail>
     <fanart>https://i.pinimg.com/originals/9f/2d/fd/9f2dfd08494a7c8be19b59a63b1799c6.jpg</fanart>
         <items>
             <item>
 		        <title>[COLOR blueviolet]VH+1[/COLOR]</title>
 		        <link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
-		        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_VH1_IT.png/320px-Logo_VH1_IT.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/VH1.jpg<thumbnail>
 		        <fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
 	        </item>		
             <item>
 		        <title>[COLOR gold]7 Gold[/COLOR]</title>
 		        <inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
-		        <thumbnail>https://upload.wikimedia.org/wikipedia/it/e/ea/7gold_logo_trasparente.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/7gold.jpg<thumbnail>
 		        <fanart>https://lh5.googleusercontent.com/-FZyFVAOgKKs/UiOlD20-v1I/AAAAAAADZKU/SmoVtlqcsTs/s1600/92%2520C.jpg</fanart>
 	        </item>				
 	        <item>
 		        <title>[COLOR gold]78 Gold[/COLOR]</title>
 		        <inputstream>https://nimble2.xdevel.com/gold78/stream/manifest.mpd</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/logo78.png<thumbnail>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/logo78.jpg<thumbnail>
 		        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wallpaper78.jpg</fanart>
             </item>
 	        <item>
