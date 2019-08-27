@@ -166,6 +166,12 @@
 		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/JPL.jpg<thumbnail>
 		        <fanart>https://www.jpl.nasa.gov/about/then-now/images/9b.jpg</fanart>
             </item>
+            <item>
+		        <title>[COLOR blue]Agência Espacial Brasileira[/COLOR]</title>
+		        <utube>O-i8c_YiCGQ</utube>
+		        <thumbnail><thumbnail>
+		        <fanart></fanart>
+            </item>							
         </items>   
     </channel>
 
