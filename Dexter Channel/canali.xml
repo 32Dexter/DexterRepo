@@ -45,7 +45,7 @@
 		<title>[COLOR deeppink]Wine Channel[/COLOR]</title>
 		<link>http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8</link>
 		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/winechannel.jpg<thumbnail>
-		<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/red-wine.jpg</fanart>
+		<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/red_wine.jpg</fanart>
 	</item>		
 	<item>
 		<title>[COLOR orange]Alice[/COLOR]</title>
