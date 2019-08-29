@@ -129,8 +129,8 @@
 		        <fanart>https://www.mediapason.it/wp-content/uploads/2018/02/top-calcio-la-piu-vista.jpg</fanart>
 	        </item>	
 	        <item>
-		        <title>[COLOR yellow]SI Sport Italia[/COLOR]</title>
-		        <inputstream>https://1.ip2stream.icu/live/sport_italia/playlist.m3u8</inputstream>
+		        <title>[COLOR azure]SI Sport Italia[/COLOR]</title>
+		        <link>https://1.ip2stream.icu/live/sport_italia/playlist.m3u8</link>
 		        <thumbnail><thumbnail>
 		        <fanart></fanart>
 	        </item>			
