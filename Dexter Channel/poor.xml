@@ -1,4 +1,10 @@
-<item>
-  <title>Test1</title>
-  <inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</inputstream>
-</item>
+<items>
+  <item>
+    <title>Test1</title>
+    <inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</inputstream>
+  </item>
+  <item>
+    <title>Test2</title>
+    <link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</link>
+  </item>
+</items>
