@@ -147,7 +147,6 @@
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Fox HD[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/fox_hd/playlist.m3u8</link>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/sky-calcio-in-diretta</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png</thumbnail>
   </item>
   <item>
@@ -175,40 +174,60 @@
     <link>https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXANIMATION.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Fox Comedy HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8$$lsname=Fox Comedy HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Lei TV[/B][/COLOR]</title>
-<link>http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8$$lsname=Lei TV (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LEITV.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Diva Universal[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/la7$$lsname=Diva Universal (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Auto Moto TV[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8$$lsname=Auto Moto TV (HTTP source #01)</link>
-#N/D
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Man-ga[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8$$lsname=Man-ga (HTTP source #01)</link>
-<link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8$$lsname=Man-ga (HTTP source #02)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8$$lsname=Man-ga (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MAN-GA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Deejay TV[/B][/COLOR]</title>
-<link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8$$lsname=Deejay TV (HTTP source #01)</link>
-<link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8$$lsname=Deejay TV (HTTP source #02)</link>
-#N/D
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Alice[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/alice_hd/playlist.m3u8$$lsname=Alice (HTTP source #01)</link>
-<link>http://superstreaming.inaria.me/Alice/Manifest.m3u8$$lsname=Alice (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 24[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8$$lsname=Sky Sport 24 (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/AeLroKj.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 1 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_sport_uno_hd/chunks.m3u8$$lsname=Sky Sport 1 HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport F1 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_sport_f1_hd/chunks.m3u8$$lsname=Sky Sport F1 HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Fox Comedy HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Lei TV[/B][/COLOR]</title>
+    <link>http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LEITV.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Diva Universal[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/la7</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Auto Moto TV[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Man-ga[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8</link>
+    <link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MAN-GA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Deejay TV[/B][/COLOR]</title>
+    <link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8</link>
+    <link>http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MAN-GA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Alice[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/alice_hd/playlist.m3u8</link>
+    <link>http://superstreaming.inaria.me/Alice/Manifest.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 24[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8</link>
+    <thumbnail>http://i.imgur.com/AeLroKj.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_sport_uno_hd/chunks.m3u8</link>
+    <thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport F1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_sport_f1_hd/chunks.m3u8</link>
+    <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport Motogp HD[/B][/COLOR]</title>
 <link>https://1.ip2stream.icu/live/sky_sport_MOTO GP_hd/chunks.m3u8$$lsname=Sky Sport Motogp HD (HTTP source #01)</link>
 <thumbnail>http://i.imgur.com/CmFj0p2.png</thumbnail></item>
