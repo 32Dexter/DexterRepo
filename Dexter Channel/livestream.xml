@@ -136,9 +136,7 @@
 	        </item>	
 	        <item>
 		        <title>[COLOR azure]TV8[/COLOR]</title>
-		        <link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</link>
 			<link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1508151541~exp=1571220000~acl=/*~hmac=2449fbe90db1123543d683a1f14c2cfc8c4681930725ab3eeed2d300a00c2c7e&Origin=tv8.it</link>
-			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=ITALY;url=http://46.19.142.222:15000/ujqyajxz/g7d48CY5wq/10401</link>
 		        <thumbnail>https://www.dtti.it/wp-content/uploads/2017/01/TV8-NERO-01.jpg<thumbnail>
 		        <fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
 	        </item>
@@ -148,6 +146,16 @@
 		        <thumbnail><thumbnail>
 		        <fanart></fanart>
 	        </item>
+				
+		<item>
+		        <title>[COLOR azure]Sport Italia Motori[/COLOR]</title>
+			<link>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/playlist.m3u8?cid=27725&mid=&ecid=181944&pid=5&dtid=1&ident=570354489117&hdnea=exp=1567175809~acl=/hls/live/2006300/spottsportitaliahls04/*~hmac=c51f187f313d1df6e4c2772cf47f555e354befca675cb25c2eebe34c80730e8f&content=57568</link>
+			<link>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1567261910~acl=/*~data=hdntl~hmac=187054a49909338cf7ae6fb50b0c236566c27baecbac67fdaff9d40a66fb043d</link>
+			<thumbnail><thumbnail>
+		        <fanart></fanart>
+	        </item>
+				
+				
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
