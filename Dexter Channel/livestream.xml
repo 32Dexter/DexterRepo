@@ -133,7 +133,13 @@
 		        <inputstream>https://live.deatv.it/alpha/01.m3u8</inputstream>
 		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alpha.jpg<thumbnail>
 		        <fanart>https://www.engage.it/wp-content/uploads/2017/09/alpha_-600x400.jpg</fanart>
-	        </item>				
+	        </item>	
+	        <item>
+		        <title>[COLOR azure]TV8[/COLOR]</title>
+		        <inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/stream2/streamPlaylist.m3u8</inputstream>
+		        <thumbnail>https://www.dtti.it/wp-content/uploads/2017/01/TV8-NERO-01.jpg<thumbnail>
+		        <fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
+	        </item>							
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
