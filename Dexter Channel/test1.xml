@@ -211,50 +211,11 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] POKERItalia24[/B][/COLOR]</title>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio[/B][/COLOR]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skycalcio.php</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POKERItalia24.png</thumbnail>
   </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail>
-  </item>
-  <item> 
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 1 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl1/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 2 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skycl2/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 3 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl3/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 4 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl4/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 5 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl5/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 6 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl6/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 7 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/skcl7/playlist.m3u8</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
-  </item>
+
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema +24 HD[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8</link>
@@ -265,33 +226,49 @@
     <link>https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMAFAMILY.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Hits HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8$$lsname=Sky Cinema Hits HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYHITS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Comedy HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8$$lsname=Sky Cinema Comedy HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Premium Joi[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/premium_joi/playlist.m3u8$$lsname=Premium Joi (HTTP source #01)</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Premium Action HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8$$lsname=Premium Action HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/vP0vLFh.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Premium Stories[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8$$lsname=Premium Stories (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/update/sky1ita.php$$lsname=Premium Stories (SD source #01)</link>
-<thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/update/sky2ita.php$$lsname=PREMIUM STORIES HD (SD source #01)</link>
-<thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES +24[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8$$lsname=PREMIUM STORIES +24 (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport1italia.php$$lsname=PREMIUM STORIES +24 (SD source #01)</link>
-<thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STUDIO UNIVERSAL[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/studio_universal/playlist.m3u8$$lsname=PREMIUM STUDIO UNIVERSAL (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport2italia.php$$lsname=PREMIUM STUDIO UNIVERSAL (SD source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Hits HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYHITS.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Comedy HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Joi[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/premium_joi/playlist.m3u8</link>
+    <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Action HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8</link>
+    <thumbnail>http://i.imgur.com/vP0vLFh.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Stories[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/update/sky1ita.php</link>
+    <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/update/sky2ita.php</link>
+    <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES +24[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport1italia.php</link>
+    <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STUDIO UNIVERSAL[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/studio_universal/playlist.m3u8</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport2italia.php</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Premium Cinema HD[/B][/COLOR]</title>
 <link>https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8$$lsname=Premium Cinema HD (HTTP source #01)</link>
 <thumbnail>https://pbs.twimg.com/profile_images/3405285164/804f48f225ce563bf5038ae3d698fab5_400x400.png</thumbnail></item>
@@ -488,5 +465,10 @@
     <title>[B][COLOR lawngreen]• [B][COLOR white] Auto Moto TV[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail>
   </item>
 </items>
