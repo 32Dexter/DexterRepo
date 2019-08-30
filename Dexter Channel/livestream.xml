@@ -141,7 +141,13 @@
 			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=ITALY;url=http://46.19.142.222:15000/ujqyajxz/g7d48CY5wq/10401</link>
 		        <thumbnail>https://www.dtti.it/wp-content/uploads/2017/01/TV8-NERO-01.jpg<thumbnail>
 		        <fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
-	        </item>							
+	        </item>
+		<item>
+		        <title>[COLOR azure]Motor Trend[/COLOR]</title>
+			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
+		        <thumbnail><thumbnail>
+		        <fanart></fanart>
+	        </item>
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
