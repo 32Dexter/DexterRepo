@@ -181,13 +181,7 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Diva Universal[/B][/COLOR]</title>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/la7</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
-  </item>
-
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Man-ga[/B][/COLOR]</title>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai 4 HD[/B][/COLOR]</title>
     <link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8</link>
     <link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8</link>
     <link>https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8</link>
@@ -200,41 +194,27 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MAN-GA.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Alice[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/alice_hd/playlist.m3u8</link>
-    <link>http://superstreaming.inaria.me/Alice/Manifest.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png</thumbnail>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport Motogp HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_sport_MOTO GP_hd/chunks.m3u8</link>
+    <thumbnail>http://i.imgur.com/CmFj0p2.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Bike Channel[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/bike_channel_hd/playlist.m3u8</link>
+    <link>https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8</link>
+    <link>https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BikeChannel.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 24[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8</link>
-    <thumbnail>http://i.imgur.com/AeLroKj.png</thumbnail>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Eurosport 2 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/eurosport_2_hd/chunks.m3u8</link>
+    <link>https://1.ip2stream.icu/live/eurosport_2_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport 1 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/sky_sport_uno_hd/chunks.m3u8</link>
-    <thumbnail>http://i.imgur.com/GM9BhHH.png</thumbnail>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] POKERItalia24[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skycalcio.php</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POKERItalia24.png</thumbnail>
   </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport F1 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/sky_sport_f1_hd/chunks.m3u8</link>
-    <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
-  </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport Motogp HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_sport_MOTO GP_hd/chunks.m3u8$$lsname=Sky Sport Motogp HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/CmFj0p2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Bike Channel[/B][/COLOR]</title>
-<link>https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8 $$lsname=Bike Channel (HTTP source #01)</link>
-<link>https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8$$lsname=Bike Channel (HTTP source #02)</link>
-<link>https://1.ip2stream.icu/live/bike_channel_hd/playlist.m3u8$$lsname=Bike Channel (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BikeChannel.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Eurosport 2 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/eurosport_2_hd/chunks.m3u8$$lsname=Eurosport 2 HD (HTTP source #01)</link>
-<link>https://1.ip2stream.icu/live/eurosport_2_hd/playlist.m3u8$$lsname=Eurosport 2 HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] POKERItalia24[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skycalcio.php$$lsname=POKERItalia24 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POKERItalia24.png</thumbnail></item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
 <link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8$$lsname=Rai Sport 1 HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail></item>
