@@ -111,38 +111,49 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIGULP.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo[/B][/COLOR]</title>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_top</link>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo HD[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo HD[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8$$lsname=Rai YoYo HD (HTTP source #01)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8$$lsname=Rai YoYo HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Frisbee[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8$$lsname=Frisbee (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRISBEE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Cartoonito[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/cartoonito_hd/playlist.m3u8$$lsname=Cartoonito (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONITO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai News 24[/B][/COLOR]</title>
-<link>http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8$$lsname=Rai News 24 (HTTP source #01)</link>
-<link>http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001$$lsname=Rai News 24 (HTTP source #02)</link>
-<link>https://1.ip2stream.icu/live/rai_news_24_hd/playlist.m3u8$$lsname=Rai News 24 (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Dmax[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/dmax_hd/chunks.m3u8$$lsname=Dmax (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai Storia HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/rai_storia_hd/playlist.m3u8$$lsname=Rai Storia HD (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_tgcom24$$lsname=Rai Storia HD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISTORIA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Super Tennis[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/supertennis/playlist.m3u8$$lsname=Super Tennis (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERTENNIS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Uno HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_uno_hd/playlist.m3u8$$lsname=Sky Uno HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/WyavUpz.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Frisbee[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRISBEE.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Cartoonito[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/cartoonito_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONITO.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai News 24[/B][/COLOR]</title>
+    <link>http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8</link>
+    <link>http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001</link>
+    <link>https://1.ip2stream.icu/live/rai_news_24_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Dmax[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/dmax_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Storia HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/rai_storia_hd/playlist.m3u8</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_tgcom24</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISTORIA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Super Tennis[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/supertennis/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERTENNIS.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Uno HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_uno_hd/playlist.m3u8</link>
+    <thumbnail>http://i.imgur.com/WyavUpz.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Ciao[/B][/COLOR]</title>
 <link>https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8$$lsname=Ciao (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CIAOTV.png</thumbnail></item>
