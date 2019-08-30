@@ -55,44 +55,66 @@
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport24italia.php</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Iris[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/iris_hd/playlist.m3u8$$lsname=Iris (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai 5 HD[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8$$lsname=Rai 5 HD (HTTP source #01)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8$$lsname=Rai 5 HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI5.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai Movie HD[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8$$lsname=Rai Movie HD (HTTP source #01)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8$$lsname=Rai Movie HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai Premium HD[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8$$lsname=Rai Premium HD (HTTP source #01)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8$$lsname=Rai Premium HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Cielo HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8$$lsname=Cielo HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Paramount Channel HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8$$lsname=Paramount Channel HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Mediaset Extra[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8$$lsname=Mediaset Extra (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Giallo[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8$$lsname=Giallo (HTTP source #01)</link>
-<link>https://1.ip2stream.icu/live/giallo_hd/chunks.m3u8$$lsname=Giallo (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GIALLO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Boing[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/boing_hd/chunks.m3u8$$lsname=Boing (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] RaiGulp HD[/B][/COLOR]</title>
-<link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8$$lsname=RaiGulp HD (HTTP source #01)</link>
-<link>https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8$$lsname=RaiGulp HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIGULP.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_top$$lsname=Rai YoYo (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Iris[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/iris_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai 5 HD[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI5.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Movie HD[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Premium HD[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Cielo HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Paramount Channel HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Mediaset Extra[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Giallo[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8</link>
+    <link>https://1.ip2stream.icu/live/giallo_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GIALLO.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Boing[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/boing_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] RaiGulp HD[/B][/COLOR]</title>
+    <link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8</link>
+    <link>https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIGULP.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_top</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai YoYo HD[/B][/COLOR]</title>
 <link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8$$lsname=Rai YoYo HD (HTTP source #01)</link>
 <link>https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8$$lsname=Rai YoYo HD (HTTP source #02)</link>
