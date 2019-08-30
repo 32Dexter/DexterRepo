@@ -127,7 +127,13 @@
 		        <inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8</inputstream>
 		        <thumbnail>https://www.ildecoder.com/wp/wp-content/uploads/2017/03/dmax.jpg<thumbnail>
 		        <fanart>https://www.digitaltveurope.com/files/2019/01/Screen-Shot-2019-01-09-at-10.04.26-1024x576.png</fanart>
-	        </item>			
+	        </item>
+	        <item>
+		        <title>[COLOR orange]Alpha[/COLOR]</title>
+		        <inputstream>https://live.deatv.it/alpha/01.m3u8</inputstream>
+		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alpha.jpg<thumbnail>
+		        <fanart>https://www.engage.it/wp-content/uploads/2017/09/alpha_-600x400.jpg</fanart>
+	        </item>				
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
