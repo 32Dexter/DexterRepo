@@ -18,6 +18,7 @@
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Rai 3 HD[/B][/COLOR]</title>
     <link>http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8</link>
+    <link>http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI3.png</thumbnail>
   </item>
   <item>
@@ -180,20 +181,11 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Lei TV[/B][/COLOR]</title>
-    <link>http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LEITV.png</thumbnail>
-  </item>
-  <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Diva Universal[/B][/COLOR]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/la7</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
   </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Auto Moto TV[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
-  </item>
+
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Man-ga[/B][/COLOR]</title>
     <link>http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8</link>
@@ -491,5 +483,10 @@
     <title>[B][COLOR lawngreen]• [B][COLOR white] Mediaset Extra[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Auto Moto TV[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVAUNIVERSAL.png</thumbnail>
   </item>
 </items>
