@@ -236,11 +236,7 @@
     <link>https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png</thumbnail>
   </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Joi[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/premium_joi/playlist.m3u8</link>
-    <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139</thumbnail>
-  </item>
+
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Action HD[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8</link>
@@ -253,14 +249,8 @@
     <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES HD[/B][/COLOR]</title>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cricfree.sc/update/sky2ita.php</link>
-    <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
-  </item>
-  <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] PREMIUM STORIES +24[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8</link>
-    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport1italia.php</link>
     <thumbnail>http://i.imgur.com/MyZGKeG.png</thumbnail>
   </item>
   <item>
@@ -269,66 +259,100 @@
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysport2italia.php</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Premium Cinema HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8$$lsname=Premium Cinema HD (HTTP source #01)</link>
-<thumbnail>https://pbs.twimg.com/profile_images/3405285164/804f48f225ce563bf5038ae3d698fab5_400x400.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/disney_channel_hd/playlist.m3u8$$lsname=Disney Channel (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel +2[/B][/COLOR]</title>
-<link>rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream$$lsname=Disney Channel +2 (RTMP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Junior[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/disney_junior_hd/playlist.m3u8$$lsname=Disney Junior (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney Junior +1[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_iris$$lsname=Disney Junior +1 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Channel HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8$$lsname=Discovery Channel HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Science HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/discovery_science_hd/playlist.m3u8$$lsname=Discovery Science HD (HTTP source #01)</link>
-<link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8$$lsname=Discovery Science HD (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] History Lab[/B][/COLOR]</title>
-<link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8$$lsname=History Lab (HTTP source #01)</link>
-<link>http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8$$lsname=History Lab (HTTP source #02)</link>
-<link>http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8$$lsname=History Lab (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORYLAB.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild +1[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_rete4$$lsname=Nat Geo Wild +1 (SD source #01)</link>
-#N/D
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8$$lsname=Nat Geo Wild HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Travel & Living[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/travel_and_living_hd/playlist.m3u8$$lsname=Discovery Travel & Living (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTRAVEL&LIVING.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo People HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8$$lsname=Nat Geo People HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOPEOPLE.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Gambero Rosso[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/gambero_rosso_hd/chunks.m3u8$$lsname=Gambero Rosso (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GAMBEROROSSO.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Canale 7[/B][/COLOR]</title>
-<link>http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8$$lsname=Canale 7 (HTTP source #01)</link>
-<link>http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8$$lsname=Canale 7 (HTTP source #02)</link>
-<link>http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8$$lsname=Canale 7 (HTTP source #03)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE7.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Investigation Discovery[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/crime_investigation_hd/playlist.m3u8$$lsname=Investigation Discovery (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Tg24[/B][/COLOR]</title>
-<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8$$lsname=Sky Tg24 (HTTP source #01)</link>
-<link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8$$lsname=Sky Tg24 (HTTP source #02)</link>
-<link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8$$lsname=Sky Tg24 (HTTP source #03)</link>
-<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8$$lsname=Sky Tg24 (HTTP source #04)</link>
-<link>http://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/stream6/streamPlaylist.m3u8$$lsname=Sky Tg24 (HTTP source #05)</link>
-<thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky TG24 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_tg_24/playlist.m3u8$$lsname=Sky TG24 HD (HTTP source #01)</link>
-<thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Cinema HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/3405285164/804f48f225ce563bf5038ae3d698fab5_400x400.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/disney_channel_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney Channel +2[/B][/COLOR]</title>
+    <link>rtmp://wma10.fluidstream.net:1935/HistoryLab/livestream</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney Junior[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/disney_junior_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney Junior +1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_iris</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Channel HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Science HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/discovery_science_hd/playlist.m3u8</link>
+    <link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] History Lab[/B][/COLOR]</title>
+    <link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8</link>
+    <link>http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8</link>
+    <link>http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORYLAB.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild +1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_rete4</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORYLAB.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo Wild HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Discovery Travel & Living[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/travel_and_living_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTRAVEL&LIVING.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Nat Geo People HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOPEOPLE.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Gambero Rosso[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/gambero_rosso_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GAMBEROROSSO.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Canale 7[/B][/COLOR]</title>
+    <link>http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8</link>
+    <link>http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8</link>
+    <link>http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE7.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Investigation Discovery[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/crime_investigation_hd/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Tg24[/B][/COLOR]</title>
+    <link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+    <link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8</link>
+    <link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</link>
+    <link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</link>
+    <link>http://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/stream6/streamPlaylist.m3u8</link>
+    <thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky TG24 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_tg_24/playlist.m3u8</link>
+    <thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Euronews[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_extra$$lsname=Euronews (SD source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png</thumbnail></item>
@@ -470,5 +494,10 @@
     <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Premium Joi[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/premium_joi/playlist.m3u8</link>
+    <thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/4/43/Joi_logo.svg/revision/latest/scale-to-width-down/499?cb=20100309145139</thumbnail>
   </item>
 </items>
