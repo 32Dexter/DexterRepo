@@ -143,8 +143,14 @@
 		<item>
 		        <title>[COLOR azure]Motor Trend[/COLOR]</title>
 			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
+		        <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/0e/4b/e80e4b9e-481b-8e3a-2c58-447aa661d40c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg<thumbnail>
+		        <fanart>https://i.ytimg.com/vi/F3FA3TUDbd0/maxresdefault.jpg</fanart>
+	        </item>
+		<item>
+		        <title>[COLOR azure]Paramount Channel[/COLOR]</title>
+			<inputstream>http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8</inputstream>
+		        <thumbnail>https://www.forbes.ro/wp-content/uploads/2014/01/52ebc941acf5b.jpg<thumbnail>
+		        <fanart>https://upload.wikimedia.org/wikipedia/it/4/4a/Paramount_logo.jpg</fanart>
 	        </item>		
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
