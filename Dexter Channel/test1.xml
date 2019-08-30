@@ -215,36 +215,56 @@
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skycalcio.php</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/POKERItalia24.png</thumbnail>
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8$$lsname=Rai Sport 1 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 1 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl1/playlist.m3u8$$lsname=Sky Calcio 1 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 2 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skycl2/playlist.m3u8$$lsname=Sky Calcio 2 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 3 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl3/playlist.m3u8$$lsname=Sky Calcio 3 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 4 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl4/playlist.m3u8$$lsname=Sky Calcio 4 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 5 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl5/playlist.m3u8$$lsname=Sky Calcio 5 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 6 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl6/playlist.m3u8$$lsname=Sky Calcio 6 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 7 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/skcl7/playlist.m3u8$$lsname=Sky Calcio 7 HD (HTTP source #01)</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema +24 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8$$lsname=Sky Cinema +24 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMA+24.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Family HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8$$lsname=Sky Cinema Family HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMAFAMILY.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai Sport 1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png</thumbnail>
+  </item>
+  <item> 
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl1/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 2 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skycl2/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 3 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl3/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 4 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl4/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 5 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl5/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 6 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl6/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Calcio 7 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/skcl7/playlist.m3u8</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/it/2/27/Sky_Calcio_logo_2010.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema +24 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMA+24.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Family HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMAFAMILY.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] Sky Cinema Hits HD[/B][/COLOR]</title>
 <link>https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8$$lsname=Sky Cinema Hits HD (HTTP source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYHITS.png</thumbnail></item>
