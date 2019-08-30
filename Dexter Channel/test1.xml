@@ -20,23 +20,31 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI3.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Rai 3 HD[/B][/COLOR]</title>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Sky Sport MotoGp[/B][/COLOR]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/skysportmotogp.php</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI3.png</thumbnail>  
   </item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Rete 4 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8$$lsname=Rete 4 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RETE4.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Canale 5 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/canale_5_hd/chunks.m3u8$$lsname=Canale 5 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Italia1 HD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8$$lsname=Italia1 HD (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] La7[/B][/COLOR]</title>
-<link>http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8$$lsname=La7 (HTTP source #01)</link>
-<link>http://92.43.140.249/s29/04.m3u8$$lsname=La7 (HTTP source #02)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Rete 4 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RETE4.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Canale 5 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/canale_5_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Italia1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] La7[/B][/COLOR]</title>
+    <link>http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8</link>
+    <link>http://92.43.140.249/s29/04.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png</thumbnail>
+  </item>
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] 20 Mediaset[/B][/COLOR]</title>
 <link>https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8$$lsname=20 Mediaset (HTTP source #01)</link>
 #N/D
