@@ -349,6 +349,42 @@
     <thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail>
   </item>
   <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Nick junior[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/pag/hd4.php</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Cartoon Network[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia1</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l</link>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia1</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD +1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia2</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD +2[/B][/COLOR]</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_la5</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail>
+  </item>
+  <item><title>[B][COLOR lawngreen]• [B][COLOR white] Dea Junior[/B][/COLOR]</title>
+  <link>https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8</link>
+  <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DEAJUNIOR.png</thumbnail>
+  </item>
+  <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Sky TG24 HD[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/sky_tg_24/playlist.m3u8</link>
     <thumbnail>http://i.imgur.com/o4ca5xo.png</thumbnail>
@@ -429,29 +465,7 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/p5?ch=2df$$lsname=ZDF (SD source #01)</link>
 <link>plugin://program.plexus/?url=acestream://8484cb82172b5cd5894dc26f95fddead128b9625&amp;mode=1&amp;name=Acestream+ZDF$$lsname=ZDF (PLEXUS source #01)</link>
 <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Nick junior[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/pag/hd4.php$$lsname=Nick junior (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Cartoon Network[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8$$lsname=Cartoon Network (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l$$lsname=Disney XD (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia1$$lsname=Disney XD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l$$lsname=Disney XD (HTTP source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia1$$lsname=Disney XD (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD +1[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_italia2$$lsname=Disney XD +1 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Disney XD +2[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=mediaset_la5$$lsname=Disney XD +2 (SD source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png</thumbnail></item>
-<item><title>[B][COLOR lawngreen]• [B][COLOR white] Dea Junior[/B][/COLOR]</title>
-<link>https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8$$lsname=Dea Junior (HTTP source #01)</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DEAJUNIOR.png</thumbnail></item>
+
 <item><title>[B][COLOR lawngreen]• [B][COLOR white] MTV Hits[/B][/COLOR]</title>
 <link>http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8$$lsname=MTV Hits (HTTP source #01)</link>
 <link>http://94.46.222.90:2108$$lsname=MTV Hits (HTTP source #02)</link>
