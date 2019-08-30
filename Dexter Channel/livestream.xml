@@ -145,16 +145,7 @@
 			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
 		        <thumbnail><thumbnail>
 		        <fanart></fanart>
-	        </item>
-				
-		<item>
-		        <title>[COLOR azure]Sport Italia Motori[/COLOR]</title>
-			<link>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1567262377~acl=/*~data=hdntl~hmac=ab9e53a69bbdcb58423e5a0c65bbd2de676de0338127144d4b4c84823a147e74</link>
-			<thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>
-				
-				
+	        </item>		
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
@@ -193,6 +184,12 @@
 		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/bull.jpg<thumbnail>
 		        <fanart>https://avante.biz/wp-content/uploads/Red-Bull-Wallpaper/Red-Bull-Wallpaper-001.jpg</fanart>
             </item>
+            <item>
+		        <title>[COLOR azure]Olympic Channeò[/COLOR]</title>
+		        <link>https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?m=1566497837</link>
+		        <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/61d6OEJK4ML.png<thumbnail>
+		        <fanart>https://www.nbcsports.com/sites/nbcsports.com/files/oly-channel-slate.jpg</fanart>
+            </item>				
             <item>
 		        <title>[COLOR blue]NASA TV[/COLOR]</title>
 		        <utube>21X5lGlDOfg</utube>
