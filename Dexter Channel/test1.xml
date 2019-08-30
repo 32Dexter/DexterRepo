@@ -36,11 +36,6 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Italia1 HD[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png</thumbnail>
-  </item>
-  <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] La7[/B][/COLOR]</title>
     <link>http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png</thumbnail>
@@ -89,11 +84,6 @@
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png</thumbnail>
   </item>
   <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Mediaset Extra[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png</thumbnail>
-  </item>
-  <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Giallo[/B][/COLOR]</title>
     <link>https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8</link>
     <link>https://1.ip2stream.icu/live/giallo_hd/chunks.m3u8</link>
@@ -115,11 +105,6 @@
     <link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8</link>
     <link>https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8</link>
     <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png</thumbnail>
-  </item>
-  <item>
-    <title>[B][COLOR lawngreen]• [B][COLOR white] Frisbee[/B][/COLOR]</title>
-    <link>https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8</link>
-    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRISBEE.png</thumbnail>
   </item>
   <item>
     <title>[B][COLOR lawngreen]• [B][COLOR white] Cartoonito[/B][/COLOR]</title>
@@ -467,4 +452,19 @@
 <link>http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8$$lsname=Senato TV (HTTP source #02)</link>
 <link>http://senato.spectar.tv:1935/senato-live/webtv1/chunklist.m3u8 $$lsname=Senato TV (HTTP source #03)</link>
 <thumbnail>http://webtv.senato.it/application/xmanager/projects/leg17/img/webtv/logo_senatoTV.jpg</thumbnail></item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Italia1 HD[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/italia_1_hd/chunks.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Mediaset Extra[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png</thumbnail>
+  </item>
+  <item>
+    <title>[B][COLOR lawngreen]• [B][COLOR white] Frisbee[/B][/COLOR]</title>
+    <link>https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8</link>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/FRISBEE.png</thumbnail>
+  </item>
 </items>
