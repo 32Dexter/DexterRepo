@@ -184,7 +184,12 @@
 		        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yOWVGd3a4N8JEw5WAQ3bVCfWnS-7UW6SYHDeXjAAN4mOAzyx<thumbnail>
 		        <fanart>http://www.tuttotv.info/wp-content/uploads/2018/05/focus-canale-35-mediaset-promo.jpg</fanart>
 	        </item>
-
+		<item>
+		        <title>[COLOR azure]TGCOM24[/COLOR]</title>
+			<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd</inputstream>
+		        <thumbnail><thumbnail>
+		        <fanart></fanart>
+	        </item>		
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
