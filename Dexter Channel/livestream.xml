@@ -163,6 +163,12 @@
 		        <fanart>http://www.goldtv.it/images/copertina%202050%20x%201015.png</fanart>	
 	        </item>	
 	        <item>
+		        <title>[COLOR azure]Caffè Tv 24[/COLOR]</title>
+		        <link>https://srvx1.selftv.video/cafe/live/chunklist_w1227548411.m3u8</link>
+		        <thumbnail><thumbnail>
+		        <fanart></fanart>	
+	        </item>		
+	        <item>
 		        <title>[COLOR deeppink]Wine Channel[/COLOR]</title>
 		        <link>http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8</link>
 		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/winechannel.jpg<thumbnail>
