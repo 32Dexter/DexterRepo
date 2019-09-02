@@ -185,6 +185,14 @@
 		        <fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
 	        </item>
 		<item>
+		        <title>[COLOR azure]Nove[/COLOR]</title>
+			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8</inputstream>
+		        <thumbnail><thumbnail>
+		        <fanart></fanart>
+	        </item>	
+				
+				
+		<item>
 		        <title>[COLOR azure]Motor Trend[/COLOR]</title>
 			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
 		        <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/0e/4b/e80e4b9e-481b-8e3a-2c58-447aa661d40c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg<thumbnail>
