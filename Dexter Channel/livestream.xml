@@ -44,7 +44,33 @@
             </item>
         </items>
     </channel>
-    
+
+    <channel>
+        <name>Documentari</name>
+    	<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/documentary.png</thumbnail>
+    	<fanart>https://www.thesslstore.com/blog/wp-content/uploads/2017/05/iStock-596363226.jpg</fanart>
+    	    <items>
+                <item>
+			<title>[COLOR darkblue]National Geographic[/COLOR]</title>
+			<link>https://1.ip2stream.icu/live/national_geographic_hd/chunks.m3u8</link>
+			<thumbnail>https://www.skyoceanventures.com/images/national-geographic-logo.jpg</thumbnail>
+			<fanart>https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/homepage/nationalgeographicog.ngsversion.1530540626597.adapt.1900.1.jpg</fanart>
+		</item>
+  		<item>
+			<title>[COLOR azure]Discovery Channel[/COLOR]</title>
+			<link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8</link>
+			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail>
+			<fanart>https://www.screenafrica.com/wp-content/uploads/2018/07/Discovery.jpg</fanart>
+		</item>
+		<item>
+			<title>[COLOR azure]Discovery Science[/COLOR]</title>
+			<link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8</link>
+			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail>
+			<fanart>http://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg</fanart>
+		</item>
+        </items>
+    </channel>	
+	
     <channel>
     <name>Canali Italiani</name>
     <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/ita.jpg</thumbnail>
@@ -158,18 +184,7 @@
 		        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yOWVGd3a4N8JEw5WAQ3bVCfWnS-7UW6SYHDeXjAAN4mOAzyx<thumbnail>
 		        <fanart>http://www.tuttotv.info/wp-content/uploads/2018/05/focus-canale-35-mediaset-promo.jpg</fanart>
 	        </item>
-  		<item>
-			<title>[COLOR azure]Discovery Channel[/COLOR]</title>
-			<link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8</link>
-			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail>
-			<fanart>https://www.screenafrica.com/wp-content/uploads/2018/07/Discovery.jpg</fanart>
-		</item>
-		<item>
-			<title>[COLOR azure]Discovery Science[/COLOR]</title>
-			<link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8</link>
-			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail>
-			<fanart>http://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg</fanart>
-		</item>
+
 	        <item>
 		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
 		        <utube>hyBttdYQrVE</utube>
