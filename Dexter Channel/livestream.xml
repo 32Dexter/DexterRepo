@@ -189,9 +189,7 @@
 			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8</inputstream>
 		        <thumbnail><thumbnail>
 		        <fanart></fanart>
-	        </item>	
-				
-				
+	        </item>		
 		<item>
 		        <title>[COLOR azure]Motor Trend[/COLOR]</title>
 			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
@@ -212,7 +210,7 @@
 	        </item>
 		<item>
 		        <title>[COLOR azure]TV2000[/COLOR]</title>
-			<inputstream>https://cld01wz.tv2000.it/tv2000_main.m3u8</inputstream>
+			<link>https://cld04wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8</link>
 		        <thumbnail><thumbnail>
 		        <fanart></fanart>
 	        </item>		
