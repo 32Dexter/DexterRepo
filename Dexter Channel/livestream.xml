@@ -315,6 +315,12 @@
 					<fanart></fanart>
 				</item>
 				<item>
+					<title>[COLOR azure]EuroNews[/COLOR]</title>
+					<link>https://euronews-it-b10-cdn.hexaglobe.net/e79eebb92a5623bc23334491098cfd5d/5d6e7f3f/euronews/euronews-euronews-website-web-responsive-2/ewnsabritbkp_ita.smil/ewnsabritbkp_ita_720p.m3u8</link>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>		
+				<item>
 					<title>[COLOR deepskyblue]UNI Nettuno TV[/COLOR]</title>
 					<link>https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8</link>
 					<thumbnail>http://www.misericordiaviareggio.it/wp-content/uploads/2015/08/00027556.jpeg<thumbnail>
