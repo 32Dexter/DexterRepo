@@ -1,366 +1,384 @@
 <channels>
-    <channels_info>
-        <title>Dexter32 Playlist</title>
-        <description>Lista canali Italiani e stranieri</description>
-        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg</thumbnail>
-        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_wallpaper.jpg</fanart>
-        <date>27.08.2019</date>
-    </channels_info>
+	<channels_info>
+		<title>Dexter32 Playlist</title>
+		<description>Lista canali Italiani e stranieri</description>
+		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_channel.jpg</thumbnail>
+		<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/dexter_wallpaper.jpg</fanart>
+		<date>27.08.2019</date>
+	</channels_info>
     
-    <channel>
-    <name>Camera & Senato</name>
-    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/presidenza.jpg</thumbnail>
-    <fanart>https://www.abruzzocamping.it/imm/eventi/37_Slide1.jpg</fanart>
-        <items>
-            <item>
-                <title>[COLOR darkred]Senato 1[/COLOR]</title>
-                <utube>RrvX8yxO4k8</utube>
-                <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
-                <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-            </item>
-            <item>
-                <title>[COLOR darkred]Senato 2[/COLOR]</title>
-                <utube>NgNomj0RQqo</utube>
-                <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
-                <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-            </item>
-            <item>
-                <title>[COLOR darkred]Senato 3[/COLOR]</title>
-                <utube>qC2mSDLQAxM</utube>
-                <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
-                <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-            </item>
-            <item>
-                <title>[COLOR darkred]Senato 4[/COLOR]</title>
-                <utube>jxLSiaQpHCs</utube>
-                <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
-                <fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
-            </item>
-            <item>
-                <title>[COLOR darkblue]Camera dei deputati[/COLOR]</title>
-                <utube>WVjdPb7F4uY</utube>
-                <thumbnail>http://www.buongiornoceramica.it/wp-content/uploads/2016/02/LOGO-CD-pieno-blu-quadrato.jpg</thumbnail>
-                <fanart>https://static.italiaoggi.it/content_upload/img/2018/07/201807052038532141/Montecitorio-Aula-221377.jpg</fanart>
-            </item>
-        </items>
-    </channel>
+	<channel>
+		<name>Camera & Senato</name>
+		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/presidenza.jpg</thumbnail>
+		<fanart>https://www.abruzzocamping.it/imm/eventi/37_Slide1.jpg</fanart>
+			<items>
+				<item>
+					<title>[COLOR darkred]Senato 1[/COLOR]</title>
+					<utube>RrvX8yxO4k8</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
+					<fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR darkred]Senato 2[/COLOR]</title>
+					<utube>NgNomj0RQqo</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
+					<fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR darkred]Senato 3[/COLOR]</title>
+					<utube>qC2mSDLQAxM</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
+					<fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR darkred]Senato 4[/COLOR]</title>
+					<utube>jxLSiaQpHCs</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/senato.png</thumbnail>
+					<fanart>https://www.money.it/IMG/arton33912.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR darkblue]Camera dei deputati[/COLOR]</title>
+					<utube>WVjdPb7F4uY</utube>
+					<thumbnail>http://www.buongiornoceramica.it/wp-content/uploads/2016/02/LOGO-CD-pieno-blu-quadrato.jpg</thumbnail>
+					<fanart>https://static.italiaoggi.it/content_upload/img/2018/07/201807052038532141/Montecitorio-Aula-221377.jpg</fanart>
+				</item>
+			</items>
+	</channel>
 
-    <channel>
-        <name>Documentari</name>
-    	<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/documentary.jpg</thumbnail>
-    	<fanart>https://www.thesslstore.com/blog/wp-content/uploads/2017/05/iStock-596363226.jpg</fanart>
-    	    <items>
-                <item>
-			<title>[COLOR azure]National Geographic[/COLOR]</title>
-			<inputstream>https://1.ip2stream.icu/live/national_geographic_hd/chunks.m3u8</inputstream>
-			<thumbnail>https://www.skyoceanventures.com/images/national-geographic-logo.jpg</thumbnail>
-			<fanart>https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/homepage/nationalgeographicog.ngsversion.1530540626597.adapt.1900.1.jpg</fanart>
-		</item>
-                <item>
-			<title>[COLOR azure]National Geographic Wild[/COLOR]</title>
-			<inputstream>https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8</inputstream>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-		</item>
-                <item>
-			<title>[COLOR azure]National Geographic People[/COLOR]</title>
-			<inputstream>https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8</inputstream>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-		</item> 
-  		<item>
-			<title>[COLOR azure]Discovery Channel[/COLOR]</title>
-			<link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8</link>
-			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail>
-			<fanart>https://www.screenafrica.com/wp-content/uploads/2018/07/Discovery.jpg</fanart>
-		</item>
-		<item>
-			<title>[COLOR azure]Discovery Science[/COLOR]</title>
-			<link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8</link>
-			<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail>
-			<fanart>http://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg</fanart>
-		</item>
-        </items>
-    </channel>	
-
-    <channel>
-        <name>Mediaset</name>
-    	<thumbnail></thumbnail>
-    	<fanart></fanart>
-    	    <items>
-                <item>
-			<title>[COLOR azure]Top Crime[/COLOR]</title>
-			<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd?hdnts=st=1567457202~exp=1567471632~acl=/Content/dash_d0_clr_vos/live/channel(lt)*~hmac=822f9fadfb8079c8124e4839f89d0a1063b65e6c280cf3c2d27baf3eed9ad361</inputstream>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-		</item>
-                <item>
-			<title>[COLOR azure]Iris[/COLOR]</title>
-			<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd?hdnts=st=1567457236~exp=1567471666~acl=/Content/dash_d0_clr_vos/live/channel(ki)*~hmac=6aaf699acc14eb2febdd3d178d8b9d08adb2105a2c2493d096e503797f00926e</inputstream>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-		</item>
-                <item>
-			<title>[COLOR azure]Focus[/COLOR]</title>
-			<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd?hdnts=st=1567457305~exp=1567471735~acl=/Content/dash_d0_clr_vos/live/channel(fu)*~hmac=970b28862b92e257a3905f8807f3a2989ee76106ee6b20c490d4ce4738c9b4d0</inputstream>
-			<thumbnail></thumbnail>
-			<fanart></fanart>
-		</item>
-	        <item>
-		        <title>[COLOR grey]Mediaset 20[/COLOR]</title>
-		        <inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd?hdnts=st=1567456873~exp=1567471303~acl=/Content/dash_d0_clr_vos/live/channel(lb)*~hmac=dfd1fdfbb470eff0aa62284e88918d6f780689c7842b07b0491d0503419ecbf0</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>	
-        </items>
-    </channel>
+	<channel>
+		<name>Sport</name>
+    		<thumbnail></thumbnail>
+    		<fanart></fanart>
+			<items>
+				<item>
+					<title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
+					<utube>hyBttdYQrVE</utube>
+					<thumbnail>https://cdn.sat.tv/wp-content/uploads/2018/05/TopCalcio24.jpg<thumbnail>
+					<fanart>https://www.mediapason.it/wp-content/uploads/2018/02/top-calcio-la-piu-vista.jpg</fanart>
+				</item>	
+				<item>
+					<title>[COLOR azure]SI Sport Italia[/COLOR]</title>
+					<link>https://1.ip2stream.icu/live/sport_italia/playlist.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/si.jpg<thumbnail>
+					<fanart>https://tv.upgo.news/wp-content/uploads/2019/05/nuovi-canali-sportitalia.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]SI Sport Italia Motori[/COLOR]</title>
+					<inputstream>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1567544087~acl=/*~data=hdntl~hmac=aa07bd7866658f9f1de2148ef901211442a791165a4475b417ba046b84f471c9</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+			</items>
+	</channel>
 	
-    <channel>
-    <name>Canali Italiani</name>
-    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/ita.jpg</thumbnail>
-    <fanart>https://i.pinimg.com/originals/9f/2d/fd/9f2dfd08494a7c8be19b59a63b1799c6.jpg</fanart>
-        <items>
-            <item>
-		        <title>[COLOR blueviolet]VH+1[/COLOR]</title>
-		        <link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/VH1.jpg<thumbnail>
-		        <fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
-	        </item>		
-            <item>
-		        <title>[COLOR gold]7 Gold[/COLOR]</title>
-		        <inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/7gold.jpg<thumbnail>
-		        <fanart>https://lh5.googleusercontent.com/-FZyFVAOgKKs/UiOlD20-v1I/AAAAAAADZKU/SmoVtlqcsTs/s1600/92%2520C.jpg</fanart>
-	        </item>				
-	        <item>
-		        <title>[COLOR gold]78 Gold[/COLOR]</title>
-		        <inputstream>https://nimble2.xdevel.com/gold78/stream/manifest.mpd</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/logo78.jpg<thumbnail>
-		        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wallpaper78.jpg</fanart>
-            </item>
-	        <item>
-		        <title>[COLOR grey]Arte Network[/COLOR]</title>
-		        <link>https://w1.mediastreaming.it/tuttositiweb/livestream/chunklist_w641835368.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/artnet.png<thumbnail>
-		        <fanart>https://1.bp.blogspot.com/-73xFbHCHorg/WEUtgJqqqoI/AAAAAAAADHc/euIHot8JFtgZct1zM08tcNssl0gDjhSGQCLcB/s1600/15170790_1177334645649774_2753524189371194347_n.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR lightskyblue]TeleChiara[/COLOR]</title>
-		        <link>https://5cdb29755e02b.streamlock.net:1936/telechiara/diretta/chunklist_w1502999585.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/telechiara.jpg<thumbnail>
-		        <fanart>https://www.mariobonelli.com/wp-content/uploads/2015/12/telechiara_logo-1.jpg</fanart>	
-	        </item>
-	        <item>
-		        <title>[COLOR pink]Donna TV[/COLOR]</title>
-		        <link>https://59d7d6f47d7fc.streamlock.net/okitalia/okitalia/chunklist_w1212047686.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/donna.jpg<thumbnail>
-		        <fanart>https://www.dtti.it/wp-content/uploads/2018/12/donnatv.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR gold]Gold TV[/COLOR]</title>
-		        <link>http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/gold.jpg<thumbnail>
-		        <fanart>http://www.goldtv.it/images/copertina%202050%20x%201015.png</fanart>	
-	        </item>	
-	        <item>
-		        <title>[COLOR azure]Caffe' Tv 24[/COLOR]</title>
-		        <link>https://srvx1.selftv.video/cafe/live/chunklist_w1227548411.m3u8</link>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>	
-	        </item>		
-	        <item>
-		        <title>[COLOR deeppink]Wine Channel[/COLOR]</title>
-		        <link>http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/winechannel.jpg<thumbnail>
-		        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/red_wine.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR deeppink]Wine[/COLOR][COLOR azure]TV[/COLOR]</title>
-		        <utube>BuM4X0zowxA</utube>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wine.jpg<thumbnail>
-		        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wine_banner.jpg</fanart>
-            	</item>				
-	        <item>
-		        <title>[COLOR orange]Alice[/COLOR]</title>
-		        <inputstream>https://stream.next-sys.it:8443/live/alice/index.mpd</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alice.png<thumbnail>
-		        <fanart>https://www.alice.tv/img/cache/920x250/media/images/cucina-alice2.jpg</fanart>
-	        </item>		
-	        <item>
-		        <title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
-		        <inputstream>https://stream.next-sys.it:8443/live/case/index.mpd</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/case.png<thumbnail>
-		        <fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR deepskyblue]Marco Polo[/COLOR]</title>
-		        <inputstream>https://stream.next-sys.it:8443/live/marco/index.mpd</inputstream>
-		        <thumbnail>https://www.mantovanotizie.com/wp-content/uploads/marcopolo-tv.jpg<thumbnail>
-		        <fanart>http://almamediaitalia.it/wp-content/uploads/2017/10/marcopolo-live-streaming.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR grey]DMAX[/COLOR]</title>
-		        <inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8</inputstream>
-		        <thumbnail>https://www.ildecoder.com/wp/wp-content/uploads/2017/03/dmax.jpg<thumbnail>
-		        <fanart>https://www.digitaltveurope.com/files/2019/01/Screen-Shot-2019-01-09-at-10.04.26-1024x576.png</fanart>
-	        </item>			
-	        <item>
-		        <title>[COLOR yellow]Giallo[/COLOR]</title>
-		        <inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR azure]Cielo[/COLOR]</title>
-		        <inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8</inputstream>
-			<link>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8</link>
-			<inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>	
-	        <item>
-		        <title>[COLOR orange]Alpha[/COLOR]</title>
-		        <inputstream>https://live.deatv.it/alpha/01.m3u8</inputstream>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alpha.jpg<thumbnail>
-		        <fanart>https://www.engage.it/wp-content/uploads/2017/09/alpha_-600x400.jpg</fanart>
-	        </item>	
-	        <item>
-		        <title>[COLOR azure]TV8[/COLOR]</title>
-			<link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1508151541~exp=1571220000~acl=/*~hmac=2449fbe90db1123543d683a1f14c2cfc8c4681930725ab3eeed2d300a00c2c7e&Origin=tv8.it</link>
-		        <thumbnail>https://www.dtti.it/wp-content/uploads/2017/01/TV8-NERO-01.jpg<thumbnail>
-		        <fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
-	        </item>
-		<item>
-		        <title>[COLOR azure]Nove[/COLOR]</title>
-			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>		
-		<item>
-		        <title>[COLOR azure]Motor Trend[/COLOR]</title>
-			<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
-		        <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/0e/4b/e80e4b9e-481b-8e3a-2c58-447aa661d40c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg<thumbnail>
-		        <fanart>https://i.ytimg.com/vi/F3FA3TUDbd0/maxresdefault.jpg</fanart>
-	        </item>
-		<item>
-		        <title>[COLOR azure]Paramount Channel[/COLOR]</title>
-			<inputstream>http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8</inputstream>
-		        <thumbnail>https://www.forbes.ro/wp-content/uploads/2014/01/52ebc941acf5b.jpg<thumbnail>
-		        <fanart>https://upload.wikimedia.org/wikipedia/it/4/4a/Paramount_logo.jpg</fanart>
-	        </item>	
-		<item>
-		        <title>[COLOR azure]Focus[/COLOR]</title>
-			<inputstream>https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd</inputstream>
-		        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yOWVGd3a4N8JEw5WAQ3bVCfWnS-7UW6SYHDeXjAAN4mOAzyx<thumbnail>
-		        <fanart>http://www.tuttotv.info/wp-content/uploads/2018/05/focus-canale-35-mediaset-promo.jpg</fanart>
-	        </item>
-		<item>
-		        <title>[COLOR azure]TV2000[/COLOR]</title>
-			<link>https://cld04wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8</link>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>		
-		<item>
-		        <title>[COLOR azure]TGCOM24[/COLOR]</title>
-			<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd?hdnts=st=1567454211~exp=1567468641~acl=/Content/dash_d0_clr_vos/live/channel(kf)*~hmac=d74802d7eed50ab90e01150063a57bf3e32c5fd432b737b1ce42374ad2a0fb78</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR yellow]TOP Calcio 24[/COLOR]</title>
-		        <utube>hyBttdYQrVE</utube>
-		        <thumbnail>https://cdn.sat.tv/wp-content/uploads/2018/05/TopCalcio24.jpg<thumbnail>
-		        <fanart>https://www.mediapason.it/wp-content/uploads/2018/02/top-calcio-la-piu-vista.jpg</fanart>
-	        </item>	
-	        <item>
-		        <title>[COLOR azure]SI Sport Italia[/COLOR]</title>
-		        <link>https://1.ip2stream.icu/live/sport_italia/playlist.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/si.jpg<thumbnail>
-		        <fanart>https://tv.upgo.news/wp-content/uploads/2019/05/nuovi-canali-sportitalia.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR azure]SI Sport Italia Motori[/COLOR]</title>
-		        <inputstream>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1567544087~acl=/*~data=hdntl~hmac=aa07bd7866658f9f1de2148ef901211442a791165a4475b417ba046b84f471c9</inputstream>
-		        <thumbnail><thumbnail>
-		        <fanart></fanart>
-	        </item>	
-	        <item>
-		        <title>[COLOR deepskyblue]UNI Nettuno TV[/COLOR]</title>
-		        <link>https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8</link>
-		        <thumbnail>http://www.misericordiaviareggio.it/wp-content/uploads/2015/08/00027556.jpeg<thumbnail>
-		        <fanart>https://www.uninettunouniversity.net/allegati/1/poli/padova/2.jpg</fanart>
-	        </item>
-	        <item>
-		        <title>[COLOR powderblue]QVC[/COLOR]</title>
-		        <utube>LjsZCqAF3SE</utube>
-		        <thumbnail>http://www.spotandweb.it/wp-content/uploads/2014/12/logo2.jpg<thumbnail>
-		        <fanart>http://pinkisgood.it/wp/wp-content/uploads/2015/09/logo-qvc_low.jpg</fanart>
-            	</item>
-        </items>
-    </channel>
+	<channel>
+        	<name>LifeStyle</name>
+    		<thumbnail></thumbnail>
+    		<fanart></fanart>
+    	    		<items>
+				<item>
+					<title>[COLOR deeppink]Wine Channel[/COLOR]</title>
+					<link>http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/winechannel.jpg<thumbnail>
+					<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/red_wine.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR deeppink]Wine[/COLOR][COLOR azure]TV[/COLOR]</title>
+					<utube>BuM4X0zowxA</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wine.jpg<thumbnail>
+					<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wine_banner.jpg</fanart>
+            			</item>
+				<item>
+					<title>[COLOR orange]Alice[/COLOR]</title>
+					<inputstream>https://stream.next-sys.it:8443/live/alice/index.mpd</inputstream>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alice.png<thumbnail>
+					<fanart>https://www.alice.tv/img/cache/920x250/media/images/cucina-alice2.jpg</fanart>
+				</item>		
+				<item>
+					<title>[COLOR aquamarine]Case Designe e Stili[/COLOR]</title>
+					<inputstream>https://stream.next-sys.it:8443/live/case/index.mpd</inputstream>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/case.png<thumbnail>
+					<fanart>http://leonardo.tv/wp-content/uploads/sites/22/2017/02/copertina_case_design_stili-1080x675.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR deepskyblue]Marco Polo[/COLOR]</title>
+					<inputstream>https://stream.next-sys.it:8443/live/marco/index.mpd</inputstream>
+					<thumbnail>https://www.mantovanotizie.com/wp-content/uploads/marcopolo-tv.jpg<thumbnail>
+					<fanart>http://almamediaitalia.it/wp-content/uploads/2017/10/marcopolo-live-streaming.jpg</fanart>
+				</item>
+			</items>
+	</channel>
+	
+	<channel>
+		<name>Canali Regionali & Nazionali</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+			<items>
+				<item>
+					<title>[COLOR gold]7 Gold[/COLOR]</title>
+					<inputstream>https://nimble2.xdevel.com/7gold/stream/manifest.mpd</inputstream>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/7gold.jpg<thumbnail>
+					<fanart>https://lh5.googleusercontent.com/-FZyFVAOgKKs/UiOlD20-v1I/AAAAAAADZKU/SmoVtlqcsTs/s1600/92%2520C.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR gold]78 Gold[/COLOR]</title>
+					<inputstream>https://nimble2.xdevel.com/gold78/stream/manifest.mpd</inputstream>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/logo78.jpg<thumbnail>
+					<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/wallpaper78.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR grey]Arte Network[/COLOR]</title>
+					<link>https://w1.mediastreaming.it/tuttositiweb/livestream/chunklist_w641835368.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/artnet.png<thumbnail>
+					<fanart>https://1.bp.blogspot.com/-73xFbHCHorg/WEUtgJqqqoI/AAAAAAAADHc/euIHot8JFtgZct1zM08tcNssl0gDjhSGQCLcB/s1600/15170790_1177334645649774_2753524189371194347_n.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR lightskyblue]TeleChiara[/COLOR]</title>
+					<link>https://5cdb29755e02b.streamlock.net:1936/telechiara/diretta/chunklist_w1502999585.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/telechiara.jpg<thumbnail>
+					<fanart>https://www.mariobonelli.com/wp-content/uploads/2015/12/telechiara_logo-1.jpg</fanart>	
+				</item>
+				<item>
+					<title>[COLOR gold]Gold TV[/COLOR]</title>
+					<link>http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/gold.jpg<thumbnail>
+					<fanart>http://www.goldtv.it/images/copertina%202050%20x%201015.png</fanart>	
+				</item>
+				<item>
+					<title>[COLOR azure]Caffe' Tv 24[/COLOR]</title>
+					<link>https://srvx1.selftv.video/cafe/live/chunklist_w1227548411.m3u8</link>
+					<thumbnail><thumbnail>
+					<fanart></fanart>	
+				</item>
+				<item>
+					<title>[COLOR azure]TV2000[/COLOR]</title>
+					<link>https://cld04wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8</link>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+			</items>
+	</channel>
 
-    <channel>
-    <name>Canali Esteri</name>
-    <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/globe.jpg</thumbnail>
-    <fanart>http://www.on-school.com/blog/wp-content/uploads/2014/12/000160188_prevstill1.jpeg</fanart>
-        <items>
-            <item>
-		        <title>[COLOR red]Red[/COLOR][COLOR blue]Bull[/COLOR]</title>
-		        <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8</link>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/bull.jpg<thumbnail>
-		        <fanart>https://avante.biz/wp-content/uploads/Red-Bull-Wallpaper/Red-Bull-Wallpaper-001.jpg</fanart>
-            </item>
-            <item>
-		        <title>[COLOR azure]Olympic Channel[/COLOR]</title>
-		        <link>https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?m=1566497837</link>
-		        <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/61d6OEJK4ML.png<thumbnail>
-		        <fanart>https://www.nbcsports.com/sites/nbcsports.com/files/oly-channel-slate.jpg</fanart>
-            </item>				
-            <item>
-		        <title>[COLOR blue]NASA TV[/COLOR]</title>
-		        <utube>21X5lGlDOfg</utube>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
-		        <fanart>https://www.repstatic.it/content/nazionale/img/2019/01/25/170900222-0a7d4ad5-aedf-4757-87f3-44309f4ca6f2.jpg</fanart>
-            </item>
-            <item>
-		        <title>[COLOR blue]NASA Media Channel[/COLOR]</title>
-		        <utube>nA9UZF-SZoQ</utube>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
-		        <fanart>https://i.pinimg.com/originals/7e/e6/ff/7ee6ffaeaba562069a5b1260b443c76b.jpg</fanart>
-            </item>
-            <item>
-		        <title>[COLOR blue]NASA Jet Propulsion Laboratory[/COLOR]</title>
-		        <utube>PaNiYPglK58</utube>
-		        <thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/JPL.jpg<thumbnail>
-		        <fanart>https://www.jpl.nasa.gov/about/then-now/images/9b.jpg</fanart>
-            </item>
-            <item>
-		        <title>[COLOR blue]Agencia Espacial Brasileira[/COLOR]</title>
-		        <utube>O-i8c_YiCGQ</utube>
-		        <thumbnail>http://www.ikhon.com.br/site/wp-content/uploads/2014/05/AEB1.jpg<thumbnail>
-		        <fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/AEB-banner.jpg</fanart>
-            </item>
-            <item>
-		        <title>[COLOR blue]International Space Station[/COLOR]</title>
-		        <utube>OHYHq4E9wcY</utube>
-		        <thumbnail>http://uufm.net/wp-content/uploads/2017/06/iss_logo.jpg<thumbnail>
-		        <fanart>https://1843magazine.static-economist.com/sites/default/files/styles/article-main-image-overlay/public/ISS-RT.jpg</fanart>
-            </item>		
-        </items>   
-    </channel>
+	<channel>
+        	<name>Documentari</name>
+    		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/documentary.jpg</thumbnail>
+    		<fanart>https://www.thesslstore.com/blog/wp-content/uploads/2017/05/iStock-596363226.jpg</fanart>
+    	    		<items>
+                		<item>
+					<title>[COLOR azure]National Geographic[/COLOR]</title>
+					<inputstream>https://1.ip2stream.icu/live/national_geographic_hd/chunks.m3u8</inputstream>
+					<thumbnail>https://www.skyoceanventures.com/images/national-geographic-logo.jpg</thumbnail>
+					<fanart>https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/homepage/nationalgeographicog.ngsversion.1530540626597.adapt.1900.1.jpg</fanart>
+				</item>
+                		<item>
+					<title>[COLOR azure]National Geographic Wild[/COLOR]</title>
+					<inputstream>https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8</inputstream>
+					<thumbnail></thumbnail>
+					<fanart></fanart>
+				</item>
+                		<item>
+					<title>[COLOR azure]National Geographic People[/COLOR]</title>
+					<inputstream>https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8</inputstream>
+					<thumbnail></thumbnail>
+					<fanart></fanart>
+				</item> 
+				<item>
+					<title>[COLOR azure]Discovery Channel[/COLOR]</title>
+					<link>https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png</thumbnail>
+					<fanart>https://www.screenafrica.com/wp-content/uploads/2018/07/Discovery.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]Discovery Science[/COLOR]</title>
+					<link>https://1.ip2stream.icu/live/discovery_science_hd/chunks.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png</thumbnail>
+					<fanart>http://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg</fanart>
+				</item>
+			</items>
+	</channel>	
 
-    <channel>
-    <name>Canali Radio</name>
-    <thumbnail>https://cdn.shopify.com/s/files/1/1095/6418/products/3d-397-300dpi_740x.jpg?v=1529607048</thumbnail>
-    <fanart>https://images5.alphacoders.com/348/thumb-1920-348697.jpg</fanart>
-        <items>
-            <item>
-		        <title>[COLOR red]NCS Radio[/COLOR]</title>
-		        <utube>oZzQC8NVTeM</utube>
-		        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
-		        <fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
-	        </item>
-        </items>
-    </channel>
+	<channel>
+        	<name>Intrattenimento</name>
+    		<thumbnail></thumbnail>
+    		<fanart></fanart>
+    	    		<items>
+                		<item>
+					<title>[COLOR azure]Top Crime[/COLOR]</title>
+					<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd?hdnts=st=1567457202~exp=1567471632~acl=/Content/dash_d0_clr_vos/live/channel(lt)*~hmac=822f9fadfb8079c8124e4839f89d0a1063b65e6c280cf3c2d27baf3eed9ad361</inputstream>
+					<thumbnail></thumbnail>
+					<fanart></fanart>
+				</item>
+                		<item>
+					<title>[COLOR azure]Iris[/COLOR]</title>
+					<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd?hdnts=st=1567457236~exp=1567471666~acl=/Content/dash_d0_clr_vos/live/channel(ki)*~hmac=6aaf699acc14eb2febdd3d178d8b9d08adb2105a2c2493d096e503797f00926e</inputstream>
+					<thumbnail></thumbnail>
+					<fanart></fanart>
+				</item>
+                		<item>
+					<title>[COLOR azure]Focus[/COLOR]</title>
+					<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd?hdnts=st=1567457305~exp=1567471735~acl=/Content/dash_d0_clr_vos/live/channel(fu)*~hmac=970b28862b92e257a3905f8807f3a2989ee76106ee6b20c490d4ce4738c9b4d0</inputstream>
+					<thumbnail></thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR grey]Mediaset 20[/COLOR]</title>
+					<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd?hdnts=st=1567456873~exp=1567471303~acl=/Content/dash_d0_clr_vos/live/channel(lb)*~hmac=dfd1fdfbb470eff0aa62284e88918d6f780689c7842b07b0491d0503419ecbf0</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR grey]DMAX[/COLOR]</title>
+					<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8</inputstream>
+					<thumbnail>https://www.ildecoder.com/wp/wp-content/uploads/2017/03/dmax.jpg<thumbnail>
+					<fanart>https://www.digitaltveurope.com/files/2019/01/Screen-Shot-2019-01-09-at-10.04.26-1024x576.png</fanart>
+				</item>			
+				<item>
+					<title>[COLOR yellow]Giallo[/COLOR]</title>
+					<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]Nove[/COLOR]</title>
+					<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]Motor Trend[/COLOR]</title>
+					<inputstream>https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8</inputstream>
+					<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/0e/4b/e80e4b9e-481b-8e3a-2c58-447aa661d40c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg<thumbnail>
+					<fanart>https://i.ytimg.com/vi/F3FA3TUDbd0/maxresdefault.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR orange]Alpha[/COLOR]</title>
+					<inputstream>https://live.deatv.it/alpha/01.m3u8</inputstream>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/alpha.jpg<thumbnail>
+					<fanart>https://www.engage.it/wp-content/uploads/2017/09/alpha_-600x400.jpg</fanart>
+				</item>	
+				<item>
+					<title>[COLOR azure]TV8[/COLOR]</title>
+					<link>https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/index.m3u8?hdnea=st=1508151541~exp=1571220000~acl=/*~hmac=2449fbe90db1123543d683a1f14c2cfc8c4681930725ab3eeed2d300a00c2c7e&Origin=tv8.it</link>
+					<thumbnail>https://www.dtti.it/wp-content/uploads/2017/01/TV8-NERO-01.jpg<thumbnail>
+					<fanart>https://www.circusf1.com/f14/wp-content/uploads/2018/01/tv8.jpg</fanart>
+				</item>		
+				<item>
+					<title>[COLOR azure]Paramount Channel[/COLOR]</title>
+					<inputstream>http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8</inputstream>
+					<thumbnail>https://www.forbes.ro/wp-content/uploads/2014/01/52ebc941acf5b.jpg<thumbnail>
+					<fanart>https://upload.wikimedia.org/wikipedia/it/4/4a/Paramount_logo.jpg</fanart>
+				</item>
+			</items>
+	</channel>
+	
+	<channel>
+		<name>Canali Italiani</name>
+		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/ita.jpg</thumbnail>
+		<fanart>https://i.pinimg.com/originals/9f/2d/fd/9f2dfd08494a7c8be19b59a63b1799c6.jpg</fanart>
+			<items>
+				<item>
+					<title>[COLOR blueviolet]VH+1[/COLOR]</title>
+					<link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/VH1.jpg<thumbnail>
+					<fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
+				</item>		
+				<item>
+					<title>[COLOR pink]Donna TV[/COLOR]</title>
+					<link>https://59d7d6f47d7fc.streamlock.net/okitalia/okitalia/chunklist_w1212047686.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/donna.jpg<thumbnail>
+					<fanart>https://www.dtti.it/wp-content/uploads/2018/12/donnatv.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]Cielo[/COLOR]</title>
+					<inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8</inputstream>
+					<link>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8</link>
+					<inputstream>https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/stream2/streamPlaylist.m3u8</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>	
+				<item>
+					<title>[COLOR azure]Focus[/COLOR]</title>
+					<inputstream>https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd</inputstream>
+					<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yOWVGd3a4N8JEw5WAQ3bVCfWnS-7UW6SYHDeXjAAN4mOAzyx<thumbnail>
+					<fanart>http://www.tuttotv.info/wp-content/uploads/2018/05/focus-canale-35-mediaset-promo.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]TGCOM24[/COLOR]</title>
+					<inputstream>https://live3t-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd?hdnts=st=1567454211~exp=1567468641~acl=/Content/dash_d0_clr_vos/live/channel(kf)*~hmac=d74802d7eed50ab90e01150063a57bf3e32c5fd432b737b1ce42374ad2a0fb78</inputstream>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR deepskyblue]UNI Nettuno TV[/COLOR]</title>
+					<link>https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8</link>
+					<thumbnail>http://www.misericordiaviareggio.it/wp-content/uploads/2015/08/00027556.jpeg<thumbnail>
+					<fanart>https://www.uninettunouniversity.net/allegati/1/poli/padova/2.jpg</fanart>
+				</item>
+			</items>
+	</channel>
+
+	<channel>
+		<name>Canali Esteri</name>
+		<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/globe.jpg</thumbnail>
+		<fanart>http://www.on-school.com/blog/wp-content/uploads/2014/12/000160188_prevstill1.jpeg</fanart>
+			<items>
+				<item>
+					<title>[COLOR red]Red[/COLOR][COLOR blue]Bull[/COLOR]</title>
+					<link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8</link>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/bull.jpg<thumbnail>
+					<fanart>https://avante.biz/wp-content/uploads/Red-Bull-Wallpaper/Red-Bull-Wallpaper-001.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]Olympic Channel[/COLOR]</title>
+					<link>https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?m=1566497837</link>
+					<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/61d6OEJK4ML.png<thumbnail>
+					<fanart>https://www.nbcsports.com/sites/nbcsports.com/files/oly-channel-slate.jpg</fanart>
+				</item>				
+				<item>
+					<title>[COLOR blue]NASA TV[/COLOR]</title>
+					<utube>21X5lGlDOfg</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
+					<fanart>https://www.repstatic.it/content/nazionale/img/2019/01/25/170900222-0a7d4ad5-aedf-4757-87f3-44309f4ca6f2.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR blue]NASA Media Channel[/COLOR]</title>
+					<utube>nA9UZF-SZoQ</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/nasa.jpg<thumbnail>
+					<fanart>https://i.pinimg.com/originals/7e/e6/ff/7ee6ffaeaba562069a5b1260b443c76b.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR blue]NASA Jet Propulsion Laboratory[/COLOR]</title>
+					<utube>PaNiYPglK58</utube>
+					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/JPL.jpg<thumbnail>
+					<fanart>https://www.jpl.nasa.gov/about/then-now/images/9b.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR blue]Agencia Espacial Brasileira[/COLOR]</title>
+					<utube>O-i8c_YiCGQ</utube>
+					<thumbnail>http://www.ikhon.com.br/site/wp-content/uploads/2014/05/AEB1.jpg<thumbnail>
+					<fanart>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/AEB-banner.jpg</fanart>
+				</item>
+				<item>
+					<title>[COLOR blue]International Space Station[/COLOR]</title>
+					<utube>OHYHq4E9wcY</utube>
+					<thumbnail>http://uufm.net/wp-content/uploads/2017/06/iss_logo.jpg<thumbnail>
+					<fanart>https://1843magazine.static-economist.com/sites/default/files/styles/article-main-image-overlay/public/ISS-RT.jpg</fanart>
+				</item>		
+			</items>   
+	</channel>
+	
+	<channel>
+		<name>Canali Radio</name>
+		<thumbnail>https://cdn.shopify.com/s/files/1/1095/6418/products/3d-397-300dpi_740x.jpg?v=1529607048</thumbnail>
+		<fanart>https://images5.alphacoders.com/348/thumb-1920-348697.jpg</fanart>
+			<items>
+				<item>
+					<title>[COLOR red]NCS Radio[/COLOR]</title>
+					<utube>oZzQC8NVTeM</utube>
+					<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5f/NoCopyrightSounds_logo_white-black.png<thumbnail>
+					<fanart>https://i.imgur.com/Sf4knfl.jpg</fanart>
+				</item>
+			</items>
+	</channel>
 
 </channels>
