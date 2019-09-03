@@ -281,7 +281,19 @@
 					<link>https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8</link>
 					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/VH1.jpg<thumbnail>
 					<fanart>https://como-funciona.com/wp-content/uploads/2019/02/image.jpg</fanart>
-				</item>		
+				</item>
+				<item>
+					<title>[COLOR azure]RSI LA1[/COLOR]</title>
+					<link>http://omega.ws:8080/localhd/211VGH699/1820</link>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
+				<item>
+					<title>[COLOR azure]RSI LA2[/COLOR]</title>
+					<link>http://omega.ws:8080/localhd/211VGH699/1819</link>
+					<thumbnail><thumbnail>
+					<fanart></fanart>
+				</item>
 				<item>
 					<title>[COLOR pink]Donna TV[/COLOR]</title>
 					<link>https://59d7d6f47d7fc.streamlock.net/okitalia/okitalia/chunklist_w1212047686.m3u8</link>
