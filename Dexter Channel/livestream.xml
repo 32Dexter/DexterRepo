@@ -62,12 +62,6 @@
 					<thumbnail>https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Loghi/si.jpg<thumbnail>
 					<fanart>https://tv.upgo.news/wp-content/uploads/2019/05/nuovi-canali-sportitalia.jpg</fanart>
 				</item>
-				<item>
-					<title>[COLOR azure]SI Sport Italia Motori[/COLOR]</title>
-					<inputstream>https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1567544087~acl=/*~data=hdntl~hmac=aa07bd7866658f9f1de2148ef901211442a791165a4475b417ba046b84f471c9</inputstream>
-					<thumbnail><thumbnail>
-					<fanart></fanart>
-				</item>
 			</items>
 	</channel>
 	
