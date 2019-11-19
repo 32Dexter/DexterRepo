@@ -30,17 +30,17 @@
       "tmdb_id":"30018",
       "links": [
         {
-          "title": "Backing1",
+          "title": "Backin1",
           "url": "http://backin.net/stream-tr75yad0odnl-500x400.html",
           "quality":"720"
         },
         {
-          "title": "Backing2",
+          "title": "Backin2",
           "url": "http://backin.net/tr75yad0odnl",
           "quality":"FHD"
         },
         {
-          "title": "Backing3",
+          "title": "Backin3",
           "url": "http://backin.net/s/streams.php?s=tr75yad0odnl#",
           "quality":"720"
         }
