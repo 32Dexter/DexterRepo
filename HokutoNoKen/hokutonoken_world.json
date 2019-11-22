@@ -2,13 +2,13 @@
   "menu": [
     {
       "title": "Le Serie TV",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/series.json",
-      "thumbnail": "https://img.over-blog-kiwi.com/0/55/06/54/20180122/ob_81ab4a_tv-series-icon-by-quaffleeye-d6qj64q.png"
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_series.json",
+      "thumbnail": ""
     },
     {
       "title": "I Film",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json",
-      "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokunoken_movie.json",
+      "thumbnail": ""
     } 
   ]
 }
