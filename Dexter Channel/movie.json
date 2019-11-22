@@ -38,6 +38,21 @@
           "quality":"720"
         }
       ]
+    },
+    {
+      "title": "Ken il guerriero - Il film",
+      "year": "1986",
+      "tmdb_id":"19877",
+      "links": [
+        {
+          "title": "PARTE 1",
+          "url": "https://www.dailymotion.com/video/x13zut8"
+        },
+        {
+          "title": "PARTE 2",
+          "url": "https://www.dailymotion.com/video/x140tkj"
+        }
+      ]
     }
   ]
 }
