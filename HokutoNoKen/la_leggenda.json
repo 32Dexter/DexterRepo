@@ -29,6 +29,21 @@
           "url": "https://www.dailymotion.com/video/x1283m4"
         }
       ]
+    },
+    {
+      "title": "Ken il guerriero - La leggenda di Raoul",
+      "year": "2007",
+      "tmdb_id":"114372",
+      "links": [
+        {
+          "title": "PARTE 1",
+          "url": "https://www.dailymotion.com/video/x12mcg0"
+        },
+        {
+          "title": "PARTE 2",
+          "url": "https://www.dailymotion.com/video/x12nagv"
+        }
+      ]
     }
   ]
 }
