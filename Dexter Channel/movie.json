@@ -38,17 +38,12 @@
           "quality":"720"
         }
       ]
-    },
-    {
-      "title":"Ken il guerriero - La leggenda di Toki",
-      "year":"2008",
-      "tmdb_id":"114371",
-      "links": [
-        {
-          "url": "https://www.dailymotion.com/video/x120ulj",
-          "quality":"720"
-        }
-      ]
     }
   ]
+  "menu": [
+    {
+      "title": "Ken il guerriero - La leggenda",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/ken_il_guerriero_la_leggenda.json",
+      "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
+    },
 }
