@@ -14,6 +14,21 @@
           "url": "https://www.dailymotion.com/video/x12drff"
         }
       ]
+    },
+    {
+      "title": "Ken il guerriero - La leggenda di Julia",
+      "year": "2007",
+      "tmdb_id":"114370",
+      "links": [
+        {
+          "title": "PARTE 1",
+          "url": "https://www.dailymotion.com/video/x128088"
+        },
+        {
+          "title": "PARTE 2",
+          "url": "https://www.dailymotion.com/video/x1283m4"
+        }
+      ]
     }
   ]
 }
