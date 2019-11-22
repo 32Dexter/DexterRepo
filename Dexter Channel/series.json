@@ -19,15 +19,6 @@
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_roul.json"
         }
       ]
-    },
-    { "title":"Ken il guerriero - La leggenda di Toki",
-      "year":"2008",
-      "tmdb_id":"114371",
-      "seasons_list": [
-        {
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_toki.json"
-        }
-      ]
     }
   ]
 }
