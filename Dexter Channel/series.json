@@ -19,6 +19,16 @@
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_roul.json"
         }
       ]
-    }
+    },
+    { "title":"Ken il guerriero: Le origini del mito",
+      "year":"2006",
+      "tmdb_id":"68203",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/le_origini_del_mito.json"
+        }
+      ]
+    } 
   ]
 }
