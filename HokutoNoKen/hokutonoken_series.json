@@ -1,0 +1,34 @@
+{
+  "tvshows_list": [
+    { "title":"Ken il guerriero: Seconda serie - La scuola imperiale di Cento",
+      "year":"1987",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "5",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken2.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: la leggenda di Raoul il dominatore del cielo",
+      "year":"2008",
+      "tmdb_id":"75115",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_roul.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: Le origini del mito",
+      "year":"2006",
+      "tmdb_id":"68203",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/le_origini_del_mito.json"
+        }
+      ]
+    } 
+  ]
+}
