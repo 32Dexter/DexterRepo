@@ -1,11 +1,11 @@
 {
   "tvshows_list": [
-    { "title":"Ken il guerriero",
-      "year":"1984",
+    { "title":"Ken il guerriero: Seconda serie - La scuola imperiale di Cento",
+      "year":"1987",
       "tmdb_id":"56387",
       "seasons_list": [
         {
-          "season": "5",
+          "season": "2",
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken2.json"
         }
       ]
