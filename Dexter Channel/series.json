@@ -20,12 +20,11 @@
         }
       ]
     },
-    { "title":"Ken il guerriero: la leggenda di Toki",
+    { "title":"Ken il guerriero - La leggenda di Toki",
       "year":"2008",
       "tmdb_id":"114371",
       "seasons_list": [
         {
-          "season": "1",
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_toki.json"
         }
       ]
