@@ -2,9 +2,8 @@
   "menu": [
     {
       "title": "Ken il guerriero - Il Film",
-      "year": "1986",
-      "tmdb_id":"19877",
       "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json",
+      "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XHrQz2FrMqtbXfZMwyo0xzMTib.jpg",
     },
     {
       "title": "Ken il guerriero - La leggenda",
