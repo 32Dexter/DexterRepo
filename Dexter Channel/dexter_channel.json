@@ -14,9 +14,14 @@
       "thumbnail": "https://img.over-blog-kiwi.com/0/55/06/54/20180122/ob_81ab4a_tv-series-icon-by-quaffleeye-d6qj64q.png"
     },
     {
-      "title": "Saga Ken il guerriero - La leggenda",
+      "title": "Ken il guerriero - La leggenda",
       "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json",
       "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
-    }
+    },
+    {
+      "title": "Ken il guerriero - La trilogia",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia",
+      "thumbnail": "https://www.mfpstore.it/401-large_default/ken-il-guerriero-box-3-dvd-trilogia-completa-oav-film-kenshiro-first-of-the-north-star-italiano.jpg" 
+      
   ]
 }
