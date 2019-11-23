@@ -1,0 +1,33 @@
+{
+  "movies_list": [
+    {
+      "title": "Ken il guerriero - Il film",
+      "year": "1986",
+      "tmdb_id":"19877",
+      "links": [
+        {
+          "title": "PARTE 1",
+          "url": "https://www.dailymotion.com/video/x13zut8"
+        },
+        {
+          "title": "PARTE 2",
+          "url": "https://www.dailymotion.com/video/x140tkj"
+        }
+      ]
+    }
+  ]
+},
+{
+  "menu": [
+    {
+      "title": "Ken il guerriero - La leggenda",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json",
+      "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
+    },
+    {
+      "title": "Ken il guerriero - La trilogia",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json",
+      "thumbnail": "https://www.mfpstore.it/401-large_default/ken-il-guerriero-box-3-dvd-trilogia-completa-oav-film-kenshiro-first-of-the-north-star-italiano.jpg" 
+    }
+  ]
+}
