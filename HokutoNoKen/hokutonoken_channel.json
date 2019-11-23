@@ -1,0 +1,17 @@
+{
+  "channel_name": "Hokutonoken Channel",
+  "fanart": "hhttps://wallpapercave.com/wp/wp3223041.png",
+  "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/811tbpOGYyL._SL1119_.jpg",
+  "menu": [
+    {
+      "title": "Le Serie TV",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_series.json",
+      "thumbnail": ""
+    },
+    {
+      "title": "I Film",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_movie2.json",
+      "thumbnail": ""
+    } 
+  ]
+}
