@@ -10,24 +10,24 @@
     },
     {
       "title": "I Film",
-      "thumbnail": ""
-	  "level2":{
-				"first":
-						{
-							"title":"Ken il guerriero - Il film",
-							"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json"
-						},
-				"second":
-						{
-							"title":"Ken il guerriero - La leggenda",
-							"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json"
-						},
-				"third":
-						{
-							"title":"Ken il guerriero - La trilogia",
-							"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json"
-						}
-				}
+      "thumbnail": "",
+      "level2":{
+		"first":
+			{
+				"title":"Ken il guerriero - Il film",
+				"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json"
+			},
+		"second":
+			{
+				"title":"Ken il guerriero - La leggenda",
+				"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json"
+			},
+		"third":
+			{
+				"title":"Ken il guerriero - La trilogia",
+				"url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json"
+			}
+		}
     } 
   ]
 }
