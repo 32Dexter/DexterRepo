@@ -1,21 +1,24 @@
 {
  "menu": [
     {
-      "title": "Film",
-      "plot": "Qualcosa è cambiato",
-      "thumbnail": "/Movies.png",
-      "level2":{"first":{"title":"Ken il guerriero - Il film",
-                         "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json"
-                        },
-                "second":{"title":"Ken il guerriero - La leggenda",
-                          "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json",
-						  "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
-                         }
-				"third":{"title":"Ken il guerriero - La trilogia",
-                          "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json",
-						  "thumbnail": "https://www.mfpstore.it/401-large_default/ken-il-guerriero-box-3-dvd-trilogia-completa-oav-film-kenshiro-first-of-the-north-star-italiano.jpg"
-                         }
-               }
+      "title": "I Film",
+      "level2":{
+	        "first":
+		{
+			"title":"Ken il guerriero - Il film",
+                        "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json"
+                },
+		"second":
+		{
+			"title":"Ken il guerriero - La leggenda",
+                        "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json"
+                },
+		"third":
+		{
+			"title":"Ken il guerriero - La trilogia",
+                        "url":"https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json"
+                }
+      }
     }
   ]
 }
