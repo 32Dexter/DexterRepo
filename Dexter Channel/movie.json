@@ -38,6 +38,17 @@
           "quality":"720"
         }
       ]
+    },
+    {
+      "title": "I saw the Devil",
+      "year": "2010",
+      "tmdb_id":"49797",
+      "links": [
+        {
+          "url": "http://narvi.weirdmoviez.xyz/v/isawthedevil.mp4",
+          "quality":"720"
+        }
+      ]
     }
   ]
 }
