@@ -1,5 +1,15 @@
 {
   "tvshows_list": [
+    { "title":"The Brave",
+      "year":"2017",
+      "tmdb_id":"71714",
+      "seasons_list": [
+        {
+          "season": "5",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/thebrave.json"
+        }
+      ]
+    },
     { "title":"Ken il guerriero: Seconda serie - La scuola imperiale di Cento",
       "year":"1987",
       "tmdb_id":"56387",
