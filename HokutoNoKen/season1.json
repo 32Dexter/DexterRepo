@@ -1,6 +1,6 @@
 {
   "tvshows_list": [
-    { "title":"Prima Parte - Alla ricerca di Shin",
+    { "title":"Alla ricerca di Shin",
       "year":"1984",
       "tmdb_id":"56387",
       "seasons_list": [
@@ -11,7 +11,7 @@
         }
       ]
     },
-    { "title":"Seconda Parte - Mamiya, Rei e la famiglia Cobra",
+    { "title":"Mamiya, Rei e la famiglia Cobra",
       "year":"1985",
       "tmdb_id":"56387",
       "seasons_list": [
@@ -22,7 +22,7 @@
         }
       ]
     },
-    { "title":"Seconda Parte - Alla ricerca di Toki: Jagger, Amiba e la prigione di Cassandra",
+    { "title":"Alla ricerca di Toki: Jagger, Amiba e la prigione di Cassandra",
       "year":"1985",
       "tmdb_id":"56387",
       "seasons_list": [
@@ -32,7 +32,7 @@
         }
       ]
     },
-    { "title":"Seconda Parte - Il Re di Hokuto",
+    { "title":"Il Re di Hokuto",
       "year":"1985",
       "tmdb_id":"56387",
       "seasons_list": [
@@ -42,7 +42,7 @@
         }
       ]
     },
-    { "title":"Seconda Parte - Le sei stelle di Nanto: Yuda",
+    { "title":"Le sei stelle di Nanto: Yuda",
       "year":"1985",
       "tmdb_id":"56387",
       "seasons_list": [
@@ -51,6 +51,65 @@
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season5.json"
         }
       ]
-    }
+    },
+    { "title":"Le sei stelle di Nanto: Souther e Shu",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "3",
+          "link": ""
+        }
+      ]
+    },
+    { "title":"Toki contro Raoul",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "3",
+          "link": ""
+        }
+      ]
+    },
+    { "title":"Ryuga di Sirio",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "3",
+          "link": ""
+        }
+      ]
+    },
+    { "title":"Episodi riassuntivi",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "3",
+          "link": ""
+        }
+      ]
+    },
+    { "title":"Le sei stelle di Nanto: Julia",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "4",
+          "link": ""
+        }
+      ]
+    },{ "title":"Kenshiro contro Raoul",
+      "year":"1986",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "4",
+          "link": ""
+        }
+      ]
+    }    
   ]
 }
