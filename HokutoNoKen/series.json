@@ -1,5 +1,15 @@
 {
   "tvshows_list": [
+    { "title":"Ken il guerriero: Prima serie",
+      "year":"1984",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season1.json"
+        }
+      ]
+    },
     { "title":"Ken il guerriero: Prima serie - Prima Parte - Alla ricerca di Shin",
       "year":"1984",
       "tmdb_id":"56387",
