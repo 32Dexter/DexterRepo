@@ -10,6 +10,17 @@
           "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/rvOubYFBOlSYYv5nRupEjGn8cMQ.jpg"
         }
       ]
+    },
+    { "title":"La terra dei Demoni",
+      "year":"1987",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "6",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season13.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/8Q7eUkZ8YvsPANgAEO9YL7roXnU.jpg"
+        }
+      ]
     }
   ]
 }
