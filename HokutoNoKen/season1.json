@@ -1,0 +1,54 @@
+{
+  "tvshows_list": [
+    { "title":"Prima Parte - Alla ricerca di Shin",
+      "year":"1984",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season1.json"
+        }
+      ]
+    },
+    { "title":"Seconda Parte - Mamiya, Rei e la famiglia Cobra",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season2.json"
+        }
+      ]
+    },
+    { "title":"Seconda Parte - Alla ricerca di Toki: Jagger, Amiba e la prigione di Cassandra",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season3.json"
+        }
+      ]
+    },
+    { "title":"Seconda Parte - Il Re di Hokuto",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season4.json"
+        }
+      ]
+    },
+    { "title":"Seconda Parte - Le sei stelle di Nanto: Yuda",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season5.json"
+        }
+      ]
+    }
+  ]
+}
