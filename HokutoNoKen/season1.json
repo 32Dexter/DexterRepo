@@ -28,7 +28,8 @@
       "seasons_list": [
         {
           "season": "2",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season3.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season3.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/nXC1ycA2HtKWPMR76oZbRDOPLc0.jpg"
         }
       ]
     },
@@ -38,7 +39,8 @@
       "seasons_list": [
         {
           "season": "2",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season4.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season4.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/nXC1ycA2HtKWPMR76oZbRDOPLc0.jpg"
         }
       ]
     },
@@ -48,7 +50,8 @@
       "seasons_list": [
         {
           "season": "2",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season5.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season5.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/nXC1ycA2HtKWPMR76oZbRDOPLc0.jpg"
         }
       ]
     },
@@ -58,7 +61,8 @@
       "seasons_list": [
         {
           "season": "3",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season6.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season6.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/2DFXkJwqyKy4P7gtc30zskpJmgJ.jpg"
         }
       ]
     },
@@ -68,7 +72,8 @@
       "seasons_list": [
         {
           "season": "3",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season7.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season7.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/2DFXkJwqyKy4P7gtc30zskpJmgJ.jpg"
         }
       ]
     },
@@ -78,7 +83,8 @@
       "seasons_list": [
         {
           "season": "3",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season8.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season8.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/2DFXkJwqyKy4P7gtc30zskpJmgJ.jpg"
         }
       ]
     },
@@ -88,7 +94,8 @@
       "seasons_list": [
         {
           "season": "3",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season9.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season9.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/2DFXkJwqyKy4P7gtc30zskpJmgJ.jpg"
         }
       ]
     },
@@ -98,7 +105,8 @@
       "seasons_list": [
         {
           "season": "4",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season10.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season10.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/pLRXR8yi2J5JoGiCUY91gflgV1E.jpg"
         }
       ]
     },{ "title":"Kenshiro contro Raoul",
@@ -107,7 +115,8 @@
       "seasons_list": [
         {
           "season": "4",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season11.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season11.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/pLRXR8yi2J5JoGiCUY91gflgV1E.jpg"
         }
       ]
     }    
