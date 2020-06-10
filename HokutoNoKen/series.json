@@ -1,10 +1,12 @@
 {
   "menu": [
     { "title":"Ken il guerriero: Prima Stagione",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season1.json"
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season1.json",
+      "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/v3rCvyhOTULf4N1EpsD3dtJsI93.jpg"
     },
     { "title":"Ken il guerriero: Seconda Stagione",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season2.json"
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season2.json",
+      "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/rvOubYFBOlSYYv5nRupEjGn8cMQ.jpg"
     }
   ]
 }
