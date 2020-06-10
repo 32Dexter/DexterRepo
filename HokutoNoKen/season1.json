@@ -6,7 +6,8 @@
       "seasons_list": [
         {
           "season": "1",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season1.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season1.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/v3rCvyhOTULf4N1EpsD3dtJsI93.jpg"
         }
       ]
     },
@@ -16,7 +17,8 @@
       "seasons_list": [
         {
           "season": "2",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season2.json"
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season2.json",
+          "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/nXC1ycA2HtKWPMR76oZbRDOPLc0.jpg"
         }
       ]
     },
