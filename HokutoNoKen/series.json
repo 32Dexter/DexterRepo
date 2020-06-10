@@ -1,1 +1,54 @@
-asda
+{
+  "tvshows_list": [
+    { "title":"Ken il guerriero: Prima serie - Prima Parte - Alla ricerca di Shin",
+      "year":"1984",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season1.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: Prima serie - Seconda Parte - Mamiya, Rei e la famiglia Cobra",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season2.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: Prima serie - Seconda Parte - Alla ricerca di Toki: Jagger, Amiba e la prigione di Cassandra",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season3.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: Prima serie - Seconda Parte - Il Re di Hokuto",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season4.json"
+        }
+      ]
+    },
+    { "title":"Ken il guerriero: Prima serie - Seconda Parte - Le sei stelle di Nanto: Yuda",
+      "year":"1985",
+      "tmdb_id":"56387",
+      "seasons_list": [
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_season5.json"
+        }
+      ]
+    }
+  ]
+}
