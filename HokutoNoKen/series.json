@@ -1,24 +1,10 @@
 {
-  "tvshows_list": [
+  "menu": [
     { "title":"Ken il guerriero: Prima Stagione",
-      "year":"1984",
-      "tmdb_id":"56387",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season1.json"
-        }
-      ]
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season1.json"
     },
     { "title":"Ken il guerriero: Seconda Stagione",
-      "year":"1987",
-      "tmdb_id":"56387",
-      "seasons_list": [
-        {
-          "season": "5",
-          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season2.json"
-        }
-      ]
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season2.json"
     }
   ]
 }
