@@ -7,6 +7,14 @@
     { "title":"Ken il guerriero: Seconda Stagione",
       "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/season2.json",
       "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/rvOubYFBOlSYYv5nRupEjGn8cMQ.jpg"
+    },
+    { "title":"Ken il guerriero: la leggenda di Raoul il dominatore del cielo",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda_di_roul.json",
+      "thumbnail": "https://image.tmdb.org/t/p/w130_and_h195_bestv2/rvOubYFBOlSYYv5nRupEjGn8cMQ.jpg"
+    },
+    { "title":"Ken il guerriero: Le origini del mito",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/le_origini_del_mito.json",
+      "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg"
     }
   ]
 }
