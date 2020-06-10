@@ -1,0 +1,17 @@
+{
+  "channel_name": "HokutoNoKen",
+  "fanart": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/fanart.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/channel.jpg",
+  "menu": [
+    {
+      "title": "I Film",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/movie.json",
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/films.jpg"
+    },
+    {
+      "title": "Le Serie TV",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/series.json",
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/series.jpg"
+    } 
+  ]
+}
