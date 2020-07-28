@@ -9,6 +9,28 @@
           "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/thebrave.json"
         }
       ]
+    },
+    { "title":"The Librarians",
+      "year":"2014",
+      "tmdb_id":"61599",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/librarians1.json"
+        },
+        {
+          "season": "2",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/librarians2.json"
+        },
+        {
+          "season": "3",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/librarians3.json"
+        },
+        {
+          "season": "4",
+          "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter Channel/librarians4.json"
+        }
+      ]
     } 
   ]
 }
