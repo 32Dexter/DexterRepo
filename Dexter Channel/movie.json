@@ -62,7 +62,7 @@
     {
       "title": "Divine Fury",
       "year": "2019",
-      "tmdb_id":"",
+      "tmdb_id":"571627",
       "links": [
         {
           "url": "https://drive.google.com/file/d/1pv7wfhkxxMv8vDbMGpFu6i0_cHYITTQQ/view"
@@ -74,6 +74,17 @@
           "url": "https://mega.nz/file/qWhHVY6I#3nsQpPZoMDVxdpwsBW22U4lhcfDePilb13onf63JDRE"
         }
       ]
+    },
+    {
+      "title": "Fist of Legend",
+      "year": "1994",
+      "tmdb_id":"17809",
+      "links": [
+        {
+          "url": "https://www.dailymotion.com/cdn/manifest/video/x54x8oh.m3u8?sec=6Gs_2J7jYAgj6lwFpO5JwnJI70KFICElRCoc5DMVsI85vPEAedzBxY2wtEnPTjbKAqTOfmz5eJnl0LnwuTb_wA"
+        }
+      ]
     }
+    
   ]
 }
