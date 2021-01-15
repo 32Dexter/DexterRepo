@@ -4,6 +4,11 @@
       "title": "Far East Films",
       "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/far_east.json",
       "thumbnail": "https://fareastgr.com/wp-content/uploads/2019/04/far-east-favicon-01.png"
+    },
+    {
+      "title": "Horror",
+      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/horror.json",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51e5fOeSJ%2BL.png"
     }
   ],
   "movies_list": [
