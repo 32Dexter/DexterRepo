@@ -54,6 +54,17 @@
           "quality":"720"
         }
       ]
+    },
+    {
+      "title": "La Lunga Vendetta Apache",
+      "year": "1971",
+      "tmdb_id":"77668",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=XOazJf555nY",
+          "quality":"720"
+        }
+      ]
     }
   ]
 }
