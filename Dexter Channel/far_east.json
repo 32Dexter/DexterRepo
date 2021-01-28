@@ -122,6 +122,16 @@
           "url": "https://www.aparat.com/video/hls/manifest/visittype/site/videohash/qxJr5/f/qxJr5.m3u8?k=a92aa&bh=359"
         }
       ]
-    }
+    },
+    {
+      "title": "The Outsider",
+      "year": "2018",
+      "tmdb_id":"199928",
+      "links": [
+        {
+          "url": "https://streamta.pe/e/Lv3BZ7agB0FR2VX/the-outsider.mp4?c1"
+        }
+      ]
+    },
   ]
 }
