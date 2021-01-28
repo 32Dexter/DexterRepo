@@ -99,7 +99,6 @@
       "tmdb_id":"552737",
       "links": [
         {
-          "hostName": "PoorTech",
           "url": "https://www.facebook.com/watch/?v=245821923187797"
         }
       ]
@@ -129,7 +128,7 @@
       "tmdb_id":"199928",
       "links": [
         {
-          "url": "https://streamta.pe/e/Lv3BZ7agB0FR2VX/the-outsider.mp4"
+          "url": "https://streamta.pe/e/Lv3BZ7agB0FR2VX"
         },
         {
           "url": "https://dood.to/e/o0zpmhsxep2r"
