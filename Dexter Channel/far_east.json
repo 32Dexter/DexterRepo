@@ -64,7 +64,7 @@
           "url": "https://www.youtube.com/watch?v=R2nz9K8Gis8"
         },
         {
-          "url": "https://video.xx.fbcdn.net/v/t42.9040-2/10000000_3342200932564022_2234405850821527021_n.mp4?_nc_cat=110&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6ImxlZ2FjeV9zZCJ9&_nc_ohc=J945NyTEcnoAX-_mPWr&_nc_ht=video-fco1-1.xx&oh=77417a7368442c386b0e4f18c66448ac&oe=5FFF2055"
+          "url": "https://www.facebook.com/somersetsg/videos/845829872907076"
         }
       ]
     },
@@ -95,7 +95,7 @@
       "tmdb_id":"552737",
       "links": [
         {
-          "url": "https://www.facebook.com/watch/?v=245821923187797"
+          "url": "https://www.facebook.com/EnjoyWatchingEveryday/videos/245821923187797"
         }
       ]
     },
@@ -105,16 +105,10 @@
       "tmdb_id":"571785",
       "links": [
         {
-          "url": "https://aspb19.cdn.asset.aparat.com/aparat-video/9f623a28a08a0d5e760303b052e5606423422954-480p.apt/chunk.m3u8?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgwYmZiYzVkZTcwOWY1OTMwMGE4ZmM0MGI4MmUzZjYzIiwiZXhwIjoxNjExODUyMzkwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Kk5pCHOTM1UhyOKMZ6TDuXzC5OMMxyxL1l2k5zrfPOg"
+          "url": "https://aspb19.cdn.asset.aparat.com/aparat-video/9f623a28a08a0d5e760303b052e5606423422954-480p.apt/chunk.m3u8"
         },
-          {
-          "url": "https://static.cdn.asset.aparat.com/avt/23422954_t.vtt"
-        },
-          {
-          "url": "https://aspb19.cdn.asset.aparat.com/aparat-video/9f623a28a08a0d5e760303b052e5606423422954-360p.apt/chunk.m3u8?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgwYmZiYzVkZTcwOWY1OTMwMGE4ZmM0MGI4MmUzZjYzIiwiZXhwIjoxNjExODUyMzkwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Kk5pCHOTM1UhyOKMZ6TDuXzC5OMMxyxL1l2k5zrfPOg"
-        },
-          {
-          "url": "https://www.aparat.com/video/hls/manifest/visittype/site/videohash/qxJr5/f/qxJr5.m3u8?k=a92aa&bh=359"
+        {
+          "url": "https://www.aparat.com/video/hls/manifest/visittype/site/videohash/qxJr5/f/qxJr5.m3u8"
         }
       ]
     },
