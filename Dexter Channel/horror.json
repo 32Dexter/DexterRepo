@@ -69,6 +69,22 @@
           "url": "https://filmclub.tv/uploads/titlovi/The.Hallow.2015.HDRip.XViD-ETRG.bs-latn-ba.srt"
         },
       ]
-    }
+    },
+    {
+      "title": "The Nightshifter",
+      "year": "2019",
+      "tmdb_id":"515908",
+      "links": [
+        {
+          "url": "https://s16.namasha.com/dash/7268910642/Manifest.mpd"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=MHrCIpCEzlg"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4DBzCQXQEKo"
+        }
+      ]
+    },
   ]
 }
