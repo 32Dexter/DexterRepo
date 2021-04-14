@@ -129,6 +129,25 @@
           "url": "https://www.youtube.com/watch?v=QAoJsAZMiPM"
         }
       ]
-    }    
+    },
+    {
+      "title": "The Witch: Part 1 - The Subversion",
+      "year": "2018",
+      "tmdb_id":"530254",
+      "links": [
+        {
+          "url": "https://s6.mihanvideo.com/hls/user_contents/videos/ud3qkddmnovx6d7b0toc999ixrgozkgujym/WiyMDnTXsn4uPlAuQvhU_480p.mp4/segments-v1-a1.m3u8"
+        },
+        {
+          "url": "https://s39d43fexbntyiorcnugfd3op2dks3h1ds.liivideo.com/hls/,ritptfjsr6apc3jy7afo4g6mym4um647pdh2yq25xwtw3qzfzkswgivpl2oq,.urlset/master.m3u8"
+        },
+        {
+          "url": "https://s-v2.tamasha.com/statics/videos_file/c8/5a/3mEeB_c85a7b0ef19b84188d31329eab1ae69846acab80_n_720.mp4"
+        },
+        {
+          "url": "https://s32.vidsharcdn.com/hls/pdom4uoelcm4f4kmlf6ch33xfqmxmzjnwinumrblfgpkkwym3gzrvcpe5c4a/index-v1-a1.m3u8"
+        }
+      ]
+    }
   ]
 }
