@@ -2,18 +2,18 @@
   "menu": [
     {
       "title": "Ken il guerriero - Il Film",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/hokutonoken_the_movie.json",
-      "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XHrQz2FrMqtbXfZMwyo0xzMTib.jpg"
+      "link": "/hokutonoken_the_movie.json",
+      "thumbnail": "/images/01.jpg"
     },
     {
       "title": "Ken il guerriero - La leggenda",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_leggenda.json",
-      "thumbnail": "https://static.lafeltrinelli.it/static/frontside/xxl/477/9112477_3443367.jpg"
+      "link": "/la_leggenda.json",
+      "thumbnail": "/images/02.jpg"
     },
     {
       "title": "Ken il guerriero - La trilogia",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/HokutoNoKen/la_trilogia.json",
-      "thumbnail": "https://www.mfpstore.it/401-large_default/ken-il-guerriero-box-3-dvd-trilogia-completa-oav-film-kenshiro-first-of-the-north-star-italiano.jpg" 
+      "link": "/la_trilogia.json",
+      "thumbnail": "/images/03.jpg" 
     }
   ]
 }
