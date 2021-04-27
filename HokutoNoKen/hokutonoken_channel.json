@@ -1,17 +1,17 @@
 {
   "channel_name": "HokutoNoKen",
-  "fanart": "/fanart.jpg",
-  "thumbnail": "/channel.jpg",
+  "fanart": "/images/fanart.jpg",
+  "thumbnail": "/images/channel.jpg",
   "menu": [
     {
       "title": "I Film",
       "link": "/hokutonoken_movie.json",
-      "thumbnail": "/films.jpg"
+      "thumbnail": "/images/films.jpg"
     },
     {
       "title": "Le Serie TV",
       "link": "/series.json",
-      "thumbnail": "/series.jpg"
+      "thumbnail": "/images/series.jpg"
     } 
   ]
 }
