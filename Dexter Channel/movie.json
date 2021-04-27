@@ -2,18 +2,18 @@
   "menu": [
     {
       "title": "Far East Films",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/far_east.json",
-      "thumbnail": "https://fareastgr.com/wp-content/uploads/2019/04/far-east-favicon-01.png"
+      "link": "/far_east.json",
+      "thumbnail": "/images/far-east.png"
     },
     {
       "title": "Horror",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/horror.json",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51e5fOeSJ%2BL.png"
+      "link": "/horror.json",
+      "thumbnail": "/images/horror.png"
     },
         {
       "title": "Documentaries",
-      "link": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/documentary.json",
-      "thumbnail": "https://artwork.captivate.fm/80cf10f5-0d88-4d49-a4a9-9b4009c5ae39/untitled1_2.jpg"
+      "link": "/documentary.json",
+      "thumbnail": "/images/documentaries.jpg"
     }
   ],
   "movies_list": [
