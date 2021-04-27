@@ -6,12 +6,12 @@
     {
       "title": "Film",
       "link": "/movie.json",
-      "thumbnail": "/images/movies.png"
+      "thumbnail": "/images/movie.png"
     },
     {
       "title": "Serie",
       "link": "/series.json",
-      "thumbnail": "/images/series.png"
+      "thumbnail": "/images/serie.png"
     } 
   ]
 }
