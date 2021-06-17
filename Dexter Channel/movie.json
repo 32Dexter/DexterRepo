@@ -19,6 +19,11 @@
       "title": "Documentaries",
       "link": "/documentary.json",
       "thumbnail": "https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Documentary-icon.png"
+    },
+    {
+      "title": "War",
+      "link": "/war.json",
+      "thumbnail": "https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/War-icon.png"
     }
   ],
   "movies_list": [
