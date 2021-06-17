@@ -8,17 +8,17 @@
     {
       "title": "Horror",
       "link": "/horror.json",
-      "thumbnail": "/images/horror.png"
+      "thumbnail": "https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Horror-icon.png"
     },
     {
       "title": "Action",
       "link": "/action.json",
-      "thumbnail": "https://i.pinimg.com/originals/4e/15/20/4e152098643790b5c468379175b85b63.png"
+      "thumbnail": "https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Action-icon.png"
     },
     {
       "title": "Documentaries",
       "link": "/documentary.json",
-      "thumbnail": "/images/documentaries.jpg"
+      "thumbnail": "https://icons.iconarchive.com/icons/limav/movie-genres-folder/512/Documentary-icon.png"
     }
   ],
   "movies_list": [
