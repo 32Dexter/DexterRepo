@@ -10,7 +10,12 @@
       "link": "/horror.json",
       "thumbnail": "/images/horror.png"
     },
-        {
+    {
+      "title": "Action",
+      "link": "/action.json",
+      "thumbnail": "https://i.pinimg.com/originals/4e/15/20/4e152098643790b5c468379175b85b63.png"
+    },
+    {
       "title": "Documentaries",
       "link": "/documentary.json",
       "thumbnail": "/images/documentaries.jpg"
