@@ -12,13 +12,12 @@
                "url":"https://ok.ru/video/2591634361043"
             },
             {
-               "url":"https://ok.ru/video/312496818783"
-            },
-            {
-               "url":"https://ok.ru/video/349625059889"
-            },
-            {
                "url":"https://ok.ru/video/349625059889",
+               "quality":"1080p",
+               "info":"SUB:ARAB"
+            },
+            {
+               "url":"https://ok.ru/video/1257317009970",
                "quality":"1080p"
             }
          ]
