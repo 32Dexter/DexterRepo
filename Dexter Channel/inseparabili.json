@@ -1,0 +1,40 @@
+{
+  "episodes_list": [
+    {
+      "number": "01",
+      "title": "Episodio 1",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=T77fYZGsiyA"
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Episodio 2",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=iwX0k4YZgKA"
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Episodio 3",
+      "links": [
+        {
+          "ur": "https://www.youtube.com/watch?v=T5xozqMDjIM"
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Episodio 4",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=7gd-2vH7QJo"
+        }
+      ]
+    }
+  ]
+}
