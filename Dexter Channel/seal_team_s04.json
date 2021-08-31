@@ -5,8 +5,12 @@
       "title": "God of War (1)",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:d04fb49ba71a50ae4212e7dc1c85119faa64d677&dn=SEAL.Team.S04E01-E02.iNTERNAL.1080p.WEB.h264-KOGi%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2730"
-        }
+          "url": "magnet:?xt=urn:btih:d04fb49ba71a50ae4212e7dc1c85119faa64d677&dn=SEAL.Team.S04E01-E02.iNTERNAL.1080p.WEB.h264-KOGi%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2730",
+          "quality":"1080p"
+        },
+        {
+          "url": "magnet:?xt=urn:btih:92961d1d9a4e189ab2eb23e1ac95250827192f88&dn=SEAL.Team.S04E01.720p.WEB.H264-CAKES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce",
+          "quality":"720p"
       ]
     },
     {
