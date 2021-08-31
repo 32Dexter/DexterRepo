@@ -23,6 +23,10 @@
           "quality":"1080p"
         },
         {
+          "url": "magnet:?xt=urn:btih:56fe717d741bc4918989e8a60c5ee06cfbf06616&dn=SEAL.Team.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2850&tr=udp%3A%2F%2F9.rarbg.to%3A2850",
+          "quality":"720p"
+        },
+        {
           "url": "magnet:?xt=urn:btih:2f02c0c420a7abd70a3c6f80931e3549f30b401a&dn=SEAL.Team.S04.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900&tr=udp%3A%2F%2F9.rarbg.to%3A2900",
           "quality":"480p"
         }
