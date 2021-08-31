@@ -11,6 +11,7 @@
         {
           "url": "magnet:?xt=urn:btih:92961d1d9a4e189ab2eb23e1ac95250827192f88&dn=SEAL.Team.S04E01.720p.WEB.H264-CAKES%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce",
           "quality":"720p"
+        }
       ]
     },
     {
@@ -18,7 +19,12 @@
       "title": "God of War (2)",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:22d9fce317d16f271b731c4420f205c3d2c9e22b&dn=SEAL.Team.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2990&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15800&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12750"
+          "url": "magnet:?xt=urn:btih:22d9fce317d16f271b731c4420f205c3d2c9e22b&dn=SEAL.Team.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2810&tr=udp%3A%2F%2F9.rarbg.to%3A2990&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15800&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12750",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -27,7 +33,12 @@
       "title": "The New Normal",
       "links": [
         {
-          "ur": "magnet:?xt=urn:btih:eef82be262b667c17d641dec0cd6b950b77f33a1&dn=SEAL.Team.S04E03.iNTERNAL.1080p.WEB.h264-KOGi%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2990"
+          "ur": "magnet:?xt=urn:btih:eef82be262b667c17d641dec0cd6b950b77f33a1&dn=SEAL.Team.S04E03.iNTERNAL.1080p.WEB.h264-KOGi%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2990&tr=udp%3A%2F%2F9.rarbg.to%3A2990",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -36,7 +47,12 @@
       "title": "Shockwave",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:b296a758896e91625d2c5a25a10843cd28d48018&dn=SEAL.Team.S04E04.1080p.WEB.H264-GGWP%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2870"
+          "url": "magnet:?xt=urn:btih:b296a758896e91625d2c5a25a10843cd28d48018&dn=SEAL.Team.S04E04.1080p.WEB.H264-GGWP%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2870&tr=udp%3A%2F%2F9.rarbg.to%3A2870",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -45,7 +61,12 @@
       "title": "The Carrot or the Stick",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:b95e2583652302f4a695e14a6e620f1668e1dc7c&dn=SEAL.Team.S04E05.1080p.WEB.H264-GGEZ%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2950"
+          "url": "magnet:?xt=urn:btih:b95e2583652302f4a695e14a6e620f1668e1dc7c&dn=SEAL.Team.S04E05.1080p.WEB.H264-GGEZ%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2950&tr=udp%3A%2F%2F9.rarbg.to%3A2950",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -54,7 +75,12 @@
       "title": "Horror Has a Face",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:53d5311afd0497b3948f420cefc4d5bb98fc252a&dn=SEAL.Team.S04E06.Horror.Has.a.Face.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2770"
+          "url": "magnet:?xt=urn:btih:53d5311afd0497b3948f420cefc4d5bb98fc252a&dn=SEAL.Team.S04E06.Horror.Has.a.Face.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2770",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -63,7 +89,12 @@
       "title": "All In",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:7a41b437e05ab4af8ef9c499a4f0da66d7ba1cad&dn=SEAL.Team.S04E07.1080p.WEB.H264-GLHF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2940"
+          "url": "magnet:?xt=urn:btih:7a41b437e05ab4af8ef9c499a4f0da66d7ba1cad&dn=SEAL.Team.S04E07.1080p.WEB.H264-GLHF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2940",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -72,7 +103,12 @@
       "title": "Cover for Action",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:d870c1fba534a31366f38b82daa8f89f5ecccbca&dn=SEAL.Team.S04E08.Cover.for.Action.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2970"
+          "url": "magnet:?xt=urn:btih:d870c1fba534a31366f38b82daa8f89f5ecccbca&dn=SEAL.Team.S04E08.Cover.for.Action.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970&tr=udp%3A%2F%2F9.rarbg.to%3A2970",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -81,7 +117,12 @@
       "title": "Reckoning",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:d426ca5622924843cd728b05aeb6befba12784a1&dn=SEAL.Team.S04E09.Reckoning.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2770"
+          "url": "magnet:?xt=urn:btih:d426ca5622924843cd728b05aeb6befba12784a1&dn=SEAL.Team.S04E09.Reckoning.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2770",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -90,7 +131,12 @@
       "title": "A Question of Honor",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:4dfa206cb39e666a1556b417c82ce40dbc06a56b&dn=SEAL.Team.S04E10.A.Question.of.Honor.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2780"
+          "url": "magnet:?xt=urn:btih:4dfa206cb39e666a1556b417c82ce40dbc06a56b&dn=SEAL.Team.S04E10.A.Question.of.Honor.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2780",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -99,7 +145,12 @@
       "title": "Limits of Loyalty",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:a97c2ae71c85a00447fd9ca9b47077b5e5cc1de2&dn=SEAL.Team.S04E11.Limits.of.Loyalty.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2960"
+          "url": "magnet:?xt=urn:btih:a97c2ae71c85a00447fd9ca9b47077b5e5cc1de2&dn=SEAL.Team.S04E11.Limits.of.Loyalty.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960&tr=udp%3A%2F%2F9.rarbg.to%3A2960",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -108,7 +159,12 @@
       "title": "Rearview Mirror",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:0eeabe141081a132ddd533efb777cc1027fa0ee0&dn=SEAL.Team.S04E12.Rearview.Mirror.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2780&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14750&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750"
+          "url": "magnet:?xt=urn:btih:0eeabe141081a132ddd533efb777cc1027fa0ee0&dn=SEAL.Team.S04E12.Rearview.Mirror.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2780&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14750&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -117,7 +173,12 @@
       "title": "Do No Harm",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:49a84fc40227495dec9757d2732c8ee6f844e7f9&dn=Seal.Team.S04E13.1080p.WEB.h264-GOSSIP%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2750&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14720&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15730"
+          "url": "magnet:?xt=urn:btih:49a84fc40227495dec9757d2732c8ee6f844e7f9&dn=Seal.Team.S04E13.1080p.WEB.h264-GOSSIP%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2750&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14720&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15730",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -126,7 +187,12 @@
       "title": "Hollow at the Core",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:c8d0c7076dabe0ce82df78fc46e88f5eb0c18d56&dn=SEAL.Team.S04E14.Hollow.at.the.Core.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2860&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15720"
+          "url": "magnet:?xt=urn:btih:c8d0c7076dabe0ce82df78fc46e88f5eb0c18d56&dn=SEAL.Team.S04E14.Hollow.at.the.Core.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2830&tr=udp%3A%2F%2F9.rarbg.to%3A2860&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15720",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -135,7 +201,12 @@
       "title": "Nightmare of My Choice",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:4ab5c689966026298766c1080aa8228ee9ccd127&dn=SEAL.Team.S04E15.1080p.WEB.H264-GGEZ%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14750&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15760"
+          "url": "magnet:?xt=urn:btih:4ab5c689966026298766c1080aa8228ee9ccd127&dn=SEAL.Team.S04E15.1080p.WEB.H264-GGEZ%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2770&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14750&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15760",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     },
@@ -144,7 +215,12 @@
       "title": "One Life to Live",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:57aee7c0876da43231fe0554c56588b0c4f2f84d&dn=SEAL.Team.S04E16.1080p.WEB.H264-GLHF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2940&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14720"
+          "url": "magnet:?xt=urn:btih:57aee7c0876da43231fe0554c56588b0c4f2f84d&dn=SEAL.Team.S04E16.1080p.WEB.H264-GLHF%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2880&tr=udp%3A%2F%2F9.rarbg.to%3A2940&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13740&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14720",
+          "quality":"1080p"
+        },
+        {
+          "url": "",
+          "quality":"720p"
         }
       ]
     }
