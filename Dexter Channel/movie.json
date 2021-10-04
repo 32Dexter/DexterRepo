@@ -2,7 +2,7 @@
   "menu": [
     {
       "title": "Far East Films",
-      "link": "/far_east.json",
+      "link": "https://www.arthasdesign.it/napster_channel/far_east.json",
       "thumbnail": "/images/far-east.png"
     },
     {
