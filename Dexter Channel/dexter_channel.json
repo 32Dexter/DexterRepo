@@ -12,6 +12,11 @@
       "title": "Serie",
       "link": "/series.json",
       "thumbnail": "/images/serie.png"
-    } 
+    },
+    {
+      "title": "Cam",
+      "link": "https://www.arthasdesign.it/napster_channel/cam.json",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/214/214713.png"
+    }
   ]
 }
