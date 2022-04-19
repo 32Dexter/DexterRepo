@@ -1,56 +1,76 @@
 {
-  "tvshows_list": [
-    { "title":"The Brave",
-      "year":"2017",
-      "tmdb_id":"71714",
-      "seasons_list": [
+    "tvshows_list": [
         {
-          "season": "1",
-          "link": "/thebrave.json"
-        }
-      ]
-    },
-    { "title":"Seal Team",
-      "year":"2020",
-      "tmdb_id":"71789",
-      "seasons_list": [
-        {
-          "season": "4",
-          "link": "https://www.arthasdesign.it/napster_channel/seal_team_s04.json"
-        }
-      ]
-    },    
-    { "title":"The Librarians",
-      "year":"2014",
-      "tmdb_id":"61599",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "/librarians1.json"
+            "title":"Una Mamma per Amica",
+            "year":"2000",
+            "tmdb_id":"4586",
+            "seasons_list":
+            [
+                {
+                    "season": "",
+                    "link": "https://www.arthasdesign.it/napster_channel/gilmore_girls.json"
+                }
+            ]
         },
         {
-          "season": "2",
-          "link": "/librarians2.json"
+            "title":"The Brave",
+            "year":"2017",
+            "tmdb_id":"71714",
+            "seasons_list":
+            [
+                {
+                    "season": "1",
+                    "link": "/thebrave.json"
+                }
+            ]
         },
         {
-          "season": "3",
-          "link": "/librarians3.json"
+            "title":"Seal Team",
+            "year":"2020",
+            "tmdb_id":"71789",
+            "seasons_list":
+            [
+                {
+                    "season": "4",
+                    "link": "https://www.arthasdesign.it/napster_channel/seal_team_s04.json"
+                }
+            ]
         },
         {
-          "season": "4",
-          "link": "/librarians4.json"
-        }
-      ]
-    },
-    { "title":"Inseparable",
-      "year":"2013",
-      "tmdb_id":"55886",
-      "seasons_list": [
+            "title":"The Librarians",
+            "year":"2014",
+            "tmdb_id":"61599",
+            "seasons_list":
+            [
+                {
+                    "season": "1",
+                    "link": "/librarians1.json"
+                },
+                {
+                    "season": "2",
+                    "link": "/librarians2.json"
+                },
+                {
+                    "season": "3",
+                    "link": "/librarians3.json"
+                },
+                {
+                    "season": "4",
+                    "link": "/librarians4.json"
+                }
+            ]
+        },
         {
-          "season": "1",
-          "link": "/inseparabili.json"
+            "title":"Inseparable",
+            "year":"2013",
+            "tmdb_id":"55886",
+            "seasons_list":
+            [
+                {
+                    "season": "1",
+                    "link": "/inseparabili.json"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
