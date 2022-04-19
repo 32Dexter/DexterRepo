@@ -1,17 +1,15 @@
 {
-    "tvshows_list": [
+    "menu":
+    [
         {
-            "title":"Una Mamma per Amica",
+            "title": "Una Mamma per Amica",
             "year":"2000",
             "tmdb_id":"4586",
-            "seasons_list":
-            [
-                {
-                    "season": "",
-                    "link": "https://www.arthasdesign.it/napster_channel/gilmore_girls.json"
-                }
-            ]
-        },
+            "link": "https://www.arthasdesign.it/napster_channel/gilmore_girls.json"
+        }
+    ],
+    "tvshows_list":
+    [
         {
             "title":"The Brave",
             "year":"2017",
