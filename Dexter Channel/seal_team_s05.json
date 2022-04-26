@@ -1,13 +1,139 @@
 {
-  "episodes_list": [
-    {
-      "number": "01",
-      "title": "All Episodios",
-      "links": [
+    "episodes_list": [
         {
-          "url": "magnet:?xt=urn:btih:79BF3BFEBE3834CBC107C50951512A92F93E37CD&dn=SEAL.Team.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970%2Fannounce&tr=https%3A%2F%2Ftracker.foreverpirates.co%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
+            "number": "00",
+            "title": "All Episodios",
+            "links": [
+                {
+                    "url": "magnet:?xt=urn:btih:79BF3BFEBE3834CBC107C50951512A92F93E37CD&dn=SEAL.Team.S05.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2970%2Fannounce&tr=https%3A%2F%2Ftracker.foreverpirates.co%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
+                }
+            ]
+        },
+        {
+            "number": "01",
+            "title": "Episode 1",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/eLMEmnAxZr2lgPvq"
+                }
+            ]
+        },
+        {
+            "number": "02",
+            "title": "Episode 2",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/QpadWzjejM5D9NyA"
+                }
+            ]
+        },
+        {
+            "number": "03",
+            "title": "Episode 3",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/oLvgezw6jQNDbp8E"
+                }
+            ]
+        },
+        {
+            "number": "04",
+            "title": "Episode 4",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/Xvb6NnJxpZ0zPOkZ"
+                }
+            ]
         }
-      ]
-    }
-  ]
+        ,{
+            "number": "05",
+            "title": "Episode 5",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/NBQe7lBApWWz59bO"
+                }
+            ]
+        },
+        {
+            "number": "06",
+            "title": "Episode 6",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/bgLXEDVJNVrDQY74"
+                }
+            ]
+        },
+        {
+            "number": "07",
+            "title": "Episode 7",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/b8K02DPmYv3zygB1"
+                }
+            ]
+        },
+        {
+            "number": "08",
+            "title": "Episode 8",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/bgLXEDVJvBwDQY74"
+                }
+            ]
+        },
+        {
+            "number": "09",
+            "title": "Episode 9",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/7AkQpz9NXkKlRdN6"
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "title": "Episode 10",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/Vb95OD13Ymkl4GdE"
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "title": "Episode 11",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/XAQ9qzxkpOLD4mME"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "title": "Episode 12",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/YqR7MzRN326zwA3d"
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "title": "Episode 13",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/oMqN9nGaB06zgxeA"
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "title": "Episode 14",
+            "links": [
+                {
+                    "url": "https://streamlare.com/v/jrB0an6W607D3dWb"
+                }
+            ]
+        }
+    ]
 }
