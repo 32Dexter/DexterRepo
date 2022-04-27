@@ -2,12 +2,20 @@
     "menu":
     [
         {
-            "title": "Una Mamma per Amica",
+            "title": "Gilmore Girls",
             "year":"2000",
             "tmdb_id":"4586",
             "fanart": "https://www.themoviedb.org/t/p/original/9YLMZClDOs2cmVGiFXx1slAE4sP.jpg",
             "thumbnail": "https://www.themoviedb.org/t/p/original/dSS7XoqmNxMebyVbEGBY0HWrReA.jpg",
             "link": "https://www.arthasdesign.it/napster_channel/gilmore_girls.json"
+        },
+        {
+            "title": "Una Mamma per Amica",
+            "year":"2000",
+            "tmdb_id":"4586",
+            "fanart": "https://www.themoviedb.org/t/p/original/9YLMZClDOs2cmVGiFXx1slAE4sP.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/original/dSS7XoqmNxMebyVbEGBY0HWrReA.jpg",
+            "link": "https://www.arthasdesign.it/napster_channel/una_mamma_per_amica_list.json"
         }
     ],
     "tvshows_list":
