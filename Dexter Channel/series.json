@@ -83,6 +83,18 @@
                     "link": "/inseparabili.json"
                 }
             ]
-        }
+        },
+        {
+            "title":"Pompei - Fuori dal tempo",
+            "year":"2026",
+            "tmdb_id":"277640",
+            "seasons_list":
+            [
+                {
+                    "season": "1",
+                    "link": "/pompei_fuori_dal_tempo.json"
+                }
+            ]
+        }        
     ]
 }
