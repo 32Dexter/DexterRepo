@@ -1,0 +1,34 @@
+{
+  "episodes_list": [
+    {
+      "number": "01",
+      "title": "Episodio 1",
+      "links": [
+        {
+          "url": "https://arthasdesign.myqnapcloud.com:8181/videoteca/Pompei - Fuori dal tempo/Episodio_1.mp4"
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Episodio 2",
+      "links": [
+        {
+          "url": "https://arthasdesign.myqnapcloud.com:8181/videoteca/Pompei - Fuori dal tempo/Episodio_2.mp4"
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Episodio 3",
+      "links": [
+        {
+          "url": "https://arthasdesign.myqnapcloud.com:8181/videoteca/Pompei - Fuori dal tempo/Episodio_3.mp4"
+        }
+      ]
+    }
+  ]
+}
+
+
+
