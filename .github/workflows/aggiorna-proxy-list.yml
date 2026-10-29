@@ -1,0 +1,80 @@
+name: Aggiorna Proxy List (mondiale + Paesi arabi)
+
+on:
+  schedule:
+    # Ogni 6 ore UTC, minuto 23: orario volutamente non tondo.
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/genera_proxy_list.dart'
+      - '.github/workflows/aggiorna-proxy-list.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proxy-list-auto-update
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Installa Dart (gratuito)
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: Autotest del generatore
+        run: dart scripts/genera_proxy_list.dart --self-test
+
+      - name: Genera il file unico
+        run: dart scripts/genera_proxy_list.dart --output .proxy-list-temp --max-per-country 50
+
+      - name: Valida il file prima di sostituire quello pubblico
+        shell: bash
+        run: |
+          python3 - <<'PYVALID'
+          import json
+          from pathlib import Path
+
+          p = Path('.proxy-list-temp/Proxy_List.json')
+          report = Path('.proxy-list-temp/RIEPILOGO_PAESI.txt')
+          assert p.is_file() and report.is_file(), 'Manca il JSON o il riepilogo'
+          assert 1024 < p.stat().st_size < 90 * 1024 * 1024, 'Dimensione JSON anomala'
+          doc = json.loads(p.read_text(encoding='utf-8'))
+          assert isinstance(doc, dict) and isinstance(doc.get('outbounds'), list), 'Formato sing-box non valido'
+          allowed = {'vless', 'vmess', 'trojan', 'shadowsocks', 'hysteria2', 'tuic', 'http', 'socks'}
+          nodes = [x for x in doc['outbounds'] if isinstance(x, dict) and x.get('type') in allowed]
+          assert len(nodes) >= 100, f'Troppo pochi nodi ({len(nodes)}): sospetta sorgente incompleta'
+          tags = [x.get('tag') for x in doc['outbounds']]
+          assert all(isinstance(t, str) and t for t in tags), 'Tag mancante'
+          assert len(tags) == len(set(tags)), 'Tag duplicati'
+          assert all(x.get('server') and isinstance(x.get('server_port'), int) and 0 < x['server_port'] < 65536 for x in nodes), 'Nodo senza server/porta'
+          assert isinstance(doc.get('route'), dict), 'Routing mancante'
+          assert doc['route'].get('final') == 'MEGA-SCELTA', 'Selector di default mancante'
+          print(f'VALIDATO: {len(nodes)} nodi, {p.stat().st_size} bytes')
+          PYVALID
+
+      - name: Pubblica solo se il JSON e cambiato
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p proxy
+          cp .proxy-list-temp/Proxy_List.json proxy/Proxy_List.json
+          cp .proxy-list-temp/RIEPILOGO_PAESI.txt proxy/RIEPILOGO_PAESI.txt
+          git add -- proxy/Proxy_List.json proxy/RIEPILOGO_PAESI.txt
+          if git diff --cached --quiet -- proxy/Proxy_List.json; then
+            echo 'proxy/Proxy_List.json invariato. Nessun commit necessario.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Aggiorna Proxy_List.json (fonti gratuite)'
+          git push origin "HEAD:${GITHUB_REF_NAME}"
