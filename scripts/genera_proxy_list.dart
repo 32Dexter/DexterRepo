@@ -1,14 +1,17 @@
-// Hiddify ITA MOD - Proxy List v0.3: UN SOLO JSON mondiale e tutti i 22 Paesi arabi
+// Hiddify ITA MOD - Proxy List v0.4: UN SOLO JSON mondiale e tutti i 22 Paesi arabi
 // Nessuna dipendenza esterna: utilizza il Dart incluso in Flutter 3.38.5.
 // Fonti:
 //  - https://github.com/Au1rxx/free-vpn-subscriptions
 //  - https://github.com/rtwo2/FastNodes
+//  - https://github.com/litportnet/free-proxy-list (proxy HTTP-HTTPS e SOCKS4/5)
+//  - proxy/Hiddify_IR.json (se presente, elenco manuale preservato)
 // Nota: paese indicativo, non verifica l'IP di uscita.
 import 'dart:convert';
 import 'dart:io';
 
 const freeBase = 'https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output';
 const fastBase = 'https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub';
+const litportAll = 'https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/all.json';
 
 // 22 Stati membri della Lega Araba (riconoscimento dei nomi, non prova di presenza server).
 const arabCountries = <String>[
@@ -286,13 +289,126 @@ String? parseTagCountry(Map<String,dynamic> item, Map<String,String> countryByTa
 
 Future<String> httpText(HttpClient client, String url, {Duration timeout=const Duration(seconds:100)}) async {
   final req=await client.getUrl(Uri.parse(url)).timeout(timeout);
-  req.headers.set(HttpHeaders.userAgentHeader,'Hiddify-ITA-MOD-ProxyList/0.3');
+  req.headers.set(HttpHeaders.userAgentHeader,'Hiddify-ITA-MOD-ProxyList/0.4');
   final response=await req.close().timeout(timeout);
   if(response.statusCode!=200) {
     await response.drain<void>();
     throw HttpException('HTTP ${response.statusCode} per $url');
   }
   return response.transform(utf8.decoder).join().timeout(timeout);
+}
+
+// Litport: il campo `https` indica che il proxy HTTP accetta CONNECT verso
+// destinazioni HTTPS. Non significa TLS fra client e proxy.
+// SOCKS4 e SOCKS5 supportano TCP; il SOCKS4 viene limitato esplicitamente a TCP.
+Map<String,dynamic>? litportToOutbound(Map<String,dynamic> item, DateTime now) {
+  final protocol=value(item['protocol']).toLowerCase();
+  final ip=value(item['ip']);
+  final parsed=InternetAddress.tryParse(ip);
+  final port=number(item['port']);
+  if(parsed==null || parsed.isLoopback || parsed.isLinkLocal || parsed.isMulticast ||
+      port<1 || port>65535) return null;
+  final checked=DateTime.tryParse(value(item['last_checked']));
+  if(checked==null) return null;
+  final age=now.toUtc().difference(checked.toUtc());
+  if(age>const Duration(hours:3) || age< const Duration(minutes:-10)) return null;
+  if(protocol=='http') {
+    if(item['https']!=true) return null;
+    return {'type':'http','server':ip,'server_port':port};
+  }
+  if(protocol=='socks4') {
+    return {'type':'socks','server':ip,'server_port':port,'version':'4','network':'tcp'};
+  }
+  if(protocol=='socks5') {
+    return {'type':'socks','server':ip,'server_port':port,'version':'5'};
+  }
+  return null;
+}
+
+// Conserva i proxy Litport già pubblicati se la fonte GitHub `live`
+// è temporaneamente irraggiungibile. Non ricarica in memoria tutti gli altri nodi.
+Future<int> recoverPreviousLitport(NodeCollector collector) async {
+  final file=File('proxy/Proxy_List.json');
+  if(!await file.exists()) return 0;
+  final old=jsonDecode(await file.readAsString());
+  if(old is! Map || old['outbounds'] is! List) return 0;
+  var added=0;
+  for(final entry in (old['outbounds'] as List).whereType<Map>()) {
+    final tag=value(entry['tag']);
+    if(!tag.contains(' | LITPORT | ')) continue;
+    final node=Map<String,dynamic>.from(entry);
+    final cc=countryFromLabel(tag);
+    final label=tag.split(' | LITPORT | ').last;
+    if(collector.add(node,'LITPORT',cc,label)) added++;
+  }
+  return added;
+}
+
+// Integra tutti i proxy Litport correnti idonei a HTTPS o SOCKS;
+// nessuna soglia artificiale sui Paesi: se c'è un proxy in Kuwait,
+// Siria, Libia, ecc. è incluso al pari degli altri.
+Future<(int,int,String)> loadLitport(HttpClient http, NodeCollector collector) async {
+  try {
+    final parsed=jsonDecode(await httpText(http,litportAll,timeout:const Duration(minutes:2)));
+    if(parsed is! List || parsed.length<20) {
+      throw StateError('Feed Litport troppo piccolo o formato cambiato');
+    }
+    final now=DateTime.now().toUtc();
+    var converted=0, skipped=0;
+    for(final record in parsed) {
+      if(record is! Map) {skipped++;continue;}
+      final obj=Map<String,dynamic>.from(record);
+      final outbound=litportToOutbound(obj,now);
+      if(outbound==null) {skipped++;continue;}
+      final cc=value(obj['country']).toUpperCase();
+      final code=knownCountries.containsKey(cc)?cc:'??';
+      final type=value(obj['protocol']).toUpperCase();
+      final label='$type | ${value(obj['ip'])}:${number(obj['port'])}';
+      if(collector.add(outbound,'LITPORT',code,label)) converted++;
+    }
+    if(converted<1) throw StateError('Nessun proxy Litport valido');
+    print('Fonte Litport: $converted nodi nuovi, $skipped non idonei (es. HTTP senza HTTPS o test scaduto)');
+    return (converted,skipped,'LIVE');
+  } catch(err) {
+    print('  AVVISO: Litport live non disponibile: $err');
+    final recovered=await recoverPreviousLitport(collector);
+    if(recovered==0) {
+      // Protezione: evita una pubblicazione che cancelli la fonte Litport
+      // senza che esista già un elenco precedente da conservare.
+      throw StateError('Litport non disponibile e nessun backup in proxy/Proxy_List.json');
+    }
+    print('  Ripristinati $recovered nodi Litport dal JSON pubblico precedente.');
+    return (recovered,0,'RECUPERO DAL FILE PRECEDENTE');
+  }
+}
+
+// Mantiene i cinque proxy originali (e quelli che l'utente aggiungerà)
+// nel file proxy/Hiddify_IR.json. Questo non sostituisce la fonte Litport live.
+Future<int> addManualIran(NodeCollector collector) async {
+  final file=File('proxy/Hiddify_IR.json');
+  if(!await file.exists()) {
+    print('  File Hiddify_IR.json assente: nessun nodo manuale aggiunto.');
+    return 0;
+  }
+  final data=jsonDecode(await file.readAsString());
+  if(data is! Map || data['outbounds'] is! List) {
+    throw FormatException('proxy/Hiddify_IR.json: formato outbounds non valido');
+  }
+  var added=0;
+  for(final entry in (data['outbounds'] as List).whereType<Map>()) {
+    final node=Map<String,dynamic>.from(entry);
+    final typ=value(node['type']);
+    const accepted={'vless','vmess','trojan','shadowsocks','hysteria2','tuic','http','socks'};
+    if(!accepted.contains(typ) || value(node['server']).isEmpty ||
+       number(node['server_port'])<1 || number(node['server_port'])>65535) continue;
+    node['server_port']=number(node['server_port']);
+    final originalTag=value(node['tag']);
+    final cc=countryFromLabel(originalTag);
+    final label=originalTag.isNotEmpty ? originalTag :
+      '$typ ${value(node['server'])}:${number(node['server_port'])}';
+    if(collector.add(node,'IR-MANUALE',cc=='??'?'IR':cc,label)) added++;
+  }
+  return added;
 }
 
 Future<void> writeConfig(String filename, List<Map<String,dynamic>> nodes) async {
@@ -330,10 +446,20 @@ Future<void> selfTest() async {
       throw StateError('Bandiera nazione araba non riconosciuta: $cc');
     }
   }
+  final now=DateTime.utc(2026,10,29,15,0);
+  final demo={'protocol':'http','ip':'46.209.30.11','port':8080,
+    'last_checked':'2026-10-29T14:50:00Z','country':'ir','https':true};
+  if(litportToOutbound(demo,now)?['type']!='http' ||
+      litportToOutbound({...demo,'https':false},now)!=null ||
+      litportToOutbound({...demo,'protocol':'socks4','https':false},now)?['version']!='4' ||
+      litportToOutbound({...demo,'protocol':'socks5','https':false},now)?['version']!='5' ||
+      litportToOutbound({...demo,'last_checked':'2026-10-28T03:00:00Z'},now)!=null) {
+    throw StateError('Autotest conversione Litport fallito');
+  }
   if(countryFromLabel('Dubai VPN')!='AE' || countryFromLabel('Kuwait')!='KW') {
     throw StateError('Alias Paesi arabi non funzionanti');
   }
-  print('[OK] Autotest VLESS/Trojan/Shadowsocks e 22 nazioni arabe superati');
+  print('[OK] Autotest VLESS/Trojan/Shadowsocks/Litport e 22 nazioni arabe superati');
 }
 
 Future<void> main(List<String> args) async {
@@ -469,6 +595,13 @@ Future<void> main(List<String> args) async {
       perCountryStatus[cc]='$total righe lette, $added nodi nuovi';
       print('  $cc ${knownCountries[cc]}: $added aggiunti ($total righe lette)');
     }
+    // Fonte aggiuntiva mondiale Litport, con classificazione per IP di uscita
+    // pubblicata dalla fonte. Esclude HTTP senza supporto HTTPS CONNECT.
+    print('Fonte 5: Litport free proxy list (HTTP CONNECT, SOCKS4, SOCKS5)');
+    final litportResult=await loadLitport(http,collector);
+    print('Fonte 6: lista manuale Hiddify_IR.json (facoltativa)');
+    final manualIran=await addManualIran(collector);
+    print('  Proxy manuali nuovi: $manualIran (i duplicati sono eliminati)');
     // UN SOLO FILE JSON: contiene tutti i nodi senza distinguere
     // "qualita", "mondiale" o "solo arabi". Le fonti sono cumulative.
     await writeConfig('$outputDir${Platform.pathSeparator}Proxy_List.json',collector.nodes);
@@ -478,12 +611,16 @@ Future<void> main(List<String> args) async {
       ..writeln('Generato: ${DateTime.now().toIso8601String()}')
       ..writeln('Au1rxx: $freeBase/singbox.json')
       ..writeln('FastNodes: $fastBase/verified.txt + $worldSource + countries/XX.txt per Paesi arabi')
+      ..writeln('Litport: $litportAll')
+      ..writeln('Litport nel nuovo JSON: ${litportResult.$1} nuovi/ripristinati; scartati ${litportResult.$2}; modalita ${litportResult.$3}')
+      ..writeln('Proxy manuali in proxy/Hiddify_IR.json aggiunti: $manualIran')
       ..writeln('Nodi nel file Proxy_List.json: ${collector.nodes.length}')
       ..writeln('Nazioni etichettate: ${collector.countries.length}')
       ..writeln('Duplicati scartati: ${collector.duplicates}')
       ..writeln('URI non convertibili o protocollo non supportato: $rejected')
       ..writeln('ATTENZIONE: paese solo dedotto da feed/etichette, nessuna verifica IP reale.')
       ..writeln('ATTENZIONE: nessuna garanzia di funzionamento o affidabilita dei proxy.')
+      ..writeln('Litport HTTP: importati solo quelli indicati HTTPS CONNECT; non prova la navigazione reale.')
       ..writeln('WireGuard endpoints del feed Au1rxx NON importati, per compatibilita MOD v0.1.')
       ..writeln('MODALITA: ${full?'COMPLETA/SPERIMENTALE':'CAMPIONATA'}')
       ..writeln('');
@@ -504,6 +641,6 @@ Future<void> main(List<String> args) async {
     await f.writeAsString(report.toString());
     print('[OK] Riepilogo: ${f.path}');
     print('[OK] Profilo UNICO: $outputDir${Platform.pathSeparator}Proxy_List.json');
-    print('IMPORTANTE: il profilo non si aggiorna da solo: rigeneralo per avere i nuovi nodi.');
+    print('IMPORTANTE: GitHub Actions aggiorna il file ogni 6 ore; Hiddify deve aggiornare il profilo remoto.');
   } finally {http.close(force:true);}
 }
