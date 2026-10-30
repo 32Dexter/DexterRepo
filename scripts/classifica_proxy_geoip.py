@@ -25,6 +25,8 @@ DATABASES = {
     6: f'{GEOIP_BASE}/server-country-ipv6.csv',
 }
 ORIGINS = {'FVS', 'FNV', 'FNM', 'FNA', 'LITPORT', 'IR-MANUALE'}
+# V06: nuove fonti riconosciute dal classificatore GeoIP.
+ORIGINS.update({'MN','PF','PS','HP','SP','NR'})
 TAG_PATTERN = re.compile(r'^🌐 ZZ \| ([^|]+) \| (.+)$')
 COUNTRY_LINE = re.compile(r'^(\?\?|[A-Z]{2})\s{2,}(.+?)\s+(\d+)\s*$')
 ARAB_COUNT_LINE = re.compile(r'^(?P<code>[A-Z]{2})(?P<between>\s+.*?\s+)(?P<count>\d+)(?P<tail> nodi \|.*)$')

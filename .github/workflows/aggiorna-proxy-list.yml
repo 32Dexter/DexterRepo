@@ -10,6 +10,7 @@ on:
     paths:
       - 'scripts/genera_proxy_list.dart'
       - 'scripts/classifica_proxy_geoip.py'
+      - 'scripts/integra_fonti_v06.py'
       - '.github/workflows/aggiorna-proxy-list.yml'
 
 permissions:
@@ -37,6 +38,12 @@ jobs:
 
       - name: Genera il file unico
         run: dart scripts/genera_proxy_list.dart --output .proxy-list-temp --max-per-country 50
+
+      - name: V06 - autotest nuove fonti
+        run: python3 scripts/integra_fonti_v06.py --self-test
+
+      - name: V06 - importa e verifica nuove fonti
+        run: python3 scripts/integra_fonti_v06.py --config .proxy-list-temp/Proxy_List.json --report .proxy-list-temp/RIEPILOGO_PAESI.txt --max-checks 700
 
       - name: GeoIP - autotest
         run: python3 scripts/classifica_proxy_geoip.py --self-test
