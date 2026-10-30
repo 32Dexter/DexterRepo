@@ -9,6 +9,7 @@ on:
     branches: [master]
     paths:
       - 'scripts/genera_proxy_list.dart'
+      - 'scripts/classifica_proxy_geoip.py'
       - '.github/workflows/aggiorna-proxy-list.yml'
 
 permissions:
@@ -36,6 +37,12 @@ jobs:
 
       - name: Genera il file unico
         run: dart scripts/genera_proxy_list.dart --output .proxy-list-temp --max-per-country 50
+
+      - name: GeoIP - autotest
+        run: python3 scripts/classifica_proxy_geoip.py --self-test
+
+      - name: GeoIP - completa Paesi non classificati
+        run: python3 scripts/classifica_proxy_geoip.py --config .proxy-list-temp/Proxy_List.json --report .proxy-list-temp/RIEPILOGO_PAESI.txt
 
       - name: Valida il file prima di sostituire quello pubblico
         shell: bash
