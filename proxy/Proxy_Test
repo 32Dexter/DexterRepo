@@ -1,0 +1,1251 @@
+{
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "MEGA-SCELTA",
+      "outbounds": [
+        "🇰🇼 KW | FNS | VMESS 94.128.12.238:443 #2",
+        "🇰🇼 KW | FNS | VMESS 94.128.12.238:443 #1",
+        "🇰🇼 KW | VPN | SOCKS 78.154.247.3:8080 #3",
+        "🇰🇼 KW | VPN | SOCKS 31.214.116.74:443 #4",
+        "🇰🇼 KW | VPN | SOCKS 78.89.177.187:8081 #5",
+        "🇰🇼 KW | VPN | SOCKS 195.226.250.71:1080 #6",
+        "🇰🇼 KW | VPN | SOCKS 94.29.248.246:8080 #7",
+        "🇰🇼 KW | VPN | SOCKS 94.187.143.208:443 #8",
+        "🇰🇼 KW | VPN | SOCKS 188.71.173.5:3128 #9",
+        "🇰🇼 KW | VPN | SOCKS 37.37.217.3:8080 #10",
+        "🇰🇼 KW | VPN | SOCKS 168.187.81.4:8080 #11",
+        "🇰🇼 KW | VPN | SOCKS 37.37.58.183:8081 #12",
+        "🇰🇼 KW | VPN | SOCKS 78.89.152.49:8080 #13",
+        "🇰🇼 KW | VPN | SOCKS 178.61.21.200:1389 #14",
+        "🇰🇼 KW | VPN | SOCKS 178.61.146.222:35513 #15",
+        "🇰🇼 KW | VPN | SOCKS 78.154.249.248:8080 #16",
+        "🇰🇼 KW | VPN | SOCKS 94.187.236.145:8080 #17",
+        "🇰🇼 KW | VPN | SOCKS 78.154.212.21:8080 #18",
+        "🇰🇼 KW | VPN | SOCKS 31.203.73.86:3128 #19",
+        "🇰🇼 KW | VPN | SOCKS 94.187.237.29:8080 #20",
+        "🇰🇼 KW | VPN | SOCKS 31.203.100.124:1080 #21",
+        "🇰🇼 KW | VPN | SOCKS 62.150.131.202:1080 #22",
+        "🇰🇼 KW | VPN | SOCKS 213.189.79.134:80 #23",
+        "🇰🇼 KW | VPN | SOCKS 188.71.163.43:3128 #24",
+        "🇰🇼 KW | VPN | SOCKS 62.150.186.163:80 #25",
+        "🇰🇼 KW | VPN | SOCKS 195.226.250.70:1080 #26",
+        "🇰🇼 KW | VPN | SOCKS 185.142.106.105:8080 #27",
+        "🇰🇼 KW | VPN | SOCKS 195.39.167.3:80 #28",
+        "🇰🇼 KW | VPN | SOCKS 168.187.151.173:6588 #29",
+        "🇰🇼 KW | VPN | SOCKS 78.154.221.125:8080 #30",
+        "🇰🇼 KW | VPN | SOCKS 213.189.79.206:80 #31",
+        "🇰🇼 KW | VPN | SOCKS 213.189.79.200:80 #32",
+        "🇰🇼 KW | VPN | SOCKS 46.186.132.118:8080 #33",
+        "🇰🇼 KW | VPN | SOCKS 78.154.213.86:3128 #34",
+        "🇰🇼 KW | VPN | SOCKS 188.71.234.189:3128 #35",
+        "🇰🇼 KW | VPN | SOCKS 213.189.88.239:80 #36",
+        "🇰🇼 KW | VPN | SOCKS 194.126.34.139:8081 #37",
+        "🇰🇼 KW | VPN | SOCKS 195.78.75.37:8081 #38",
+        "🇰🇼 KW | VPN | SOCKS 94.187.213.251:39352 #39",
+        "🇰🇼 KW | VPN | SOCKS 95.66.12.193:80 #40",
+        "🇰🇼 KW | VPN | SOCKS 178.53.219.137:3128 #41",
+        "🇰🇼 KW | VPN | SOCKS 37.34.191.22:1234 #42",
+        "🇰🇼 KW | VPN | SOCKS 62.215.163.128:1524 #43",
+        "🇰🇼 KW | VPN | SOCKS 196.1.70.167:8080 #44",
+        "🇰🇼 KW | VPN | SOCKS 149.147.137.235:80 #45",
+        "🇰🇼 KW | VPN | SOCKS 85.239.7.180:8080 #46",
+        "🇰🇼 KW | VPN | SOCKS 37.37.70.87:3128 #47",
+        "🇰🇼 KW | VPN | SOCKS 196.1.70.190:80 #48",
+        "🇰🇼 KW | VPN | SOCKS 89.203.0.255:8953 #49",
+        "🇰🇼 KW | VPN | SOCKS 94.29.188.224:80 #50",
+        "🇰🇼 KW | VPN | SOCKS 94.129.234.35:8080 #51",
+        "🇰🇼 KW | VPN | SOCKS 37.231.95.28:8080 #52",
+        "🇰🇼 KW | VPN | SOCKS 94.129.70.53:8080 #53",
+        "🇰🇼 KW | VPN | SOCKS 37.36.200.169:8009 #54",
+        "🇰🇼 KW | VPN | SOCKS 83.96.49.141:8080 #55",
+        "🇰🇼 KW | VPN | SOCKS 37.39.110.240:3128 #56",
+        "🇰🇼 KW | VPN | SOCKS 37.37.141.55:1337 #57",
+        "🇰🇼 KW | VPN | SOCKS 188.236.30.182:8080 #58",
+        "🇰🇼 KW | VPN | SOCKS 37.36.234.132:1234 #59",
+        "🇰🇼 KW | VPN | SOCKS 168.187.195.24:1080 #60",
+        "🇰🇼 KW | VPN | SOCKS 195.39.156.3:80 #61",
+        "🇰🇼 KW | VPN | SOCKS 37.38.165.87:8081 #62",
+        "🇰🇼 KW | VPN | SOCKS 178.53.111.102:8081 #63",
+        "🇰🇼 KW | VPN | SOCKS 93.191.64.115:8080 #64",
+        "🇰🇼 KW | VPN | SOCKS 78.89.99.2:8081 #65",
+        "🇰🇼 KW | VPN | SOCKS 37.34.236.15:80 #66",
+        "🇰🇼 KW | VPN | SOCKS 62.215.226.48:8080 #67",
+        "🇰🇼 KW | VPN | SOCKS 178.61.164.95:63183 #68",
+        "🇰🇼 KW | VPN | SOCKS 95.66.7.58:8081 #69",
+        "🇰🇼 KW | VPN | SOCKS 178.53.38.2:3128 #70",
+        "🇰🇼 KW | VPN | SOCKS 62.215.5.66:8080 #71",
+        "🇰🇼 KW | VPN | SOCKS 195.226.254.161:8080 #72",
+        "🇰🇼 KW | VPN | SOCKS 62.150.122.195:8975 #73",
+        "🇰🇼 KW | VPN | SOCKS 94.187.142.241:443 #74",
+        "🇰🇼 KW | VPN | SOCKS 62.215.224.55:80 #75",
+        "🇰🇼 KW | VPN | SOCKS 37.39.219.61:8081 #76",
+        "🇰🇼 KW | VPN | SOCKS 188.231.1.113:3128 #77",
+        "🇰🇼 KW | VPN | SOCKS 37.39.71.247:8888 #78",
+        "🇰🇼 KW | VPN | SOCKS 195.226.241.65:80 #79",
+        "🇰🇼 KW | VPN | SOCKS 193.188.183.223:4279 #80",
+        "🇰🇼 KW | VPN | SOCKS 195.226.239.65:80 #81",
+        "🇰🇼 KW | VPN | SOCKS 195.226.250.75:1080 #82",
+        "🇰🇼 KW | VPN | SOCKS 62.150.73.66:8080 #83",
+        "🇰🇼 KW | VPN | SOCKS 178.161.111.68:8080 #84",
+        "🇰🇼 KW | VPN | SOCKS 62.150.81.35:80 #85",
+        "🇰🇼 KW | VPN | SOCKS 83.96.109.253:80 #86",
+        "🇰🇼 KW | VPN | SOCKS 188.236.146.208:8081 #87",
+        "🇰🇼 KW | VPN | SOCKS 213.189.76.249:3128 #88",
+        "🇰🇼 KW | VPN | SOCKS 91.140.186.98:8080 #89",
+        "🇰🇼 KW | VPN | SOCKS 94.29.228.198:8080 #90",
+        "🇰🇼 KW | VPN | SOCKS 91.140.253.140:80 #91",
+        "🇰🇼 KW | VPN | SOCKS 62.215.85.140:65000 #92",
+        "🇰🇼 KW | VPN | SOCKS 194.126.33.175:8080 #93",
+        "🇰🇼 KW | VPN | SOCKS 194.126.44.178:8080 #94",
+        "🇰🇼 KW | VPN | SOCKS 95.66.127.222:8080 #95",
+        "🇰🇼 KW | VPN | SOCKS 91.140.239.75:80 #96",
+        "🇰🇼 KW | VPN | SOCKS 185.132.207.229:80 #97",
+        "🇰🇼 KW | VPN | SOCKS 83.96.109.247:80 #98",
+        "🇰🇼 KW | VPN | SOCKS 46.186.178.54:80 #99",
+        "🇰🇼 KW | VPN | SOCKS 83.96.109.250:80 #100",
+        "🇰🇼 KW | VPN | SOCKS 195.226.250.72:1080 #101",
+        "🇰🇼 KW | VPN | SOCKS 37.39.26.253:999 #102",
+        "🇰🇼 KW | VPN | SOCKS 195.226.230.58:80 #103",
+        "🇰🇼 KW | VPN | SOCKS 62.150.135.176:8080 #104",
+        "🇰🇼 KW | VPN | SOCKS 94.187.197.55:4128 #105",
+        "🇰🇼 KW | VPN | SOCKS 37.36.7.93:10001 #106",
+        "🇰🇼 KW | VPN | SOCKS 37.37.145.193:8081 #107",
+        "🇰🇼 KW | VPN | SOCKS 94.187.213.251:30536 #108",
+        "🇰🇼 KW | VPN | SOCKS 83.96.53.44:8080 #109",
+        "🇰🇼 KW | VPN | SOCKS 178.61.105.93:8080 #110",
+        "🇰🇼 KW | VPN | SOCKS 62.150.173.111:8080 #111",
+        "🇰🇼 KW | VPN | SOCKS 78.154.252.46:8080 #112",
+        "🇰🇼 KW | VPN | SOCKS 78.154.247.239:8080 #113",
+        "🇰🇼 KW | VPN | SOCKS 62.150.134.20:8080 #114",
+        "🇰🇼 KW | VPN | SOCKS 78.154.252.230:8080 #115",
+        "🇰🇼 KW | VPN | SOCKS 78.154.217.27:8080 #116",
+        "🇰🇼 KW | VPN | SOCKS 62.150.88.156:8080 #117",
+        "🇰🇼 KW | VPN | SOCKS 195.39.163.156:8080 #118",
+        "🇰🇼 KW | VPN | SOCKS 78.154.192.5:8080 #119",
+        "🇰🇼 KW | VPN | SOCKS 78.154.233.65:8080 #120",
+        "🇰🇼 KW | VPN | SOCKS 78.154.249.74:8080 #121",
+        "🇰🇼 KW | VPN | SOCKS 82.116.150.42:8080 #122",
+        "🇰🇼 KW | VPN | SOCKS 37.36.44.129:8080 #123",
+        "🇰🇼 KW | VPN | SOCKS 213.189.79.78:80 #124",
+        "🇰🇼 KW | VPN | SOCKS 31.203.140.107:3128 #125",
+        "🇰🇼 KW | VPN | SOCKS 37.37.194.106:80 #126",
+        "🇰🇼 KW | VPN | SOCKS 82.116.151.22:8080 #127",
+        "🇰🇼 KW | VPN | SOCKS 37.37.254.163:80 #128",
+        "🇰🇼 KW | VPN | SOCKS 195.88.223.5:3128 #129",
+        "🇰🇼 KW | VPN | SOCKS 94.187.213.251:60072 #130",
+        "🇰🇼 KW | VPN | SOCKS 83.96.124.224:8081 #131",
+        "🇰🇼 KW | VPN | SOCKS 37.231.229.139:80 #132",
+        "🇰🇼 KW | VPN | SOCKS 212.43.2.232:3128 #133",
+        "🇰🇼 KW | VPN | SOCKS 83.96.109.248:80 #134",
+        "🇰🇼 KW | VPN | SOCKS 37.36.135.15:8081 #135",
+        "🇰🇼 KW | VPN | SOCKS 161.252.17.254:8080 #136",
+        "🇰🇼 KW | VPN | SOCKS 217.69.176.15:8080 #137",
+        "🇰🇼 KW | VPN | SOCKS 188.71.2.14:3153 #138",
+        "🇰🇼 KW | VPN | SOCKS 149.147.78.118:8080 #139",
+        "🇰🇼 KW | VPN | HTTP 185.133.125.247:3128 #140",
+        "🇰🇼 KW | VPN | HTTP 95.66.127.224:80 #141",
+        "🇰🇼 KW | VPN | HTTP 62.150.41.1:80 #142",
+        "🇰🇼 KW | VPN | HTTP 168.187.72.71:8080 #143",
+        "🇰🇼 KW | VPN | HTTP 168.187.72.71:80 #144",
+        "🇰🇼 KW | VPN | HTTP 168.187.72.71:8088 #145",
+        "🇰🇼 KW | DIT | HTTP 185.19.77.115:8080 #146",
+        "🇰🇼 KW | PRX | HTTP 62.215.148.7:3128 #147",
+        "🇰🇼 KW | PRX | HTTP 114.198.238.16:80 #148",
+        "🇰🇼 KW | PRX | HTTP 91.246.14.173:8888 #149",
+        "🇰🇼 KW | PRX | HTTP 31.214.27.218:8080 #150",
+        "🇰🇼 KW | PRX | SOCKS 194.54.136.46:1080 #151"
+      ],
+      "default": "🇰🇼 KW | FNS | VMESS 94.128.12.238:443 #2"
+    },
+    {
+      "type": "vmess",
+      "server": "94.128.12.238",
+      "server_port": 443,
+      "uuid": "ecba5b33-f768-4d8a-b004-b29e8e5c676f",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sazgar.serveirc.com"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "sazgar.serveirc.com",
+        "insecure": true
+      },
+      "tag": "🇰🇼 KW | FNS | VMESS 94.128.12.238:443 #2"
+    },
+    {
+      "type": "vmess",
+      "server": "94.128.12.238",
+      "server_port": 443,
+      "uuid": "ecba5b33-f768-4d8a-b004-b29e8e5c676f",
+      "security": "auto",
+      "alter_id": 0,
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "sazgar.serveirc.com"
+        }
+      },
+      "tag": "🇰🇼 KW | FNS | VMESS 94.128.12.238:443 #1"
+    },
+    {
+      "server": "78.154.247.3",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.247.3:8080 #3"
+    },
+    {
+      "server": "31.214.116.74",
+      "server_port": 443,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 31.214.116.74:443 #4"
+    },
+    {
+      "server": "78.89.177.187",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.89.177.187:8081 #5"
+    },
+    {
+      "server": "195.226.250.71",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.250.71:1080 #6"
+    },
+    {
+      "server": "94.29.248.246",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.29.248.246:8080 #7"
+    },
+    {
+      "server": "94.187.143.208",
+      "server_port": 443,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.143.208:443 #8"
+    },
+    {
+      "server": "188.71.173.5",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.71.173.5:3128 #9"
+    },
+    {
+      "server": "37.37.217.3",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.217.3:8080 #10"
+    },
+    {
+      "server": "168.187.81.4",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 168.187.81.4:8080 #11"
+    },
+    {
+      "server": "37.37.58.183",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.58.183:8081 #12"
+    },
+    {
+      "server": "78.89.152.49",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.89.152.49:8080 #13"
+    },
+    {
+      "server": "178.61.21.200",
+      "server_port": 1389,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.61.21.200:1389 #14"
+    },
+    {
+      "server": "178.61.146.222",
+      "server_port": 35513,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.61.146.222:35513 #15"
+    },
+    {
+      "server": "78.154.249.248",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.249.248:8080 #16"
+    },
+    {
+      "server": "94.187.236.145",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.236.145:8080 #17"
+    },
+    {
+      "server": "78.154.212.21",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.212.21:8080 #18"
+    },
+    {
+      "server": "31.203.73.86",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 31.203.73.86:3128 #19"
+    },
+    {
+      "server": "94.187.237.29",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.237.29:8080 #20"
+    },
+    {
+      "server": "31.203.100.124",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 31.203.100.124:1080 #21"
+    },
+    {
+      "server": "62.150.131.202",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.131.202:1080 #22"
+    },
+    {
+      "server": "213.189.79.134",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.79.134:80 #23"
+    },
+    {
+      "server": "188.71.163.43",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.71.163.43:3128 #24"
+    },
+    {
+      "server": "62.150.186.163",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.186.163:80 #25"
+    },
+    {
+      "server": "195.226.250.70",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.250.70:1080 #26"
+    },
+    {
+      "server": "185.142.106.105",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 185.142.106.105:8080 #27"
+    },
+    {
+      "server": "195.39.167.3",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.39.167.3:80 #28"
+    },
+    {
+      "server": "168.187.151.173",
+      "server_port": 6588,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 168.187.151.173:6588 #29"
+    },
+    {
+      "server": "78.154.221.125",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.221.125:8080 #30"
+    },
+    {
+      "server": "213.189.79.206",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.79.206:80 #31"
+    },
+    {
+      "server": "213.189.79.200",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.79.200:80 #32"
+    },
+    {
+      "server": "46.186.132.118",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 46.186.132.118:8080 #33"
+    },
+    {
+      "server": "78.154.213.86",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.213.86:3128 #34"
+    },
+    {
+      "server": "188.71.234.189",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.71.234.189:3128 #35"
+    },
+    {
+      "server": "213.189.88.239",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.88.239:80 #36"
+    },
+    {
+      "server": "194.126.34.139",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 194.126.34.139:8081 #37"
+    },
+    {
+      "server": "195.78.75.37",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.78.75.37:8081 #38"
+    },
+    {
+      "server": "94.187.213.251",
+      "server_port": 39352,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.213.251:39352 #39"
+    },
+    {
+      "server": "95.66.12.193",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 95.66.12.193:80 #40"
+    },
+    {
+      "server": "178.53.219.137",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.53.219.137:3128 #41"
+    },
+    {
+      "server": "37.34.191.22",
+      "server_port": 1234,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.34.191.22:1234 #42"
+    },
+    {
+      "server": "62.215.163.128",
+      "server_port": 1524,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.215.163.128:1524 #43"
+    },
+    {
+      "server": "196.1.70.167",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 196.1.70.167:8080 #44"
+    },
+    {
+      "server": "149.147.137.235",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 149.147.137.235:80 #45"
+    },
+    {
+      "server": "85.239.7.180",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 85.239.7.180:8080 #46"
+    },
+    {
+      "server": "37.37.70.87",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.70.87:3128 #47"
+    },
+    {
+      "server": "196.1.70.190",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 196.1.70.190:80 #48"
+    },
+    {
+      "server": "89.203.0.255",
+      "server_port": 8953,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 89.203.0.255:8953 #49"
+    },
+    {
+      "server": "94.29.188.224",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.29.188.224:80 #50"
+    },
+    {
+      "server": "94.129.234.35",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.129.234.35:8080 #51"
+    },
+    {
+      "server": "37.231.95.28",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.231.95.28:8080 #52"
+    },
+    {
+      "server": "94.129.70.53",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.129.70.53:8080 #53"
+    },
+    {
+      "server": "37.36.200.169",
+      "server_port": 8009,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.36.200.169:8009 #54"
+    },
+    {
+      "server": "83.96.49.141",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.49.141:8080 #55"
+    },
+    {
+      "server": "37.39.110.240",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.39.110.240:3128 #56"
+    },
+    {
+      "server": "37.37.141.55",
+      "server_port": 1337,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.141.55:1337 #57"
+    },
+    {
+      "server": "188.236.30.182",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.236.30.182:8080 #58"
+    },
+    {
+      "server": "37.36.234.132",
+      "server_port": 1234,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.36.234.132:1234 #59"
+    },
+    {
+      "server": "168.187.195.24",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 168.187.195.24:1080 #60"
+    },
+    {
+      "server": "195.39.156.3",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.39.156.3:80 #61"
+    },
+    {
+      "server": "37.38.165.87",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.38.165.87:8081 #62"
+    },
+    {
+      "server": "178.53.111.102",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.53.111.102:8081 #63"
+    },
+    {
+      "server": "93.191.64.115",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 93.191.64.115:8080 #64"
+    },
+    {
+      "server": "78.89.99.2",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.89.99.2:8081 #65"
+    },
+    {
+      "server": "37.34.236.15",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.34.236.15:80 #66"
+    },
+    {
+      "server": "62.215.226.48",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.215.226.48:8080 #67"
+    },
+    {
+      "server": "178.61.164.95",
+      "server_port": 63183,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.61.164.95:63183 #68"
+    },
+    {
+      "server": "95.66.7.58",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 95.66.7.58:8081 #69"
+    },
+    {
+      "server": "178.53.38.2",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.53.38.2:3128 #70"
+    },
+    {
+      "server": "62.215.5.66",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.215.5.66:8080 #71"
+    },
+    {
+      "server": "195.226.254.161",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.254.161:8080 #72"
+    },
+    {
+      "server": "62.150.122.195",
+      "server_port": 8975,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.122.195:8975 #73"
+    },
+    {
+      "server": "94.187.142.241",
+      "server_port": 443,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.142.241:443 #74"
+    },
+    {
+      "server": "62.215.224.55",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.215.224.55:80 #75"
+    },
+    {
+      "server": "37.39.219.61",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.39.219.61:8081 #76"
+    },
+    {
+      "server": "188.231.1.113",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.231.1.113:3128 #77"
+    },
+    {
+      "server": "37.39.71.247",
+      "server_port": 8888,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.39.71.247:8888 #78"
+    },
+    {
+      "server": "195.226.241.65",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.241.65:80 #79"
+    },
+    {
+      "server": "193.188.183.223",
+      "server_port": 4279,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 193.188.183.223:4279 #80"
+    },
+    {
+      "server": "195.226.239.65",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.239.65:80 #81"
+    },
+    {
+      "server": "195.226.250.75",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.250.75:1080 #82"
+    },
+    {
+      "server": "62.150.73.66",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.73.66:8080 #83"
+    },
+    {
+      "server": "178.161.111.68",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.161.111.68:8080 #84"
+    },
+    {
+      "server": "62.150.81.35",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.81.35:80 #85"
+    },
+    {
+      "server": "83.96.109.253",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.109.253:80 #86"
+    },
+    {
+      "server": "188.236.146.208",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.236.146.208:8081 #87"
+    },
+    {
+      "server": "213.189.76.249",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.76.249:3128 #88"
+    },
+    {
+      "server": "91.140.186.98",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 91.140.186.98:8080 #89"
+    },
+    {
+      "server": "94.29.228.198",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.29.228.198:8080 #90"
+    },
+    {
+      "server": "91.140.253.140",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 91.140.253.140:80 #91"
+    },
+    {
+      "server": "62.215.85.140",
+      "server_port": 65000,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.215.85.140:65000 #92"
+    },
+    {
+      "server": "194.126.33.175",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 194.126.33.175:8080 #93"
+    },
+    {
+      "server": "194.126.44.178",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 194.126.44.178:8080 #94"
+    },
+    {
+      "server": "95.66.127.222",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 95.66.127.222:8080 #95"
+    },
+    {
+      "server": "91.140.239.75",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 91.140.239.75:80 #96"
+    },
+    {
+      "server": "185.132.207.229",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 185.132.207.229:80 #97"
+    },
+    {
+      "server": "83.96.109.247",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.109.247:80 #98"
+    },
+    {
+      "server": "46.186.178.54",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 46.186.178.54:80 #99"
+    },
+    {
+      "server": "83.96.109.250",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.109.250:80 #100"
+    },
+    {
+      "server": "195.226.250.72",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.250.72:1080 #101"
+    },
+    {
+      "server": "37.39.26.253",
+      "server_port": 999,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.39.26.253:999 #102"
+    },
+    {
+      "server": "195.226.230.58",
+      "server_port": 80,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.226.230.58:80 #103"
+    },
+    {
+      "server": "62.150.135.176",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.135.176:8080 #104"
+    },
+    {
+      "server": "94.187.197.55",
+      "server_port": 4128,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.197.55:4128 #105"
+    },
+    {
+      "server": "37.36.7.93",
+      "server_port": 10001,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.36.7.93:10001 #106"
+    },
+    {
+      "server": "37.37.145.193",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.145.193:8081 #107"
+    },
+    {
+      "server": "94.187.213.251",
+      "server_port": 30536,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.213.251:30536 #108"
+    },
+    {
+      "server": "83.96.53.44",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.53.44:8080 #109"
+    },
+    {
+      "server": "178.61.105.93",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 178.61.105.93:8080 #110"
+    },
+    {
+      "server": "62.150.173.111",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.173.111:8080 #111"
+    },
+    {
+      "server": "78.154.252.46",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.252.46:8080 #112"
+    },
+    {
+      "server": "78.154.247.239",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.247.239:8080 #113"
+    },
+    {
+      "server": "62.150.134.20",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.134.20:8080 #114"
+    },
+    {
+      "server": "78.154.252.230",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.252.230:8080 #115"
+    },
+    {
+      "server": "78.154.217.27",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.217.27:8080 #116"
+    },
+    {
+      "server": "62.150.88.156",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 62.150.88.156:8080 #117"
+    },
+    {
+      "server": "195.39.163.156",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.39.163.156:8080 #118"
+    },
+    {
+      "server": "78.154.192.5",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.192.5:8080 #119"
+    },
+    {
+      "server": "78.154.233.65",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.233.65:8080 #120"
+    },
+    {
+      "server": "78.154.249.74",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 78.154.249.74:8080 #121"
+    },
+    {
+      "server": "82.116.150.42",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 82.116.150.42:8080 #122"
+    },
+    {
+      "server": "37.36.44.129",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "5",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.36.44.129:8080 #123"
+    },
+    {
+      "server": "213.189.79.78",
+      "server_port": 80,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 213.189.79.78:80 #124"
+    },
+    {
+      "server": "31.203.140.107",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 31.203.140.107:3128 #125"
+    },
+    {
+      "server": "37.37.194.106",
+      "server_port": 80,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.194.106:80 #126"
+    },
+    {
+      "server": "82.116.151.22",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 82.116.151.22:8080 #127"
+    },
+    {
+      "server": "37.37.254.163",
+      "server_port": 80,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.37.254.163:80 #128"
+    },
+    {
+      "server": "195.88.223.5",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 195.88.223.5:3128 #129"
+    },
+    {
+      "server": "94.187.213.251",
+      "server_port": 60072,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 94.187.213.251:60072 #130"
+    },
+    {
+      "server": "83.96.124.224",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.124.224:8081 #131"
+    },
+    {
+      "server": "37.231.229.139",
+      "server_port": 80,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.231.229.139:80 #132"
+    },
+    {
+      "server": "212.43.2.232",
+      "server_port": 3128,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 212.43.2.232:3128 #133"
+    },
+    {
+      "server": "83.96.109.248",
+      "server_port": 80,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 83.96.109.248:80 #134"
+    },
+    {
+      "server": "37.36.135.15",
+      "server_port": 8081,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 37.36.135.15:8081 #135"
+    },
+    {
+      "server": "161.252.17.254",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 161.252.17.254:8080 #136"
+    },
+    {
+      "server": "217.69.176.15",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 217.69.176.15:8080 #137"
+    },
+    {
+      "server": "188.71.2.14",
+      "server_port": 3153,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 188.71.2.14:3153 #138"
+    },
+    {
+      "server": "149.147.78.118",
+      "server_port": 8080,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | VPN | SOCKS 149.147.78.118:8080 #139"
+    },
+    {
+      "server": "185.133.125.247",
+      "server_port": 3128,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 185.133.125.247:3128 #140"
+    },
+    {
+      "server": "95.66.127.224",
+      "server_port": 80,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 95.66.127.224:80 #141"
+    },
+    {
+      "server": "62.150.41.1",
+      "server_port": 80,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 62.150.41.1:80 #142"
+    },
+    {
+      "server": "168.187.72.71",
+      "server_port": 8080,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 168.187.72.71:8080 #143"
+    },
+    {
+      "server": "168.187.72.71",
+      "server_port": 80,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 168.187.72.71:80 #144"
+    },
+    {
+      "server": "168.187.72.71",
+      "server_port": 8088,
+      "type": "http",
+      "tag": "🇰🇼 KW | VPN | HTTP 168.187.72.71:8088 #145"
+    },
+    {
+      "server": "185.19.77.115",
+      "server_port": 8080,
+      "type": "http",
+      "tag": "🇰🇼 KW | DIT | HTTP 185.19.77.115:8080 #146"
+    },
+    {
+      "server": "62.215.148.7",
+      "server_port": 3128,
+      "type": "http",
+      "tag": "🇰🇼 KW | PRX | HTTP 62.215.148.7:3128 #147"
+    },
+    {
+      "server": "114.198.238.16",
+      "server_port": 80,
+      "type": "http",
+      "tag": "🇰🇼 KW | PRX | HTTP 114.198.238.16:80 #148"
+    },
+    {
+      "server": "91.246.14.173",
+      "server_port": 8888,
+      "type": "http",
+      "tag": "🇰🇼 KW | PRX | HTTP 91.246.14.173:8888 #149"
+    },
+    {
+      "server": "31.214.27.218",
+      "server_port": 8080,
+      "type": "http",
+      "tag": "🇰🇼 KW | PRX | HTTP 31.214.27.218:8080 #150"
+    },
+    {
+      "server": "194.54.136.46",
+      "server_port": 1080,
+      "type": "socks",
+      "version": "4",
+      "network": "tcp",
+      "tag": "🇰🇼 KW | PRX | SOCKS 194.54.136.46:1080 #151"
+    }
+  ],
+  "route": {
+    "final": "MEGA-SCELTA"
+  }
+}
