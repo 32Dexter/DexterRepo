@@ -1,149 +1,147 @@
 HIDDIFY ITA MOD - PROXY LIST (UNICO JSON)
-Generato: 2026-11-03T19:39:16.605376
+Generato: 2026-11-04T06:43:22.392938
 Au1rxx: https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/singbox.json
 FastNodes: https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt + everything.txt + countries/XX.txt per Paesi arabi
 Litport: https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/all.json
-Litport nel nuovo JSON: 2973 nuovi/ripristinati; scartati 797; modalita LIVE
-Proxy manuali in proxy/Hiddify_IR.json aggiunti: 3
-Nodi nel file Proxy_List.json: 8835
-Nazioni etichettate: 104
-Duplicati scartati: 2817
-URI non convertibili o protocollo non supportato: 456
+Litport nel nuovo JSON: 2240 nuovi/ripristinati; scartati 951; modalita LIVE
+Proxy manuali in proxy/Hiddify_IR.json aggiunti: 4
+Nodi nel file Proxy_List.json: 8144
+Nazioni etichettate: 102
+Duplicati scartati: 2868
+URI non convertibili o protocollo non supportato: 446
 ATTENZIONE: paese solo dedotto da feed/etichette, nessuna verifica IP reale.
 ATTENZIONE: nessuna garanzia di funzionamento o affidabilita dei proxy.
 Litport HTTP: importati solo quelli indicati HTTPS CONNECT; non prova la navigazione reale.
 WireGuard endpoints del feed Au1rxx NON importati, per compatibilita MOD v0.1.
 MODALITA: CAMPIONATA
 
-??  Sconosciuti                85
-AD  Andorra                     1
-AE  Emirati Arabi Uniti         106
-AF  Afghanistan                 6
-AL  Albania                     54
+??  Sconosciuti                92
+AE  Emirati Arabi Uniti         107
+AF  Afghanistan                 2
+AL  Albania                     53
 AM  Armenia                     53
-AR  Argentina                   54
+AR  Argentina                   51
 AT  Austria                     54
 AU  Australia                   59
-AZ  Azerbaigian                 41
-BA  Bosnia                      28
-BD  Bangladesh                  68
-BE  Belgio                      50
-BG  Bulgaria                    73
-BH  Bahrein                     38
-BO  Bolivia                     7
-BR  Brasile                     92
-BY  Bielorussia                 56
-CA  Canada                      118
-CH  Svizzera                    221
-CL  Cile                        44
-CN  Cina                        73
-CO  Colombia                    182
-CR  Costa Rica                  6
-CY  Cipro                       61
-CZ  Repubblica Ceca             56
-DE  Germania                    241
-DK  Danimarca                   53
-DO  Repubblica Dominicana       15
+AZ  Azerbaigian                 42
+BA  Bosnia                      26
+BD  Bangladesh                  92
+BE  Belgio                      51
+BG  Bulgaria                    74
+BH  Bahrein                     36
+BO  Bolivia                     5
+BR  Brasile                     110
+BY  Bielorussia                 60
+CA  Canada                      121
+CH  Svizzera                    254
+CL  Cile                        48
+CN  Cina                        67
+CO  Colombia                    224
+CR  Costa Rica                  5
+CY  Cipro                       65
+CZ  Repubblica Ceca             54
+DE  Germania                    222
+DK  Danimarca                   52
+DO  Repubblica Dominicana       14
 DZ  Algeria                     3
-EC  Ecuador                     33
-EE  Estonia                     54
-EG  Egitto                      14
-ES  Spagna                      65
-FI  Finlandia                   64
-FR  Francia                     362
-GB  Regno Unito                 104
-GE  Georgia                     30
+EC  Ecuador                     29
+EE  Estonia                     53
+EG  Egitto                      11
+ES  Spagna                      68
+FI  Finlandia                   66
+FR  Francia                     337
+GB  Regno Unito                 119
+GE  Georgia                     33
 GH  Ghana                       2
-GR  Grecia                      52
-HK  Hong Kong                   164
+GR  Grecia                      54
+HK  Hong Kong                   180
 HR  Croazia                     29
-HU  Ungheria                    57
-ID  Indonesia                   211
-IE  Irlanda                     51
+HU  Ungheria                    56
+ID  Indonesia                   241
+IE  Irlanda                     52
 IL  Israele                     55
-IN  India                       137
-IQ  Iraq                        60
-IR  Iran                        65
+IN  India                       134
+IQ  Iraq                        58
+IR  Iran                        69
 IS  Islanda                     44
-IT  Italia                      70
-JO  Giordania                   42
-JP  Giappone                    219
-KE  Kenya                       19
-KG  Kirghizistan                7
-KR  Corea del Sud               115
+IT  Italia                      71
+JO  Giordania                   43
+JP  Giappone                    210
+KE  Kenya                       25
+KG  Kirghizistan                6
+KR  Corea del Sud               113
 KW  Kuwait                      2
 KZ  Kazakistan                  52
-LB  Libano                      2
-LT  Lituania                    51
+LT  Lituania                    52
 LU  Lussemburgo                 51
-LV  Lettonia                    60
-MA  Marocco                     3
-MD  Moldavia                    57
-ME  Montenegro                  2
-MK  Macedonia del Nord          17
-MM  Myanmar                     4
+LV  Lettonia                    64
+LY  Libia                       12
+MA  Marocco                     4
+MD  Moldavia                    66
+ME  Montenegro                  6
+MK  Macedonia del Nord          18
+MM  Myanmar                     5
 MN  Mongolia                    4
-MX  Messico                     84
-MY  Malaysia                    58
-NG  Nigeria                     11
-NL  Paesi Bassi                 427
-NO  Norvegia                    51
-NP  Nepal                       12
-NZ  Nuova Zelanda               30
+MX  Messico                     91
+MY  Malaysia                    54
+NG  Nigeria                     14
+NL  Paesi Bassi                 420
+NO  Norvegia                    50
+NP  Nepal                       8
+NZ  Nuova Zelanda               28
 OM  Oman                        27
-PA  Panama                      9
-PE  Peru                        22
-PH  Filippine                   59
-PK  Pakistan                    48
-PL  Polonia                     93
-PS  Palestina                   36
-PT  Portogallo                  32
-PY  Paraguay                    7
-QA  Qatar                       16
-RO  Romania                     56
-RS  Serbia                      61
-RU  Russia                      114
-SA  Arabia Saudita              99
-SE  Svezia                      66
-SG  Singapore                   235
-SI  Slovenia                    53
-SK  Slovacchia                  19
-SY  Siria                       5
-TH  Thailandia                  80
-TR  Turchia                     83
-TW  Taiwan                      80
-UA  Ucraina                     65
-US  Stati Uniti                 2105
-UY  Uruguay                     1
-UZ  Uzbekistan                  26
-VE  Venezuela                   32
-VN  Vietnam                     141
-YE  Yemen                       2
-ZA  Sudafrica                   62
+PA  Panama                      8
+PE  Peru                        23
+PH  Filippine                   65
+PK  Pakistan                    50
+PL  Polonia                     98
+PS  Palestina                   31
+PT  Portogallo                  34
+PY  Paraguay                    6
+QA  Qatar                       17
+RO  Romania                     60
+RS  Serbia                      63
+RU  Russia                      130
+SA  Arabia Saudita              102
+SE  Svezia                      67
+SG  Singapore                   221
+SI  Slovenia                    52
+SK  Slovacchia                  21
+SY  Siria                       10
+TH  Thailandia                  92
+TR  Turchia                     100
+TW  Taiwan                      83
+UA  Ucraina                     81
+US  Stati Uniti                 1274
+UZ  Uzbekistan                  20
+VE  Venezuela                   24
+VN  Vietnam                     68
+YE  Yemen                       1
+ZA  Sudafrica                   61
 
 === TUTTI I 22 PAESI ARABI (numero nodi nel JSON finale) ===
-AE Emirati Arabi Uniti         106 nodi | FastNodes dedicato: 132 righe lette, 50 nodi nuovi
-BH Bahrein                      38 nodi | FastNodes dedicato: 39 righe lette, 1 nodi nuovi
+AE Emirati Arabi Uniti         107 nodi | FastNodes dedicato: 130 righe lette, 50 nodi nuovi
+BH Bahrein                      36 nodi | FastNodes dedicato: 37 righe lette, 1 nodi nuovi
 DZ Algeria                       3 nodi | FastNodes dedicato: 3 righe lette, 0 nodi nuovi
 DJ Gibuti                        0 nodi | FastNodes dedicato: Non disponibile nella fonte
-EG Egitto                       14 nodi | FastNodes dedicato: 12 righe lette, 1 nodi nuovi
-IQ Iraq                         60 nodi | FastNodes dedicato: 97 righe lette, 6 nodi nuovi
-JO Giordania                    42 nodi | FastNodes dedicato: 56 righe lette, 2 nodi nuovi
+EG Egitto                       11 nodi | FastNodes dedicato: 11 righe lette, 1 nodi nuovi
+IQ Iraq                         58 nodi | FastNodes dedicato: 97 righe lette, 5 nodi nuovi
+JO Giordania                    43 nodi | FastNodes dedicato: 57 righe lette, 2 nodi nuovi
 KM Comore                        0 nodi | FastNodes dedicato: Non disponibile nella fonte
 KW Kuwait                        2 nodi | FastNodes dedicato: 5 righe lette, 2 nodi nuovi
-LB Libano                        2 nodi | FastNodes dedicato: Non disponibile nella fonte
-LY Libia                         0 nodi | FastNodes dedicato: Non disponibile nella fonte
-MA Marocco                       3 nodi | FastNodes dedicato: 4 righe lette, 0 nodi nuovi
+LB Libano                        0 nodi | FastNodes dedicato: Non disponibile nella fonte
+LY Libia                         12 nodi | FastNodes dedicato: Non disponibile nella fonte
+MA Marocco                       4 nodi | FastNodes dedicato: 5 righe lette, 0 nodi nuovi
 MR Mauritania                    0 nodi | FastNodes dedicato: Non disponibile nella fonte
 OM Oman                         27 nodi | FastNodes dedicato: 37 righe lette, 0 nodi nuovi
-PS Palestina                    36 nodi | FastNodes dedicato: 49 righe lette, 27 nodi nuovi
-QA Qatar                        16 nodi | FastNodes dedicato: 20 righe lette, 0 nodi nuovi
-SA Arabia Saudita               99 nodi | FastNodes dedicato: 152 righe lette, 47 nodi nuovi
+PS Palestina                    31 nodi | FastNodes dedicato: 39 righe lette, 27 nodi nuovi
+QA Qatar                        17 nodi | FastNodes dedicato: 20 righe lette, 0 nodi nuovi
+SA Arabia Saudita              102 nodi | FastNodes dedicato: 157 righe lette, 48 nodi nuovi
 SD Sudan                         0 nodi | FastNodes dedicato: Non disponibile nella fonte
 SO Somalia                       0 nodi | FastNodes dedicato: Non disponibile nella fonte
-SY Siria                         5 nodi | FastNodes dedicato: Non disponibile nella fonte
+SY Siria                        10 nodi | FastNodes dedicato: Non disponibile nella fonte
 TN Tunisia                       0 nodi | FastNodes dedicato: Non disponibile nella fonte
-YE Yemen                         2 nodi | FastNodes dedicato: Non disponibile nella fonte
+YE Yemen                         1 nodi | FastNodes dedicato: Non disponibile nella fonte
 
 IL NUMERO DI NODI NON EQUIVALE A NODI FUNZIONANTI.
 Bandiere/etichette non certificano IP di uscita o navigazione HTTPS.
@@ -153,14 +151,14 @@ HTTP/SOCKS nuovi: verificati con TLS e richiesta HTTPS da GitHub Actions
 Questo NON prova il funzionamento dal telefono o in ogni nazione
 NodesRadar: verifica dichiarata dalla fonte; non verificata qui con client V2Ray
 GeoLite Data (campi Paese Monosans) di MaxMind: https://www.maxmind.com (CC BY-SA 4.0)
-MN: Letti 2687 candidati HTTP/SOCKS; aggiunti: 37
-PF: Letti 11463 candidati HTTP/SOCKS; aggiunti: 7
-PS: Letti 5004 candidati HTTP/SOCKS; aggiunti: 4
-HP: Letti 8712 candidati HTTP/SOCKS; aggiunti: 43
-SP_HTTP: Letti 122 candidati HTTP/SOCKS; aggiunti: vedi SP
+MN: Letti 2441 candidati HTTP/SOCKS; aggiunti: 47
+PF: Letti 11678 candidati HTTP/SOCKS; aggiunti: 4
+PS: Letti 2416 candidati HTTP/SOCKS; aggiunti: 1
+HP: Letti 10862 candidati HTTP/SOCKS; aggiunti: 28
+SP_HTTP: Letti 176 candidati HTTP/SOCKS; aggiunti: vedi SP
 SP_SOCKS: Letti 800 candidati HTTP/SOCKS; aggiunti: vedi SP
-NR: Letti 120 V2Ray (verifica fonte, non verificati localmente); aggiunti: 34
-Nodi totali finali: 8835
+NR: Letti 120 V2Ray (verifica fonte, non verificati localmente); aggiunti: 39
+Nodi totali finali: 8144
 
 === GEOIP - COMPLETAMENTO AUTOMATICO PAESI ===
 Banca dati: sapics/ip-location-db / server-country (PDDL v1.0)
@@ -168,7 +166,7 @@ Verifica: localizzazione IP del SERVER, NON dell’IP di uscita VPN
 IPv4 disponibile: SI
 IPv6 disponibile: SI
 Proxy prima ZZ riclassificati: 7
-Proxy ancora non classificati: 85
+Proxy ancora non classificati: 92
 Nazioni assegnate mediante GeoIP: HK=5, US=2
-Motivi non classificati: hostname=42, ip=43
+Motivi non classificati: hostname=42, ip=50
 Nota: per hostname o dati ambigui non viene inventato alcun Paese.
